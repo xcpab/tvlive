@@ -416,7 +416,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
 深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
 深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
-深圳财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
+深圳财经生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
 深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
 深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
 深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
@@ -471,7 +471,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
+深圳财经生活,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
 深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
 深圳移动电视,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
 深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?id=7878
@@ -1378,6 +1378,8 @@ $石家庄
 德州图文,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dztw
 茌平综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 茌平生活 ,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
+仁寿综合,https://play.scrstv.com.cn/TV/xwzh.m3u8?auth_key=1724660870-0-0-a245e661caf0188f84e8e486754a80ce
+
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
@@ -1458,6 +1460,8 @@ $石家庄
 孝义综合,webview://https://yvimdxvzb.vzan.com/live/page/108629568?v=1754282568015
 绛县综合,webview://https://webcast.vyuan8.cn/vyuan/plugin.php?id=vyuan_zhibo&mod=viewpc&identify=5750712
 离石综合,http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
+平顺综合,http://player4.juyun.tv/tv/149466149.m3u8
+
 江苏,#genre#
 江苏卫视,webview://https://live.jstv.com
 江苏城市,webview://https://live.jstv.com/?channelId=669
@@ -1635,6 +1639,9 @@ $石家庄
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
+锦湖综合,rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
+锦湖综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
+曲昆新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 
 浙江,#genre#
 浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
@@ -2018,6 +2025,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 黄山文旅频道,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 黄山新闻综合,webview://http://www.hsnewsnet.com/web/tvnews/
 黄山文旅频道,webview://http://www.hsnewsnet.com/web/tvlife/
+黄山文旅频道,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 宿州新闻综合,webview://https://www.ahsz.tv/xwzh
 宿州科教生活,webview://https://www.ahsz.tv/kejiao
 宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -3286,6 +3295,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 凤凰资讯,webview://http://iptv.huuc.edu.cn/player.html?channel=fhzx
 凤凰电影,webview://http://iptv.huuc.edu.cn/player.html?channel=fhdy
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&3c07a18e5af1f837a274af2594563771776b5bbe0499b6e045e343a4c2e9f840
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,https://live.cdn.com.mp/live/fhzx/stream.m3u8
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&3c07a18e5af1f837a274af2594563771776b5bbe0499b6e045e343a4c2e9f840
 探索频道,webview://http://iptv.huuc.edu.cn/player.html?channel=discovery
 国家地理,webview://http://iptv.huuc.edu.cn/player.html?channel=natlgeo
@@ -3321,11 +3332,14 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
 澳门莲花,webview://https://www.lotustv.mo/#page1
 澳门莲花,webview://https://www.macaulotustv.cc/
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 台湾,#genre#
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
