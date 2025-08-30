@@ -113,8 +113,6 @@ CGTN俄语,webview://https://russian.cgtn.com/channel
 CGTN西语,webview://https://espanol.cgtn.com/en-directo
 CGTN法语,webview://https://francais.cgtn.com/channel
 CGTN阿语,webview://https://arabic.cgtn.com/channel
-CHC动作电影,webview://http://iptv.huuc.edu.cn/player.html?channel=chcatv
-CHC家庭影院,webview://http://iptv.huuc.edu.cn/player.html?channel=chctv
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
@@ -122,16 +120,6 @@ CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LST
 CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
-CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
-CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2 教育教学,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-3 北京地面,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
-CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
-1905电影网,webview://https://m.1905.com/m/xl/live/
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
-书画,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV-5 体育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
@@ -146,9 +134,25 @@ CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
+CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV-2 教育教学,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV-3 北京地面,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
+CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
+CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
+CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 CHC影迷电影,https://cqcb.iptv.darwinchow.com/chcgqdyHD
 CHC动作电影,https://cqcb.iptv.darwinchow.com/chcdzdyHD
 CHC家庭影院,https://cqcb.iptv.darwinchow.com/chcjtyyHD
+
+1905电影网,webview://https://m.1905.com/m/xl/live/
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
+书画,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
+
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -188,14 +192,6 @@ CHC家庭影院,https://cqcb.iptv.darwinchow.com/chcjtyyHD
 
 
 江西,#genre#
-江西卫视,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jiangxi
-江西都市,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv2
-江西经济生活,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv3
-江西公共农业,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv5
-江西少儿,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv6
-江西新闻,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv7
-江西陶瓷,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=taoci
-风尚购物,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jxtv9
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西都市,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 江西经济生活,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
@@ -601,7 +597,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 番禺综合,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=cb3eef99270b468f9f7ca8abce090afc&type=1&siteId=d755df8bb9fb49ee96052f7dee58d21b
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
-广东现代教育,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
+广东教育,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
@@ -2853,8 +2849,6 @@ $牡丹江
 锦江电视台,webview://https://www.cditv.cn/show/4844-590.html
 锦江电视台,webview://https://cando.cditv.cn/show-2762-1541-1.html
 高新电视台,webview://https://www.cditv.cn/show/4844-591.html
-每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
 
 绵阳新闻综合,webview://http://www.myntv.cn/html/zb/mytv1.asp
 绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
@@ -3060,12 +3054,12 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 内蒙古,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 内蒙古卫视,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=neimenggu
-内蒙古蒙语卫视,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgmy
+内蒙古蒙古语卫视,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgmy
 内蒙古新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgzh
 内蒙古经济生活,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgjjsh
 内蒙古少儿,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgse
 内蒙古文体娱乐,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgwtyl
-内蒙古蒙语文化,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgwh
+内蒙古蒙古语文化,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgwh
 内蒙古农牧,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=nmgnm
 呼和浩特新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=hhhtzh
 包头新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=baotou1
@@ -3104,12 +3098,12 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 巴彦淖尔新闻综合,webview://http://p.ytelc.com/169l/nmg/nmg.php?id=bynezh
 巴彦淖尔经济生活,http://livepull.bynesrmtzx.cn/bynermt/b68a0eec-2778-49f7-9fe6-600b8895e95a.m3u8
 巴彦淖尔影视娱乐,http://livepull.bynesrmtzx.cn/bynermt/91bd6ebf-3d58-4e3e-b5f6-db69d691c666.m3u8
-内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 内蒙古农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
 呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
@@ -3130,12 +3124,12 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 达茂新闻综合,webview://http://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
-内蒙古蒙语卫视,https://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙古语卫视,https://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古新闻综合,https://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙古经济生活,https://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 内蒙古少儿,https://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 内蒙古文体娱乐,https://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-内蒙古蒙语文化,https://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古蒙古语文化,https://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 内蒙古农牧,https://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 呼和浩特新闻综合,https://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 呼伦贝尔新闻综合,https://play1-qk.nmtv.cn/live/1735546791130040.m3u8
