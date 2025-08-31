@@ -142,9 +142,6 @@ CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace93
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
-CHC影迷电影,https://cqcb.iptv.darwinchow.com/chcgqdyHD
-CHC动作电影,https://cqcb.iptv.darwinchow.com/chcdzdyHD
-CHC家庭影院,https://cqcb.iptv.darwinchow.com/chcjtyyHD
 
 1905电影网,webview://https://m.1905.com/m/xl/live/
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -463,6 +460,7 @@ GRTN文化,webview://https://m.gdtv.cn/tvChannelDetail/75
 GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
 广东经济科教,webview://https://metoo-api.wjzpgz.com/live/index.html#/?liveCodeId=7d2a773236a1467da7e2e12cffa4c39b
+广东教育,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
 深圳卫视 4K,webview://https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
@@ -597,7 +595,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 番禺综合,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=cb3eef99270b468f9f7ca8abce090afc&type=1&siteId=d755df8bb9fb49ee96052f7dee58d21b
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
-广东教育,https://p2.vzan.com/slowlive/677282322271134305/live.m3u8
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
@@ -2770,8 +2767,6 @@ $牡丹江
 贵州科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州移动电视,webview://https://www.gzstv.com/tv/ch13
 贵阳新闻综合,webview://https://web.guangdianyun.tv/tv/3398?uin=4263
-贵阳经济生活,webview://https://web.guangdianyun.tv/tv/3399?uin=4263
-贵阳都市,webview://https://web.guangdianyun.tv/tv/3400?uin=4263
 铜仁新闻综合,webview://https://movement.gzstv.com/streams/videolive/84
 遵义新闻综合,webview://https://movement.gzstv.com/streams/videolive/78
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -3326,8 +3321,8 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
-澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
-澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳门葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+澳门葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
