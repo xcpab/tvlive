@@ -1950,8 +1950,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/907?uin=1118
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/908?uin=1118
 武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
