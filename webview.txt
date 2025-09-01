@@ -372,7 +372,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 重庆红岩文化,https://cqcb.iptv.darwinchow.com/cqssgwHD
 重庆新农村,https://cqcb.iptv.darwinchow.com/cqggncHD
 重庆社会与法,https://cqcb.iptv.darwinchow.com/cqtvtrendyHD
-重庆移动,https://cqcb.iptv.darwinchow.com/mryyHD
+重庆移动电视,https://cqcb.iptv.darwinchow.com/mryyHD
 重庆汽摩,https://cqcb.iptv.darwinchow.com/cqcarsd
 重广融媒,https://cqcb.iptv.darwinchow.com/cqrongmei
 合川综合,https://cqcb.iptv.darwinchow.com/hechuan
@@ -433,7 +433,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
-广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
+广东移动电视,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
 GRTN健康,webview://https://www.gdtv.cn/tvChannelDetail/99
@@ -452,7 +452,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 嘉佳卡通,webview://https://m.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://m.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://m.gdtv.cn/tvChannelDetail/15
-广东移动,webview://https://m.gdtv.cn/tvChannelDetail/74
+广东移动电视,webview://https://m.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://m.gdtv.cn/tvChannelDetail/100
 纪录片,webview://https://m.gdtv.cn/tvChannelDetail/94
 GRTN健康,webview://https://m.gdtv.cn/tvChannelDetail/99
@@ -1008,7 +1008,7 @@ $石家庄
 河南乡村,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv9
 武术世界,webview://http://p.ytelc.com/169l/henan/henan.php?id=wssj
 河南睛彩中原,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv11
-河南梨园,webview://http://p.ytelc.com/169l/henan/henan.php?id=liyuan
+梨园频道,webview://http://p.ytelc.com/169l/henan/henan.php?id=liyuan
 文物宝库,webview://http://p.ytelc.com/169l/henan/henan.php?id=wwbk
 河南移动戏曲,webview://http://p.ytelc.com/169l/henan/henan.php?id=ydxq
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
@@ -1556,7 +1556,7 @@ $石家庄
 无锡娱乐,webview://https://v2.thmz.com/folder4/folder1162/
 无锡经济,webview://https://v2.thmz.com/folder4/folder25/
 无锡生活,webview://https://v2.thmz.com/folder4/folder24/
-无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
+无锡移动电视,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
 无锡新闻综合,webview://http://bb-share.wifiwx.com/wxbb/share/live/?channel_id=4
 无锡都市资讯,webview://http://bb-share.wifiwx.com/wxbb/share/live?channel_id=9
 无锡娱乐,webview://http://bb-share.wifiwx.com/wxbb/share/live?channel_id=8
@@ -1567,7 +1567,7 @@ $石家庄
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=af4e6d4b1753167570
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
-无锡移动,https://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+无锡移动电视,https://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
 高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 宜兴综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
@@ -1961,7 +1961,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
 安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
-安徽移动,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
+安徽移动电视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
 安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
 安徽经济生活,webview,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
 安徽综艺体育,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
@@ -1969,7 +1969,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 安徽公共,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
 安徽农业科教,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
 安徽国际,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
-安徽移动,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
+安徽移动电视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
 淮北新闻综合,webview://https://www.hbnews.net/tv/
 淮北新闻综合,https://vms-x.hbnews.net/video/xwzh/index.m3u8
 淮北经济生活,https://vms-x.hbnews.net/video/JJSH/index.m3u8
@@ -2444,8 +2444,8 @@ $牡丹江
 农林卫视,webview://http://live.snrtv.com/nl
 农林卫视,webview://http://www.sxtvs.com/sxtvs_nlws/index.html
 农林卫视,http://lml1971.cn:35455/gptv/G_NONGLIN.m3u8
-陕西移动,webview://http://live.snrtv.com/11
-陕西移动,webview://http://www.sxtvs.com/sxtvs_ydpd/index.html
+陕西移动电视,webview://http://live.snrtv.com/11
+陕西移动电视,webview://http://www.sxtvs.com/sxtvs_ydpd/index.html
 榆林综合,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336843.shtml
 榆林文化旅游,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
 榆林综合,http://hplayer1.juyun.tv/camera/140908134.m3u8
@@ -2500,19 +2500,19 @@ $牡丹江
 甘肃公共应急,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsggyj
 甘肃少儿,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsse
 甘肃科教,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gskj
-甘肃移动,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsydds
+甘肃移动电视,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gsydds
 甘肃卫视,webview://http://www.dsk.cc/gstv/gszb.html?id=gsws
 甘肃文化影视,webview://http://www.dsk.cc/gstv/gszb.html?id=gsys
 甘肃公共应急,webview://http://www.dsk.cc/gstv/gszb.html?id=gsgg
 甘肃少儿,webview://http://www.dsk.cc/gstv/gszb.html?id=gsse
 甘肃科教,webview://http://www.dsk.cc/gstv/gszb.html?id=gsse
-甘肃移动,webview://http://www.dsk.cc/gstv/gszb.html?id=gsyd
+甘肃移动电视,webview://http://www.dsk.cc/gstv/gszb.html?id=gsyd
 甘肃卫视,https://hls.gstv.com.cn/skt649/1j6vl6.m3u8
 甘肃文化影视,https://hls.gstv.com.cn/skt649/c2q5n8.m3u8
 甘肃公共应急,https://hls.gstv.com.cn/skt649/4azk20.m3u8
 甘肃少儿,https://hls.gstv.com.cn/skt649/84hw5n.m3u8
 甘肃科教,https://hls.gstv.com.cn/skt649/c1867g.m3u8
-甘肃移动,https://hls.gstv.com.cn/skt649/qxucqk.m3u8
+甘肃移动电视,https://hls.gstv.com.cn/skt649/qxucqk.m3u8
 兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
 兰州新闻综合,webview://https://lanzhoubcnew.zainanjing365.com/share/live/detailTv?resourceId=12
@@ -2772,8 +2772,6 @@ $牡丹江
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻综合,webview://http://www.gzastv.cn/live/live.shtml
 安顺新闻综合,webview://http://https://app.gzastv.cn//television/live_wap_138891.html?site=53
-安顺公共,http://hplayer1.juyun.tv/camera/154526164.m3u8
-安顺公共,webview://https://app.gzastv.cn//television/live_wap_139347.html?site=53&color=007CD2
 六盘水新闻综合,https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
 六盘水公共,https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
 六盘水新闻综合,rtmp://tv.lpsrtv.com/channellive/ch1
