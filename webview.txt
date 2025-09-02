@@ -1587,6 +1587,8 @@ $石家庄
 靖江综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+锦湖新闻综合,rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
+锦湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
@@ -1632,9 +1634,6 @@ $石家庄
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
-锦湖综合,rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
-锦湖综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
-曲昆新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 
 浙江,#genre#
 浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
