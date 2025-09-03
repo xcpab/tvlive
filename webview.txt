@@ -142,7 +142,6 @@ CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace93
 CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
 CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
-
 1905电影网,webview://https://m.1905.com/m/xl/live/
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
@@ -183,10 +182,8 @@ CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playli
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
-兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252
 北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
 浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
-
 
 江西,#genre#
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
@@ -2809,8 +2806,6 @@ $牡丹江
 四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
 四川影视文艺,webview://http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/sctv/sctv.php?id=scyswy
-四川新闻,http://www.dsk.cc/p/video.html?id=http://www.dsk.cc/sctv/sctv.php?id=scxw
-
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
@@ -2926,7 +2921,6 @@ $牡丹江
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 东兴综合,http://dxpull.njdxrm.cn/live/93f6de420192100084d4e49300000000/playlist.m3u8?wsSecret=5af4267b22744b16a7d4bb75fed6b7e7&wsTime=2019657600
 资中综合,http://zzpull.zzrmtzx.cn/live/75c3758a0193100092e8cea100000000/playlist.m3u8?wsSecret=e40ab1fec464e16bb966fa960cc9ff30&wsTime=2019657600
-
 宜宾新闻综合,webview://https://m.ybtv.cc/tms/app/default/150997
 宜宾公共,webview://https://ybtv.cc/tms/app/default/1214936
 南溪综合,webview://https://tgslmevzb.vzan.com/live/page/311008060?v=1746245997000
@@ -2935,7 +2929,6 @@ $牡丹江
 叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8
 长宁综合,webview://http://cnh5.sccnfb.com/html/shareApp/live?id=35137_864eed3047524b99816a1c448688b1dd&userId=9c51ee10bab748829593efe0afa89db5&modality=0
-
 南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
 南充科教生活,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
 阆中综合,http://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
@@ -3377,6 +3370,4 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
 音乐欣赏1,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-音乐欣赏2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-音乐欣赏3,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 
