@@ -2692,13 +2692,9 @@ $牡丹江
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
 
 青海,#genre#
-青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
-青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
-青海都市,webview://https://www.qhbtv.com/new_index/live/folder2648/
-青海卫视,webview://http://gdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=13
-青海卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010028&contId=947472506
-青海经视,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=2
-青海都市,webview://http://share.qhbtv.com/?_hgOutLink=live/livedetail&channel_id=4
+青海卫视,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786181204964564992&company_id=1075
+青海经视,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786227316454875136&company_id=1075
+青海都市,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786227009616371712&company_id=1075
 西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
 西宁生活服务,webview://https://www.xntv.tv/xnshpd
 西宁新闻综合,webview://https://xiningbcnew.zainanjing365.com//share/live/detailTv?resourceId=5
