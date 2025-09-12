@@ -163,7 +163,7 @@ CECTV-3 国际教育,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/ch
 CECTV-3 国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CECTV-4 国际健康,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CECTV 美食文化,https://web.guangdianyun.tv/tv/?id=3782&uin=4251
+CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -1461,10 +1461,12 @@ $石家庄
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
 阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
 临汾新闻综合,webview://http://p.ytelc.com/169l/shanxi/shanxi2.php?id=linfen1
-临汾科教,webview://http://live.lfgdw.cn/lfj3/lfj3.m3u8?auth_key=1737526481-0-0-be06f75904e895e6e6e956a60a61476d
-临汾公共,webview://http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
+临汾新闻综合,http://36.134.77.251:9075/chain/live/lfj3/lfj3.flv?auth_key=1773973160-0-0-5c8e3945d6b70f841f8aeaab67bf1ee8
+临汾公共,http://36.134.77.251:9075/chain/live2/lfj2/lfj2.flv?auth_key=1773973326-0-0-92ce52094c76101b8ac31a9abf917acb
+临汾科教,http://36.134.77.251:9075/chain/live1/lfj1/lfj1.flv?auth_key=1773973310-0-0-501b8e0238fa4e5224d75f225f25007d
+临汾科教,webview://http://36.134.77.251:9075/channel/kandians
 运城综合,webview://http://p.ytelc.com/169l/shanxi/shanxi2.php?id=yuncheng1
-晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+晋中综合,webview://http://p.ytelc.com/169l/shanxi/shanxi2.php?id=jinzhongzh
 晋中综合,rtmp://jzlive.jztvnews.com:1940/live/jzzh
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 晋中公共,rtmp://jzlive.jztvnews.com:1940/live/jzgg
@@ -1485,6 +1487,7 @@ $石家庄
 芮城综合,webview://https://web.guangdianyun.tv/tv/?id=2511&uin=3580
 侯马综合,webview://https://web.guangdianyun.tv/tv/?id=2125&uin=2556
 曲沃新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1203&uin=2653
+朔州新闻综合,webview://http://p.ytelc.com/169l/shanxi/shanxi2.php?id=shuozhou1
 朔州新闻综合,webview://https://www.shuozhounews.cn/folder2074/folder2075/folder2079/
 山西卫视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_650.html
 黄河卫视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
