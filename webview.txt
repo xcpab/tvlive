@@ -3557,7 +3557,7 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-生活英语台,http://t.061899.xyz/tl/js/js.php?id=shyyt
+ELTV生活英语,http://t.061899.xyz/tl/js/js.php?id=shyyt
 经典剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 经典剧场,http://zzy789.xyz/douyu1.php?id=4246519
 经典影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
