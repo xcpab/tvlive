@@ -417,7 +417,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
 广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
 广州法治,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=fazhi
-广州影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=yingshi
 广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
 
 广东卫视 4K,webview://https://www.gdtv.cn/tvChannelDetail/110
@@ -475,12 +474,10 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州综合,webview://https://www.gztv.com/#/channel
 广州综合,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3000
 广州新闻,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3002
-广州影视,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3006
 广州法治,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3004
 广州南国都市,webview://http://app.gztv.com/plusshare/#/tvDetail?code=3003
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
-广州影视,https://tencentplaybusiness.gztv.com/live/yingshi.m3u8
 广州法治,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 广州南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
@@ -566,15 +563,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=cbfba109d1fef4ef29e93a1c6bba208e&txTime=19019e62015
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
-广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
@@ -3348,12 +3336,11 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 
 香港,#genre#
 AXN电影,http://iptv.4666888.xyz/iptv.php?id=20254
-Animaxa动漫,http://iptv.4666888.xyz/iptv.php?id=20258
+Animax,http://iptv.4666888.xyz/iptv.php?id=20258
 BBC_Earth,http://iptv.4666888.xyz/iptv.php?id=20279
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 ChannelV,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 ChannelV,webview://http://iptv.huuc.edu.cn/player.html?channel=channelv
@@ -3368,10 +3355,9 @@ HBO高清,http://iptv.4666888.xyz/iptv.php?id=20250
 HOY76,http://iptv.4666888.xyz/iptv.php?id=20077
 HOY77,http://iptv.4666888.xyz/iptv.php?id=20078
 HOY78,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
-History,http://iptv.4666888.xyz/iptv.php?id=20283
 Hub娱家,http://iptv.4666888.xyz/iptv.php?id=20287
 Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288
-KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
+FTV1,http://iptv.4666888.xyz/iptv.php?id=20290
 MOMO综合台,rtmp://f13h.mine.nu/sat/tv761
 MTV_Livea,http://iptv.4666888.xyz/iptv.php?id=20276
 MYTV_SUPER亚洲剧,http://iptv.4666888.xyz/iptv.php?id=20109
@@ -3380,14 +3366,8 @@ MYTV_SUPER粤语片,http://iptv.4666888.xyz/iptv.php?id=20112
 MYTV_SUPER经典,http://iptv.4666888.xyz/iptv.php?id=20107
 MYTV_SUPER黄金华剧,http://iptv.4666888.xyz/iptv.php?id=20108
 MYTV_SUPER黄金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
-POPC,http://iptv.4666888.xyz/iptv.php?id=20118
-POPC,http://tl.061833.xyz/tl/popc
-ROCK Entertainment,http://iptv.4666888.xyz/iptv.php?id=20275
 RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080
 RTHK32,http://iptv.4666888.xyz/iptv.php?id=20081
-TLC亚洲旅游,http://iptv.4666888.xyz/iptv.php?id=20272
-TRACE SPORTS STARS,http://t.061899.xyz/tl/js/js.php?id=tracesportsstars
-TRACE URBAN,http://t.061899.xyz/tl/js/js.php?id=traceurban
 TVB-EYT,http://iptv.4666888.xyz/iptv.php?id=20133
 TVB-Music,http://iptv.4666888.xyz/iptv.php?id=20134
 TVB-Plus,http://bxtv.3a.ink/api.php?id=tvbp
@@ -3396,7 +3376,6 @@ TVB-Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB-Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB-Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB-Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
-TVB-Sports,http://iptv.4666888.xyz/iptv.php?id=20135
 TVB-千禧经典台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB-千禧经典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB-千禧经典台,http://iptv.4666888.xyz/iptv.php?id=20105
@@ -3437,8 +3416,6 @@ TVB-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
 TVB-翡翠台,http://tl.061833.xyz/tl/null
-TVB-话当年,http://iptv.4666888.xyz/iptv.php?id=20139
-TVB-识叹,http://iptv.4666888.xyz/iptv.php?id=20140
 TVB-美食,http://iptv.4666888.xyz/iptv.php?id=20141
 TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142
 TVB1,http://iptv.4666888.xyz/iptv.php?id=20095
@@ -3554,23 +3531,22 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 爱奇艺,http://iptv.4666888.xyz/iptv.php?id=20238
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 ELTV生活英语,http://t.061899.xyz/tl/js/js.php?id=shyyt
+ELT生活旅游,http://iptv.4666888.xyz/iptv.php?id=20272
 经典剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 经典剧场,http://zzy789.xyz/douyu1.php?id=4246519
 经典影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 经典怀旧,https://mursor.ottiptv.cc/yy/1354210357
 经典神话,https://mursor.ottiptv.cc/yy/1354936231
-美亚电影台(港),http://iptv.4666888.xyz/iptv.php?id=20120
+美亚电影台,http://iptv.4666888.xyz/iptv.php?id=20120
 美亚电影台,http://iptv.4666888.xyz/iptv.php?id=20239
 美亚电影台,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美国之音,http://t.061899.xyz/tl/js/js.php?id=mgzy
-美食星球,http://iptv.4666888.xyz/iptv.php?id=20271
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1176544061.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
