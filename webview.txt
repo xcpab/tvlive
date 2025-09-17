@@ -1055,9 +1055,12 @@ $石家庄
 河南公共,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv8
 河南乡村,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv9
 武术世界,webview://http://p.ytelc.com/169l/henan/henan.php?id=wssj
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 河南睛彩中原,webview://http://p.ytelc.com/169l/henan/henan.php?id=hntv11
 梨园频道,webview://http://p.ytelc.com/169l/henan/henan.php?id=liyuan
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 文物宝库,webview://http://p.ytelc.com/169l/henan/henan.php?id=wwbk
+文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 河南移动戏曲,webview://http://p.ytelc.com/169l/henan/henan.php?id=ydxq
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
@@ -1066,7 +1069,6 @@ $石家庄
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南收藏,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
-武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 郑州新闻综合,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520#/
 郑州都市生活,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913#/
 郑州文体旅游,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392#/
@@ -1160,7 +1162,7 @@ $石家庄
 平顶山公共,http://live.dxhmt.cn:9080/13781808226/fd44664050dc4e8c8b1157e869721c0e.m3u8
 平顶山城市,http://live.dxhmt.cn:9080/13781808226/9cd43fb472b04787970623e77ae58199.m3u8
 平顶山教育,http://219.150.204.175:81/hls/live1.m3u8
-平顶山教育,http://219.150.204.175:81/hls/live1.m3u8#rtmp://219.150.204.175/live/live1
+平顶山教育,rtmp://219.150.204.175/live/live1
 平顶山教育,webview://http://zb.pdsedu.net.cn:8089/index.php?controller=LiveCast
 漯河新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 通许综合,webview://https://www.kftv.net.cn/info/939
@@ -2606,7 +2608,6 @@ $牡丹江
 庆阳文体旅游,https://play.kankanlive.com/live/1700643349159930.m3u8
 酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
 酒泉文旅,webview://https://cloud.kankanlive.com/cloud/h5/1702036477193973
-
 庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 永昌综合,http://play.kankanlive.com/live/1652755738635915.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
