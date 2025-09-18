@@ -480,6 +480,10 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 广州法治,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 广州南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活资讯,webview://https://dgrtv.sun0769.com/index.php/online2/5
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
@@ -1521,7 +1525,7 @@ $石家庄
 绛县综合,webview://https://webcast.vyuan8.cn/vyuan/plugin.php?id=vyuan_zhibo&mod=viewpc&identify=5750712
 离石综合,http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
 平顺综合,http://player4.juyun.tv/tv/149466149.m3u8
-
+宁武综合,https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8
 江苏,#genre#
 江苏卫视,webview://https://live.jstv.com
 江苏城市,webview://https://live.jstv.com/?channelId=669
@@ -1734,6 +1738,7 @@ $石家庄
 浙江国际,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=110
 浙江好易购,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=111
 浙江之江纪录,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=112
+浙江钱江,https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 杭州综合,webview://https://tv.hoolo.tv/hzzh/
 杭州西湖明珠,webview://https://tv.hoolo.tv/xhmz/
 杭州生活,webview://https://tv.hoolo.tv/hzsh/
@@ -1741,6 +1746,7 @@ $石家庄
 杭州青少体育,webview://https://tv.hoolo.tv/hzse/
 杭州导视,webview://https://tv.hoolo.tv/whpd/
 杭州综合,http://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
+杭州综合,https://ali-xwl.cztv.com:443/live/hangzhouds.m3u8
 宁波新闻综合,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
 宁波经济生活,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
 宁波都市文体,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
@@ -2098,7 +2104,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 广德生活,http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 广德新闻综合,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=14&dataObjId=26
 广德生活,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
-固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 灵璧新闻综合,webview://http://app.cms.anhuinews.com/video/videojs/index?site_id=10003&live_type=1&id=32
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
@@ -2991,7 +2996,7 @@ $牡丹江
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 营山电视台,http://tv.drs.ysxtv.cn:8100/channellive/ystv-bak.flv
 营山电视台,webview://http://m.ysxtv.cn/tms/app/ysrmt/64542
-
+青神综合,http://lmt.scqstv.com/live1/live1.m3u8
 达州新闻综合,webview://https://www.dzrm.cn/cms/tv
 达州新闻综合,webview://http://m.dzxw.net/tms/app/dz/297861
 达州文化生活,webview://https://www.dzrm.cn/cms/tv/13560089?
@@ -3336,7 +3341,7 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 兵团十三师新星综合,http://test5.btzx.com.cn:80/live/13TV.stream/playlist.m3u8
 
 香港,#genre#
-AXN电影,http://iptv.4666888.xyz/iptv.php?id=20254
+AXN,http://iptv.4666888.xyz/iptv.php?id=20254
 Animax,http://iptv.4666888.xyz/iptv.php?id=20258
 BBC_Earth,http://iptv.4666888.xyz/iptv.php?id=20279
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
