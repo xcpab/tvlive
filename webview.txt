@@ -494,11 +494,11 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 开平生活,webview://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
-河源新闻综合,webview://https://www.hyrtv.cn/itv/zhds/
-河源公共,webview://https://www.hyrtv.cn/itv/ggds/
-河源新闻综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
-河源新闻综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源综合,webview://https://www.hyrtv.cn/itv/zhds/
+河源生活,webview://https://www.hyrtv.cn/itv/ggds/
+河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源生活,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 五华综合,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 韶关新闻综合,webview://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
@@ -539,7 +539,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 佛山综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88888
 东莞新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88887
 潮州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88886
-河源新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88890
+河源综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88890
 惠州新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88891
 江门综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88892
 揭阳新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88893
@@ -768,6 +768,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 云溪新闻综合,webview://http://wap.yxqnews.com/live/index.html?liveid=1603
 攸县新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=158
 攸县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
+怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-3e3cb4d06441f98583bcb56552e0c5cd
+怀化经济生活,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-3e3cb4d06441f98583bcb56552e0c5cd
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -1738,7 +1740,7 @@ $石家庄
 浙江国际,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=110
 浙江好易购,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=111
 浙江之江纪录,webview://https://zmtv.cztv.com/ap/wap/mlive/index.shtml?cid=112
-浙江钱江,https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市,https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 杭州综合,webview://https://tv.hoolo.tv/hzzh/
 杭州西湖明珠,webview://https://tv.hoolo.tv/xhmz/
 杭州生活,webview://https://tv.hoolo.tv/hzsh/
@@ -2362,6 +2364,7 @@ $牡丹江
 
 吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
+四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 通化新闻综合,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8?_upt=d47e1e2a1743418704
@@ -2392,7 +2395,7 @@ $牡丹江
 公主岭综合,webview://http://foxz-www.plus.jlntv.cn/folder3584/folder3978
 公主岭综合,http://stream5.jlntv.cn/gzl/playlist.m3u8
 梨树新闻,http://stream6.jlntv.cn/ls/playlist.m3u8
-
+农安综合,https://stream2.jlntv.cn/naxw/sd/live.m3u8
 
 四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 
@@ -2408,11 +2411,13 @@ $牡丹江
 梅河口综合,webview://http://uufn-www.plus.jlntv.cn/meihekou/folder1759
 梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8
 集安综合,http://stream2.jlntv.cn/ja/playlist.m3u8
-
+集安综合,https://stream2.jlntv.cn/ja/sd/live.m3u8
 白山新闻综合,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=200
 白山旅游生活,webview://http://li1v-h5.plus.jlntv.cn/folder9921/folder9923/folder9925/folder9931/folder10083/folder10984?channel_id=198
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
+抚松综合,http://stream8.jlntv.cn/fs/sd/live.m3u8
+
 
 白城新闻综合,http://stream2.jlntv.cn/baicheng1/playlist.m3u8
 洮南综合,webview://http://ijz1-www.plus.jlntv.cn/taonan/folder2487
