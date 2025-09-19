@@ -139,12 +139,12 @@ CCTV-9 纪录,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liv
 CCTV-10 科教,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV-17 农业农村,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
-CETV-1 综合教育,webview://https://yangshipin.cn/tv/home?pid=600171827
-CETV-1 综合教育,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2 教育教学,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-3 北京地面,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
-CETV-4 职业教育,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4 职业教育,webview://https://edu.cctv.com/cetv/
+CETV1,webview://https://yangshipin.cn/tv/home?pid=600171827
+CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV3,webview://http://iptv.huuc.edu.cn/player.html?channel=cetv3
+CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+CETV4,webview://https://edu.cctv.com/cetv/
 CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 1905电影网,webview://https://m.1905.com/m/xl/live/
@@ -3367,7 +3367,6 @@ HOY77,http://iptv.4666888.xyz/iptv.php?id=20078
 HOY78,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
 Hub娱家,http://iptv.4666888.xyz/iptv.php?id=20287
 Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288
-FTV1,http://iptv.4666888.xyz/iptv.php?id=20290
 MOMO综合台,rtmp://f13h.mine.nu/sat/tv761
 MTV_Livea,http://iptv.4666888.xyz/iptv.php?id=20276
 MYTV_SUPER亚洲剧,http://iptv.4666888.xyz/iptv.php?id=20109
@@ -3468,8 +3467,6 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲美食,http://iptv.4666888.xyz/iptv.php?id=20270
-八大第一台,http://iptv.4666888.xyz/iptv.php?id=20197
-八大精彩台,http://t.061899.xyz/tl/js/js.php?id=bdjct
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8
@@ -3499,6 +3496,9 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8?txiptv&playlive
 动物星球,http://iptv.4666888.xyz/iptv.php?id=20277
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 半岛新闻,http://t.061899.xyz/tl/js/js.php?id=bdxw
 华视,http://iptv.4666888.xyz/iptv.php?id=20184
 华视,http://t.061899.xyz/tl/js/js.php?id=hdhs
@@ -3609,6 +3609,8 @@ ELT生活旅游,http://iptv.4666888.xyz/iptv.php?id=20272
 澳门资讯,http://iptv.4666888.xyz/iptv.php?id=20129
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 台湾,#genre#
+八大第一台,http://iptv.4666888.xyz/iptv.php?id=20197
+八大精彩台,http://t.061899.xyz/tl/js/js.php?id=bdjct
 三立iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
@@ -3636,9 +3638,6 @@ ELT生活旅游,http://iptv.4666888.xyz/iptv.php?id=20272
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天综合,http://iptv.4666888.xyz/iptv.php?id=20195
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 台视,http://iptv.4666888.xyz/iptv.php?id=20186
 台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
 台视新闻,http://jnzq.ohoyee.com:9080/live/ts.m3u8
