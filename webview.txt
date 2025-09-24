@@ -1411,6 +1411,9 @@ $石家庄
 东营新闻综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dyxwzh
 东营公共,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygg
 东营科教,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dykj
+东营新闻综合,http://stream.hhek.cn/xwzh/sd/live.m3u8
+东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8
+东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8
 广饶新闻综合,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygrzh
 广饶科教文艺,webview://http://www.dsk.cc/sdtv/iqlzb.html?id=dygrkj
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
@@ -1428,7 +1431,12 @@ $石家庄
 茌平综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 茌平生活 ,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
 仁寿综合,https://play.scrstv.com.cn/TV/xwzh.m3u8?auth_key=1724660870-0-0-a245e661caf0188f84e8e486754a80ce
-
+张店综合,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
+张店综合,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv01
+张店2,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
+张店2,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv02
+曹县新闻综合,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
+曹县新闻综合,rtmp://jsylivealone.iqilu.com/live/caoxian_tv01
 山西,#genre#
 山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
 山西卫视,webview://http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
