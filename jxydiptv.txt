@@ -7059,7 +7059,16 @@ CCTV-15 音乐,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888
 CCTV-13 新闻,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
 CCTV-17 农业农村,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 睛彩广场舞,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-
+CCTV16 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
+北京卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
+广东卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/1.m3u8?fmt=ts2hls$2160p
+深圳卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/1.m3u8?fmt=ts2hls$2160p
+山东卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/1.m3u8?fmt=ts2hls$2160p
+湖南卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/1.m3u8?fmt=ts2hls$2160p
+江苏卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/1.m3u8?fmt=ts2hls$2160p
+浙江卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/1.m3u8?fmt=ts2hls$2160p
+四川卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/1.m3u8?fmt=ts2hls$2160p
+东方卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/1.m3u8?fmt=ts2hls$2160p
 贵州卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 山东卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
 天津卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
@@ -7357,6 +7366,16 @@ CCTV-17 农业农村,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88
 睛彩广场舞,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226394/index.m3u8
 
+CCTV16 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
+北京卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
+广东卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/1.m3u8?fmt=ts2hls$2160p
+深圳卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/1.m3u8?fmt=ts2hls$2160p
+山东卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/1.m3u8?fmt=ts2hls$2160p
+湖南卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/1.m3u8?fmt=ts2hls$2160p
+江苏卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/1.m3u8?fmt=ts2hls$2160p
+浙江卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/1.m3u8?fmt=ts2hls$2160p
+四川卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/1.m3u8?fmt=ts2hls$2160p
+东方卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/1.m3u8?fmt=ts2hls$2160p
 贵州卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/1.m3u8?fmt=ts2hls$1080p
 山东卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/1.m3u8?fmt=ts2hls$1080p
 天津卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/1.m3u8?fmt=ts2hls$1080p
@@ -7485,7 +7504,6 @@ CGTN西语,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226372/1.m
 江西IPTV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226389/1.m3u8?fmt=ts2hls$1080p
 睛彩竞技,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226400/1.m3u8?fmt=ts2hls$1080p
 睛彩篮球,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226403/1.m3u8?fmt=ts2hls$1080p
-广东卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/1.m3u8?fmt=ts2hls$2160p
 赣州新闻综合,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226408/1.m3u8?fmt=ts2hls$1080p
 深圳卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/1.m3u8?fmt=ts2hls$2160p
 赣州教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226411/1.m3u8?fmt=ts2hls$1080p
@@ -7494,6 +7512,7 @@ CGTN西语,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226372/1.m
 九江新闻综合,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/1.m3u8?fmt=ts2hls$1080p
 九江公共,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/1.m3u8?fmt=ts2hls$1080p
 九江教育,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/1.m3u8?fmt=ts2hls$1080p
+
 湖南卫视 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/2/index.m3u8?fmt=ts2hls
 江苏卫视 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/2/index.m3u8?fmt=ts2hls
 浙江卫视 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls
@@ -7796,7 +7815,7 @@ CCTV-17 农业农村,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 国学苑,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226384/index.m3u8
 睛彩广场舞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
-
+欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
 4KUHD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/01.m3u8$2160p
 BRTV卡酷少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/01.m3u8$576p
 BRTV纪实科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/01.m3u8$1080p
