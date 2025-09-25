@@ -6766,6 +6766,16 @@ CGTN阿语,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/32212262
 金鹰纪实,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226198/2/index.m3u8
 
 #其他域名源
+CCTV-16 奥林匹克,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls$2160p
+北京卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8?fmt=ts2hls$2160p
+广东卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8?fmt=ts2hls$2160p
+深圳卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?fmt=ts2hls$2160p
+山东卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8?fmt=ts2hls$2160p
+湖南卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8?fmt=ts2hls$2160p
+江苏卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8?fmt=ts2hls$2160p
+浙江卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8?fmt=ts2hls$2160p
+四川卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?fmt=ts2hls$2160p
+东方卫视 4K,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226429/index.m3u8?fmt=ts2hls$2160p
 贵州卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 山东卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
 天津卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
@@ -7059,7 +7069,7 @@ CCTV-15 音乐,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888
 CCTV-13 新闻,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
 CCTV-17 农业农村,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 睛彩广场舞,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-CCTV16 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
+CCTV-16 奥林匹克,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
 北京卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
 广东卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/1.m3u8?fmt=ts2hls$2160p
 深圳卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/1.m3u8?fmt=ts2hls$2160p
@@ -7135,7 +7145,6 @@ CCTV风云音乐,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/888888
 CCTV世界地理,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226290/index.m3u8?fmt=ts2hls
 CCTV女性时尚,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226293/index.m3u8?fmt=ts2hls
 CCTV央视文化精品,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226296/index.m3u8?fmt=ts2hls
-
 CCTV高尔夫网球,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226299/index.m3u8?fmt=ts2hls
 CCTV风云足球,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226302/index.m3u8?fmt=ts2hls
 江西陶瓷,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?fmt=ts2hls
@@ -7366,7 +7375,7 @@ CCTV-17 农业农村,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88
 睛彩广场舞,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视 4K,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226394/index.m3u8
 
-CCTV16 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
+CCTV-16 奥林匹克,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/1.m3u8?fmt=ts2hls$2160p
 北京卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$2160p
 广东卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/1.m3u8?fmt=ts2hls$2160p
 深圳卫视 4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/1.m3u8?fmt=ts2hls$2160p
@@ -8227,9 +8236,9 @@ CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/S
 凤凰资讯,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhzixun/1.m3u8
 北京卫视,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/1.m3u8
 北京卫视,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/hdbeijingstv/1.m3u8
-北京卫视4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
+北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
 古装剧场,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8
-咪咕冬奥-雪上,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
+睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
 哈哈炫动,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
 哒啵电竞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/dabodj/1.m3u8
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/wmyx/1.m3u8
@@ -8391,9 +8400,9 @@ CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/S
 凤凰资讯,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhzixun/index.m3u8
 北京卫视,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/index.m3u8
 北京卫视,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/hdbeijingstv/index.m3u8
-北京卫视4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
+北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
 古装剧场,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/guzhuangjc/index.m3u8
-咪咕冬奥-雪上,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
+睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
 哈哈炫动,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
 哒啵电竞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/dabodj/index.m3u8
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/wmyx/index.m3u8
@@ -8542,9 +8551,9 @@ CCTV中视购物,http://117.169.120.98:8080/ysten-businessmobile/live/SD-1500k-5
 凤凰资讯,http://117.169.120.98:8080/ysten-businessmobile/live/fhzixun/1.m3u8
 北京卫视,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/1.m3u8
 北京卫视,http://117.169.120.98:8080/ysten-businessmobile/live/hdbeijingstv/1.m3u8
-北京卫视4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
+北京卫视 4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
 古装剧场,http://117.169.120.98:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8
-咪咕冬奥-雪上,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
+睛彩广场舞,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
 哈哈炫动,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
 哒啵电竞,http://117.169.120.98:8080/ysten-businessmobile/live/dabodj/1.m3u8
 哒啵赛事,http://117.169.120.98:8080/ysten-businessmobile/live/wmyx/1.m3u8
@@ -8706,9 +8715,9 @@ CCTV中视购物,http://117.169.120.98:8080/ysten-businessmobile/live/SD-1500k-5
 凤凰资讯,http://117.169.120.98:8080/ysten-businessmobile/live/fhzixun/index.m3u8
 北京卫视,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-beijingstv/index.m3u8
 北京卫视,http://117.169.120.98:8080/ysten-businessmobile/live/hdbeijingstv/index.m3u8
-北京卫视4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
+北京卫视 4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
 古装剧场,http://117.169.120.98:8080/ysten-businessmobile/live/guzhuangjc/index.m3u8
-咪咕冬奥-雪上,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
+睛彩广场舞,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
 哈哈炫动,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
 哒啵电竞,http://117.169.120.98:8080/ysten-businessmobile/live/dabodj/index.m3u8
 哒啵赛事,http://117.169.120.98:8080/ysten-businessmobile/live/wmyx/index.m3u8
