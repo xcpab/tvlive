@@ -228,6 +228,7 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
+吉安综合,webview://http://www.dsk.cc/jxtv/gy.php?id=ja1
 吉安综合,webview://http://p.ytelc.com/169l/jx/jiangxi.php?id=jianzh
 吉安公共,webview://http://www.ijatv.com/live/jatv2/
 赣州新闻综合,webview://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1
@@ -260,6 +261,7 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 萍乡公共,webview://http://tv.haoqu99.com/e/extend/tv.php?id=9695
 万载综合,http://play-a2.quklive.com/live/1739162440932308.m3u8
 彭泽综合,https://play-a2.quklive.com/live/1740970999257207.m3u8
+广丰综合,https://play-a2.quklive.com/live/1754033359790055.m3u8
 鹰潭综合,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
 鹰潭综合,webview://http://www.dsk.cc/p/gdy.html?id=ytzh
@@ -267,6 +269,7 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 定南综合,http://zhibo.jxxw.com.cn/live/chingytv.m3u8?txSecret=7d9f0a4680022a48521b10ac449d7f05&txTime=6A1BF750
 大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
 章贡综合,http://218.95.14.41:8000/hls/stream0.m3u8
+赣县综合,http://zhibo.jxxw.com.cn/live/ganxtv.m3u8?txSecret=5de6c9d1b218f12d37fafef4b49b8fc9&txTime=69F30AD9
 南康综合,http://zhibo.jxxw.com.cn:80/live/NKDST.m3u8?txSecret=21ec65635f3ba3c0aea94a430e6acf9e&txTime=ce703de3
 上犹综合,http://zhibo.jxxw.com.cn:80/live/shangytv.m3u8?txSecret=4f9e7f5fcfe547ad51992f5ef0e4aadf&txTime=69F30AD9
 信丰综合,http://zhibo.jxxw.com.cn/live/dingntv.m3u8?txSecret=343ddfceeecd29f43c7d7eb36fabfa39&txTime=69F30A3F
