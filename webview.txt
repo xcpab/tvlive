@@ -170,6 +170,8 @@ CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 
 卫视,#genre#
+浙江卫视 4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+四川卫视 4K,https://hcmmslivef.scgczm.com:443/live/2345_4k265hdr1080.m3u8
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
