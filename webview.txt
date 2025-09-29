@@ -170,6 +170,7 @@ CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 
 卫视,#genre#
+湖南卫视 4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视 4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 四川卫视 4K,https://hcmmslivef.scgczm.com:443/live/2345_4k265hdr1080.m3u8
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
