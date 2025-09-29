@@ -1,4 +1,5 @@
-江西移动,#genre#39.137.49.76
+江西移动,#genre#江苏卫视,http://117.169.26.2:6610/PLTV/88888910/224/3221225582/index.m3u8江苏卫视,http://117.169.26.2:6610/PLTV/88888888/224/3221225582/2/index.m3u8
+
 #3840x2160   一号源 移动域名源
 4KUHD,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
 北京卫视 4K,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226386/index.m3u8
