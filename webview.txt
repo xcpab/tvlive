@@ -158,7 +158,7 @@ CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playli
 书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
 书画,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-每经AI电视,webview://https://www.nbd.com.cn/corp/nbd_live/dist/index.html#/PC?id=3645
+每经AI电视,webview://https://www.nbd.com.cn/corp/AiTv/index.html
 CECTV-1 汉语文化,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-1 汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-2 国际旅游,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
