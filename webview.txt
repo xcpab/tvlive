@@ -491,6 +491,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+梅州综合,https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
+梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活资讯,webview://https://dgrtv.sun0769.com/index.php/online2/5
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
@@ -508,6 +510,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 河源生活,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 五华综合,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
+五华综合,http://pull-hsbj.vzan.com/v/slowlive_621139761151691240.m3u8
 韶关新闻综合,webview://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,webview://https://mudu.tv/live/watch/general/lkd3k27o
