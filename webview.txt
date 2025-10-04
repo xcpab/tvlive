@@ -2842,6 +2842,11 @@ $牡丹江
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 文山市新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+耿马综合,https://hwapi.yntv.net/48td74/1t0g2n.m3u8
+龙陵综合,https://hwapi.yntv.net/ey0321/l0vlci.m3u8
+隆阳综合,https://hwapi.yntv.net/5a6l75/0w8p8m.m3u8
+玉溪新闻综合,https://hwapi.yntv.net/r5fc3f/4kzlat.m3u8
+玉溪社会与法,https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8
 贵州,#genre#
 贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
 贵州公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch02
