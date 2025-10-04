@@ -2850,7 +2850,7 @@ $牡丹江
 隆阳综合,webview://https://www.lyqrmt.com/article/14/5.html
 隆阳综合,https://hwapi.yntv.net/5a6l75/0w8p8m.m3u8?tk=644f768284b02edab367f740e57d36a8&t=1759540893
 玉溪新闻综合,https://hwapi.yntv.net/r5fc3f/4kzlat.m3u8?tk=644f768284b02edab367f740e57d36a8&t=1759540893
-玉溪社会与法,https://hwapi.yntv.net/r5fc3f/4kzlat.m3u8?tk=644f768284b02edab367f740e57d36a8&t=1759540893
+玉溪社会与法,https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8?tk=42c4fad5f2044038b9d856c86c0b8372&t=1759542858
 玉溪新闻综合,webview://http://www.dsk.cc/yntv/ys.html?id=yxzh
 玉溪社会与法,webview://http://www.dsk.cc/yntv/ys.html?id=yxsf
 贵州,#genre#
