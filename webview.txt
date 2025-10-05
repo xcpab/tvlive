@@ -1870,6 +1870,7 @@ $石家庄
 柯桥新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 嵊州综合,webview://http://wap.szttkk.cn/#/WatchTv
 嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+嵊州综合,http://play-sh11.quklive.com/live/1626935015913208.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 诸暨综合,webview://http://wap.zjbtv.com/TV
 诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -1892,6 +1893,7 @@ $石家庄
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 平湖综合,webview://http://www.qukanvideo.com/cloud/h5/1690167908295069
 平湖综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+平湖综合,http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef
 普陀综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀综合,http://hls.quklive.com/live/play-sh-21.quklive.com/1679466742638079.m3u8?auth_key=2064373890-c1cd5677d4a741cfb30c8fb653215de2-0-5c0de7a5a2a6fd9ca87beb843ef63b6d
 普陀综合,webview://https://www.qukanvideo.com/cloud/h5/1679466742638079
@@ -1943,18 +1945,39 @@ $石家庄
 金华新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8
 磐安新闻综合,webview://http://www.qukanvideo.com/cloud/h5/1722331404917192
 磐安文化旅游,webview://http://www.qukanvideo.com/cloud/h5/1722333472632211
+磐安新闻综合,http://play-sh13.quklive.com/live/1722331404917192.m3u8?auth_key=2064369407-840e258222e242b4a8829702bf0496c0-0-a3e9f30d615b8c89374b903909d93b7e
+磐安文化旅游,http://play-sh13.quklive.com/live/1722333472632211.m3u8?auth_key=2064369649-14650371248f41cc8a58ede696e571dd-0-2972fc7e83cd2cc5d0dd75dec32bdea8
 永康新闻综合,webview://http://www.qukanvideo.com/cloud/h5/1625061424267104
 永康华溪,webview://http://www.qukanvideo.com/cloud/h5/1625062755227231
+永康新闻综合,http://play-sh13.quklive.com/live/1625061424267104.m3u8?auth_key=2064369916-5175b4328f5a4815bf426eb2843c287d-0-9bbcfcaa44b1add0f9ad717d1e70183f
+永康华溪,http://play-sh13.quklive.com/live/1625062755227231.m3u8?auth_key=2064370122-a4a517903af44daa9c833a605f3ce27b-0-7e12011519500f96efbefbf94dcf5931
 仙居新闻综合,webview://https://web.guangdianyun.tv/tv/1603?uin=2515
 丽水新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel09/1080p.m3u8
 衢州新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel08/1080p.m3u8
 台州新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel10/1080p.m3u8
 舟山新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel11/1080p.m3u8
 和合频道,webview://http://www.qukanvideo.com/cloud/h5/1617072208961931
+和合频道,http://play-sh13.quklive.com/live/1617072208961931.m3u8?auth_key=2064370572-8c2f1a173df04e44b0b00ee8ae3d4e14-0-aa5ec8de20d7114655a630fae203b719
 玉环新闻综合,webview://http://www.qukanvideo.com/cloud/h5/1728627049847070
+玉环新闻综合,http://play-sh13.quklive.com/live/1728627049847070.m3u8?auth_key=2064370783-bf8e5b55204c41edb38eaf4872e5ab16-0-f6c48bda9274d801cfab1a9a39f83914
+景宁电视台,http://play-sh13.quklive.com/live/1644806967279134.m3u8?auth_key=2064371059-b4eddf98288b4abeab7afe63e3de1e3b-0-4270d54e17c67e98044e343a39176566
 景宁电视台,webview://http://www.qukanvideo.com/cloud/h5/1644806967279134
 常山新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1621306190044902
 江山新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1623117710666335
+常山新闻综合,http://play-sh13.quklive.com/live/1621306190044902.m3u8?auth_key=2064374706-a845f255d7194af0a91f35f374802e77-0-e36c85cb0d6f7e683d7adcf5ffb35807
+江山新闻综合,http://play-sh13.quklive.com/live/1623117710666335.m3u8?auth_key=2064374936-279970252b6b460f87de3a36c317a33f-0-fe2ae623d22faeb93a12c1137e56befe
+开化新闻综合,http://play-sh13.quklive.com/live/1721295786810240.m3u8?auth_key=2064375117-5b7bceb650e94723965f3ead1446cb82-0-b15f90e9a40bf02710a3dbbec2f70a47
+衢江综合,http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=2064375472-41d63b8e9fa640e095524f887b847e00-0-994761d464fe3040362842f794f42c9f
+遂昌综合,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
+象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+萧山综合,http://play-sh13.quklive.com/live/1678438003663132.m3u8?auth_key=2064375677-bb8995ab85d243389946058528cc91d5-0-b52030f5311fbd6ad861a7c22ada7a13
+余姚姚江文化,http://play-sh13.quklive.com/live/1728440422705076.m3u8?auth_key=2064364726-003057852bcb4a36a19996ab067e84a7-0-84bb8ddb1088d37c36c90f82e5531219
+苍南新闻综合,http://hls.quklive.com/live/play-sh-21.quklive.com/1726543353849105.m3u8?auth_key=2064365220-c09cf6680f96440ba7cd4da94432c20c-0-c119fc6d113674617adad84a908927e1
+洞头综合,http://hls.quklive.com/live/play-sh-21.quklive.com/1735612228127376.m3u8?auth_key=2064365882-c711d773a9d54104923d917e511e9b33-0-adc32957143aeb14b02c0e1cf1050796
+瑞安新闻综合,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2039920481-e6234a8197034f1aa2b599714ed35d2a-0-6a8a3bd9c5887ff42c5fbfd0c42e2aee
+长兴新闻,http://play-a11.quklive.com/live/1689126294179076.m3u8
+武义综合,http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2064370307-c7eb1320375948e7a1cb15855f689bdd-0-315ee5908d9cededc1ca4c53117406b0
+龙泉综合,http://play-sh13.quklive.com/live/1721354859785237.m3u8?auth_key=2064371299-81b46b11fb4b4948b8b272f34aa37317-0-25b98db04c6680ed171e0140abc2e938
 
 
 海南,#genre#
