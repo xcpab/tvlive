@@ -170,6 +170,15 @@ CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 
 卫视,#genre#
+北京卫视4K,https://www.shqsy.com/zgst.php?id=btv4k
+东方卫视4K,https://www.shqsy.com/zgst.php?id=sh4k
+江苏卫视4K,https://www.shqsy.com/zgst.php?id=js4k
+浙江卫视4K,https://www.shqsy.com/zgst.php?id=zj4k
+山东卫视4K,https://www.shqsy.com/zgst.php?id=sd4k
+湖南卫视4K,https://www.shqsy.com/zgst.php?id=hn4k
+广东卫视4K,https://www.shqsy.com/zgst.php?id=gd4k
+四川卫视4K,https://www.shqsy.com/zgst.php?id=sc4k
+深圳卫视4K,https://www.shqsy.com/zgst.php?id=sz4k
 湖南卫视 4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视 4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 四川卫视 4K,https://hcmmslivef.scgczm.com:443/live/2345_4k265hdr1080.m3u8
