@@ -170,17 +170,6 @@ CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 
 卫视,#genre#
-广东卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=gd4k
-北京卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=btv4k
-江苏卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=js4k
-东方卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=sh4k
-广东卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=gd4k
-浙江卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=zj4k
-山东卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=sd4k
-湖南卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=hn4k
-四川卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=sc4k
-深圳卫视 4K,javascript://https://gh-proxy.com/https://raw.githubusercontent.com/xcpab/mytvJS/main/js/wscgq.js?id=sz4k
-
 北京卫视4K,http://tp88.cn/net/iptv.php?id=北京卫视4K
 东方卫视4K,http://tp88.cn/net/iptv.php?id=东方卫视4K
 江苏卫视4K,http://tp88.cn/net/iptv.php?id=江苏卫视4K
