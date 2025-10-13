@@ -834,9 +834,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
+武汉新闻综合,webview://https://m.hannews.com.cn/stream?id=309413&sign=b869e2cbf
 武汉教育,webview://http://tv.zimtv.cn/88.html
-武汉教育,https://act-pull.whjyapp.com/live/media70c1bb4720fa939469b2dcc413f8bb55.m3u8?txSecret=a71aa482d8ef8f37e4feac2b39c0d6a8&txTime=68C618F4
-武汉教育,webview://https://www.wetv.com.cn/list/53?layout=0&title=%E7%9B%B4%E6%92%AD
+武汉教育,webview://https://www.wetv.com.cn/LiveList
 襄阳综合,webview://https://web.guangdianyun.tv/tv/?id=3061&uin=1500
 襄阳公共,webview://https://web.guangdianyun.tv/tv/?id=2337&uin=1500
 襄阳经济生活,webview://https://web.guangdianyun.tv/tv/?id=2675&uin=1500
@@ -1146,7 +1146,7 @@ $石家庄
 商丘新闻综合,webview://http://www.dsk.cc/hntv/hnxl.html?id=sq1
 
 三门峡新闻综合,webview://http://www.dsk.cc/hntv/hnxl.html?id=smx1
-
+台前新闻综合,webview://https://share.hntv.tv/news/3/1975387813546733570
 周口新闻综合,webview://http://www.dsk.cc/hntv/hnxl.html?id=zk1
 周口新闻综合,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.yszkapp.cn:18080/mms4.6.3&token=pmqhukcpyipvqmoz
 周口新闻综合,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=4&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
@@ -1223,6 +1223,7 @@ $石家庄
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 内乡综合,http://live.dxhmt.cn:9081/tv/11325-1.m3u8
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+内乡综合,webview://https://www.hntv.tv/news/3/1952931332015620097
 内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 华龙有线,http://live.dxhmt.cn:9081/tv/10902-1.m3u8
@@ -2857,6 +2858,10 @@ $牡丹江
 曲靖综合,http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
 曲靖科教,http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
 清廉曲靖,http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
+曲靖综合,webview://http://zsqj.qjrb.cn/live_detail?newsid=27046094_qjrb
+曲靖科教,webview://http://zsqj.qjrb.cn/live_detail?newsid=27046104_qjrb
+清廉曲靖,webview://http://zsqj.qjrb.cn/live_detail?newsid=27046098_qjrb
+
 师宗综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 师宗综合,webview://https://szrmapp.szrmxw.cn/application/tenma01ds_tvradio/view/h5/#/?id=1
 陆良电视台,https://hwapi.yntv.net/9327b6/v8i7rf.m3u8
@@ -3220,6 +3225,8 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 内蒙古农牧,webview://http://http://www.kaniptv.cn/aa/内蒙.php?id=nmnm
 呼和浩特新闻综合,webview://http://www.kaniptv.cn/aa/内蒙.php?id=hhht1
 包头新闻综合,webview://http://www.kaniptv.cn/aa/内蒙.php?id=bt1
+包头新闻综合,webview://https://iapp.baotounews.com.cn/share/dHZsLTY4OS0xMQ.html
+包头经济,webview://https://iapp.baotounews.com.cn/share/dHZsLTY4OS0zNQ.html
 鄂尔多斯新闻综合,webview://http://www.kaniptv.cn/aa/内蒙.php?id=erds1
 鄂尔多斯蒙语综合,http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
 鄂尔多斯蒙语综合,http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
