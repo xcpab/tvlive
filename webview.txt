@@ -1724,9 +1724,9 @@ $石家庄
 宁波都市文体,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
 宁波影视剧,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 宁波新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel02/1080p.m3u8
-绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
-绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
-绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
+绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/78
+绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/75
+绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/74
 温岭新闻综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639
 温岭民生休闲,webview://https://web.guangdianyun.tv/tv/?id=1287&uin=1639
 温岭新闻综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
