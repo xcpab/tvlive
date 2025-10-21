@@ -1489,6 +1489,7 @@ $石家庄
 娄烦综合,https://d2lp2ch2.live.sxmty.com/live/hls/dd05b3d63074444abe815913a24d3a35/4c59b61fb67f4a45b7fa1f8416b9fffb-1.m3u8
 屯留综合,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 霍州综合,https://iwlbdjk7.live.sxmty.com/live/hls/768ce7880a2545daac8d20a1910a399b/72b4712ef0224990ab744552c190f28c.m3u8
+霍州综合,webview://https://tdlive.sxmty.com/live.php?id=109758
 霍州综合,webview://https://huozhou.qmtzy.sxmty.com///television/live_wap_3.html
 清徐综合,webview://https://web.guangdianyun.tv/tv/?id=2988&uin=4048
 灵丘融媒,webview://http://juxian.juyun.tv/live_watch.php?id=150434
@@ -2187,6 +2188,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 讷河综合,webview://https://newnehe.center.dbw.cn/television/live_wap_12332.html
 齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8
 富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
+富裕综合,https://rmplive.hljtv.com/live/fuyu.m3u8
 富裕综合,webview://https://www.161200.com/plugin.php?id=xigua_diy&pid=9
 同江综合,webview://https://newtongjiang.center.dbw.cn/television/live_wap_2163.html
 同江综合,https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
@@ -2235,6 +2237,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
 巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+巴彦综合,https://rmplive.hljtv.com/live/bayan.m3u8
 东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
 东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
 五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
@@ -2258,6 +2261,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 嘉荫综合,https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
 嘉荫综合,https://rmplive.hljtv.com/live/jiayin.m3u8
 嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+嫩江综合,https://rmplive.hljtv.com/live/nenjiang.m3u8
 孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
 孙吴综合,https://rmplive.hljtv.com/live/sunwu.m3u8
 宁安综合,webview://https://web.guangdianyun.tv/tv/?id=2475&uin=3543
@@ -2272,6 +2276,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 密山综合,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
 密山综合,https://rmplive.hljtv.com/live/mishan.m3u8
 明水综合,https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
+明水综合,https://rmplive.hljtv.com/live/mingshui.m3u8
 富锦综合,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
 尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
 尚志综合,https://rmplive.hljtv.com/live/shangzhi.m3u8
@@ -2297,6 +2302,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 海伦综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
 海伦综合,https://rmplive.hljtv.com/live/hailun.m3u8
 海林综合,https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+海林综合,https://rmplive.hljtv.com/live/hailin.m3u8
 穆棱综合,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
 穆棱综合,https://rmplive.hljtv.com/live/muleng.m3u8
 绥棱综合,https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
@@ -2308,20 +2314,26 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
 虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
 讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+讷河综合,https://rmplive.hljtv.com/live/nehe.m3u8
 铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
 铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
 青冈综合,https://masterpull.hljtv.com/live/bJGIloJe.m3u8
 青冈综合,https://rmplive.hljtv.com/live/qinggang.m3u8
 庆安综合,https://masterpull.hljtv.com/live/ayksl1Ur.m3u8
+庆安综合,https://rmplive.hljtv.com/live/qingan.m3u8
 饶河综合,https://masterpull.hljtv.com/live/DokNxER6.m3u8
 饶河综合,https://rmplive.hljtv.com/live/raohe.m3u8
 鸡东综合,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
+鸡东综合,https://rmplive.hljtv.com/live/jidong.m3u8
 龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
 龙江综合,https://rmplive.hljtv.com/live/longjiang.m3u8
 呼兰综合,https://masterpull.hljtv.com/live/zja8TAIO.m3u8
 呼兰综合,https://rmplive.hljtv.com/live/hulan.m3u8
 方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
 方正综合,https://rmplive.hljtv.com/live/fangzheng.m3u8
+肇东综合,https://rmplive.hljtv.com/live/zhaodong.m3u8
+友谊综合,https://rmplive.hljtv.com/live/youyi.m3u8
+五大连池综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
 
 
 吉林,#genre#
