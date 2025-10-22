@@ -2367,7 +2367,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林综艺文化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
-
+吉林卫视,http://live1.jzjsnm.cn/live1/jilin_sd.m3u8?auth_key=1674380621741-0-0-a26770b1097eceabd72b4c3d7f26be5b
+吉林都市,http://live1.jzjsnm.cn/live1/jishidushi.m3u8?auth_key=1674380330033-0-0-b8c9ed7f3a790cf65454850352106e7e
+吉林生活,http://live1.jzjsnm.cn/live1/jishishenghuo.m3u8?auth_key=1674380476676-0-0-cd401b455ebeb76bd3a057bccd6c89b8
+吉林影视,http://live1.jzjsnm.cn/live1/jishiyingshi.m3u8?auth_key=1674380437010-0-0-2823bd78571c8e4ad0fa5a7c79736217
+吉林乡村,http://live1.jzjsnm.cn/live1/jishixiangcun.m3u8?auth_key=1674380589625-0-0-8edf21ffa5a7c0910baca4085d788b29
 吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
