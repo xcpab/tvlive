@@ -1489,6 +1489,7 @@ $石家庄
 娄烦综合,https://d2lp2ch2.live.sxmty.com/live/hls/dd05b3d63074444abe815913a24d3a35/4c59b61fb67f4a45b7fa1f8416b9fffb-1.m3u8
 屯留综合,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 霍州综合,https://iwlbdjk7.live.sxmty.com/live/hls/768ce7880a2545daac8d20a1910a399b/72b4712ef0224990ab744552c190f28c.m3u8
+霍州综合,webview://https://tdlive.sxmty.com/live.php?id=109758
 霍州综合,webview://https://huozhou.qmtzy.sxmty.com///television/live_wap_3.html
 清徐综合,webview://https://web.guangdianyun.tv/tv/?id=2988&uin=4048
 灵丘融媒,webview://http://juxian.juyun.tv/live_watch.php?id=150434
@@ -1945,6 +1946,25 @@ $石家庄
 福建少儿,webview://https://live.fjtv.net/sepd/
 海峡卫视,webview://https://live.fjtv.net/hxtv/
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
+福建综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248990102917120
+东南卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248966136664064
+福建公共,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248940467523584
+福建新闻,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248914378952704
+福建电视剧,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248891478052864
+福建旅游,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248752898248704
+福建经济,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248614498799616
+福建文体,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248584991870976
+福建少儿,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248553475870720
+海峡卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=665248523855695872
+福州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=731087090473676800
+漳州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727214415649083392
+泉州新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727572738755977216
+三明新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727216678547394560
+莆田新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727213694589505536
+南平新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727216450918322176
+龙岩新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727212352215093248
+宁德新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727213159174017024
+平潭新闻综合,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727574414028103680
 厦门卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727571808803282944
 厦门卫视,http://36.32.99.146:5003/xmws.m3u8
 厦门综合,https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
@@ -2168,6 +2188,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 讷河综合,webview://https://newnehe.center.dbw.cn/television/live_wap_12332.html
 齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8
 富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
+富裕综合,https://rmplive.hljtv.com/live/fuyu.m3u8
 富裕综合,webview://https://www.161200.com/plugin.php?id=xigua_diy&pid=9
 同江综合,webview://https://newtongjiang.center.dbw.cn/television/live_wap_2163.html
 同江综合,https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
@@ -2216,6 +2237,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
 巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+巴彦综合,https://rmplive.hljtv.com/live/bayan.m3u8
 东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
 东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
 五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
@@ -2239,6 +2261,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 嘉荫综合,https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
 嘉荫综合,https://rmplive.hljtv.com/live/jiayin.m3u8
 嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+嫩江综合,https://rmplive.hljtv.com/live/nenjiang.m3u8
 孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
 孙吴综合,https://rmplive.hljtv.com/live/sunwu.m3u8
 宁安综合,webview://https://web.guangdianyun.tv/tv/?id=2475&uin=3543
@@ -2253,6 +2276,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 密山综合,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
 密山综合,https://rmplive.hljtv.com/live/mishan.m3u8
 明水综合,https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
+明水综合,https://rmplive.hljtv.com/live/mingshui.m3u8
 富锦综合,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
 尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
 尚志综合,https://rmplive.hljtv.com/live/shangzhi.m3u8
@@ -2278,6 +2302,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 海伦综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
 海伦综合,https://rmplive.hljtv.com/live/hailun.m3u8
 海林综合,https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+海林综合,https://rmplive.hljtv.com/live/hailin.m3u8
 穆棱综合,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
 穆棱综合,https://rmplive.hljtv.com/live/muleng.m3u8
 绥棱综合,https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
@@ -2289,20 +2314,26 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
 虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
 讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+讷河综合,https://rmplive.hljtv.com/live/nehe.m3u8
 铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
 铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
 青冈综合,https://masterpull.hljtv.com/live/bJGIloJe.m3u8
 青冈综合,https://rmplive.hljtv.com/live/qinggang.m3u8
 庆安综合,https://masterpull.hljtv.com/live/ayksl1Ur.m3u8
+庆安综合,https://rmplive.hljtv.com/live/qingan.m3u8
 饶河综合,https://masterpull.hljtv.com/live/DokNxER6.m3u8
 饶河综合,https://rmplive.hljtv.com/live/raohe.m3u8
 鸡东综合,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
+鸡东综合,https://rmplive.hljtv.com/live/jidong.m3u8
 龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
 龙江综合,https://rmplive.hljtv.com/live/longjiang.m3u8
 呼兰综合,https://masterpull.hljtv.com/live/zja8TAIO.m3u8
 呼兰综合,https://rmplive.hljtv.com/live/hulan.m3u8
 方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
 方正综合,https://rmplive.hljtv.com/live/fangzheng.m3u8
+肇东综合,https://rmplive.hljtv.com/live/zhaodong.m3u8
+友谊综合,https://rmplive.hljtv.com/live/youyi.m3u8
+五大连池综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
 
 
 吉林,#genre#
@@ -2336,7 +2367,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林综艺文化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
-
+吉林卫视,http://live1.jzjsnm.cn/live1/jilin_sd.m3u8?auth_key=1674380621741-0-0-a26770b1097eceabd72b4c3d7f26be5b
+吉林都市,http://live1.jzjsnm.cn/live1/jishidushi.m3u8?auth_key=1674380330033-0-0-b8c9ed7f3a790cf65454850352106e7e
+吉林生活,http://live1.jzjsnm.cn/live1/jishishenghuo.m3u8?auth_key=1674380476676-0-0-cd401b455ebeb76bd3a057bccd6c89b8
+吉林影视,http://live1.jzjsnm.cn/live1/jishiyingshi.m3u8?auth_key=1674380437010-0-0-2823bd78571c8e4ad0fa5a7c79736217
+吉林乡村,http://live1.jzjsnm.cn/live1/jishixiangcun.m3u8?auth_key=1674380589625-0-0-8edf21ffa5a7c0910baca4085d788b29
 吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=2ea51c5c1743066817
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
@@ -2352,15 +2387,13 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 舒兰融媒,webview://http://h5-sl.jlntv.cn/front-cloudlive-manage-h5/index.html?id=788363220158119936
 舒兰融媒,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 
-长春综合,webview://https://chinactv.com/live/1442880654565093377.html
-长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
-长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
-长春综合,webview://https://bixlotvzb.vzan.com/live/page/1350688141?v=1745545151000
-长春文旅体育,webview://https://bixlotvzb.vzan.com/live/page/553548293?v=1745545205000
-长春市民生活,webview://https://bixlotvzb.vzan.com/live/page/1742621406?v=1745545232000
 长春综合,webview://https://ccms.njgdmm.com/changchun/api/api-bc/share/live/detailTv?resourceId=36
 长春文旅体育,webview://https://ccms.njgdmm.com/changchun/api/api-bc/share/live/detailTv?resourceId=37
 长春市民生活,webview://https://ccms.njgdmm.com/changchun/api/api-bc/share/live/detailTv?resourceId=38
+长春综合,webview://https://chinactv.com/live/1442880654565093377.html
+长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
+长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
+
 长春综合,https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 长春综合,http://stream2.jlntv.cn/jlcc/sd/live.m3u8
 长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
@@ -2623,17 +2656,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 宁夏,#genre#
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
-宁夏卫视,webview://https://www.nxtv.com.cn/tv/ws/
-宁夏公共,webview://https://www.nxtv.com.cn/tv/gg/
-宁夏经济,webview://https://www.nxtv.com.cn/tv/jj/
-宁夏少儿,webview://https://www.nxtv.com.cn/tv/se/
-宁夏文旅,webview://https://www.nxtv.com.cn/tv/ys/
 宁夏卫视,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxws/
 宁夏公共,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxgg/
 宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
 宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse/
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
-银川公共,webview://https://www.ycen.com.cn/zzgn/zhibo/
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
 银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
