@@ -1676,6 +1676,7 @@ $石家庄
 连云港新闻综合,webview://https://m.miguvideo.com/m/liveDetail/639731715?channelId=10010001005
 盐都综合,http://1033946631.cloudvdn.com/a.m3u8?domain=yandu-tv-rtmp.cm.jstv.com&player=1&streamid=yandu-tv:yandu-tv/yanduzh&v3=1
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
+宿迁综合,http://play.tvlive.sqsjt.net/live/sqzhpd.m3u8?txSecret=e0c5c35c080b8c282ae74d63d0223b12&txTime=68FBA27F
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
 
