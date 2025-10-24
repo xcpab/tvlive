@@ -1358,12 +1358,12 @@ $石家庄
 潍坊公共,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 淄博新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
-泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
 泰安综合,webview://http://live.1545ts.net/zhibotatv1.html
-泰安综合,http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
-泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
+泰安综合,https://vod2023.tajn.cn/live/tahd01.m3u8?hls_ctx=tnw59vf7
 泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
-泰安经济生活,http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+泰安经济生活,https://vod2023.tajn.cn/live/tahd02.m3u8?hls_ctx=q02b738u
+泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
+泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
 枣庄新闻综合,http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi1.m3u8
 枣庄公共,http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.m3u8
 枣庄经济生活,http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi2.m3u8
