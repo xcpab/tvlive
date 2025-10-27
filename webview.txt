@@ -1341,6 +1341,11 @@ $石家庄
 青岛影视,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
 青岛文化娱乐,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
 青岛教育,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛新闻综合,webview://http://http://m.qdntv.cn/qd.html?id=qtv1
+青岛经济生活,webview://http://http://m.qdntv.cn/qd.html?id=qtv2
+青岛影视,webview://http://http://m.qdntv.cn/qd.html?id=qtv3
+青岛文化娱乐,webview://http://m.qdntv.cn/qd.html?id=qtv4
+青岛教育,webview://http://http://m.qdntv.cn/qd.html?id=qtv5
 菏泽新闻综合,webview://https://web.guangdianyun.tv/tv/3492?uin=4042
 菏泽公共,webview://https://web.guangdianyun.tv/tv/3493?uin=4042
 菏泽影视,webview://https://web.guangdianyun.tv/tv/3520?uin=4042
