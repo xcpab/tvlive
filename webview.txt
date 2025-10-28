@@ -1686,6 +1686,8 @@ $石家庄
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
 
 浙江,#genre#
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
 浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
 浙江经济生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
@@ -2866,6 +2868,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 七星关综合,webview://https://live.qxgrmt.cn/live/page/596003550?v=1750941332000
 
 四川,#genre#
+四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
