@@ -104,9 +104,6 @@ CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
 CCTV-1 综合,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV-7 国防军事,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
-CCTV-13 新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
-CCTV-13 新闻,webview://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
-CCTV-13 新闻,webview://https://app.hsrtv.cn//television/live_wap_17157.html
 CGTN,webview://https://www.cgtn.com/tv
 CGTN纪录,webview://https://www.cgtn.com/channel/documentary
 CGTN俄语,webview://https://russian.cgtn.com/channel
@@ -216,14 +213,6 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 江西新闻,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西陶瓷,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 风尚购物,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
-江西卫视,webview:///https://www.jxntv.cn/live/
-江西都市,webview://https://www.jxntv.cn/live/#/jxtv2
-江西经济生活,webview://https://www.jxntv.cn/live/#/jxtv3
-江西公共农业,webview://https://www.jxntv.cn/live/#/jxtv5
-江西少儿,webview://http://https://www.jxntv.cn/live/#/jxtv6
-江西新闻,webview://https://www.jxntv.cn/live/#/jxtv7
-江西陶瓷,webview://https://www.jxntv.cn/live/#/tcpd
-风尚购物,webview://https://www.jxntv.cn/live/#/fsgw
 江西教育,https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live
@@ -482,10 +471,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
-江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
+江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
-开平生活,webview://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
 河源综合,webview://https://www.hyrtv.cn/itv/zhds/
 河源生活,webview://https://www.hyrtv.cn/itv/ggds/
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
@@ -2510,6 +2497,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 安康民生,http://pili-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
 安康教育,http://pili-live-hls.akrt.cn/akapptv/jypdhd.m3u8
 镇安综合,webview://https://zasjt.zatvs.cn/videolive-info/qftvqpbsedessquowaadwpexqupxuwrd/88a43d204fc20e36bdd8c76f88bd6462/cad887a9e2ad4652a1a29290ff559862
+宝鸡综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226038/index.m3u8
+宝鸡公共,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226344/index.m3u8
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
 甘肃文化影视,webview://http://tv.zimtv.cn/tv/player/api/gstv.php?id=gswhys
