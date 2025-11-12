@@ -507,9 +507,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 珠海新闻综合,webview://https://pub-zhtb.hizh.cn/zhtv1/
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
-肇庆生活,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
+肇庆生活服务,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
-肇庆生活,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
 潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
 潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
 怀集综合,webview://https://www.zqhjtv.com/index/channel/detail/id/1.html
