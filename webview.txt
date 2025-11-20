@@ -2620,7 +2620,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 临夏文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1714099799400957
 临夏综合,https://play.kankanlive.com/live/1714096320293954.m3u8
 临夏文旅,https://play.kankanlive.com/live/1714099799400957.m3u8
-临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+临夏县综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 
 宁夏,#genre#
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
@@ -2641,8 +2641,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 石嘴山公共,webview://https://jrszs.szsnews.com/application/tenma01ds_tvradio/view/web/#/?id=2
 石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 
 青海,#genre#
 青海卫视,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786181204964564992&company_id=1075
@@ -2957,6 +2955,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8
 长宁综合,webview://http://cnh5.sccnfb.com/html/shareApp/live?id=35137_864eed3047524b99816a1c448688b1dd&userId=9c51ee10bab748829593efe0afa89db5&modality=0
+珙县新闻,http://m3u8.chuanqigongxian.cn/nmip-media/channellive/channel100449/playlist.m3u8
 南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
 南充科教生活,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
 阆中综合,http://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
