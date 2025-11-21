@@ -764,9 +764,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 襄阳综合,webview://http://xiangyang.cjyun.org/app/streamradio/142
 襄阳公共,webview://http://xiangyang.cjyun.org/app/streamradio/130
 襄阳经济生活,webview://http://xiangyang.cjyun.org/app/streamradio/138
-襄阳综合,https://xiangyang-live21.cjyun.org/10125/','s10125-news_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-dc97c38176b5aac42ac95d80d410eaf2
-襄阳公共,https://xiangyang-live21.cjyun.org/10125/','s10125-education_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-58b7c654574766341cdd7ea5f4c8bc39
-襄阳经济生活,https://xiangyang-live21.cjyun.org/10125/','s10125-society_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-f938b2a5f3375b9a43f5fa2ee62d484f
+襄阳综合,https://xiangyang-live21.cjyun.org/10125/s10125-news_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-dc97c38176b5aac42ac95d80d410eaf2
+襄阳公共,https://xiangyang-live21.cjyun.org/10125/s10125-education_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-58b7c654574766341cdd7ea5f4c8bc39
+襄阳经济生活,https://xiangyang-live21.cjyun.org/10125/s10125-society_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-f938b2a5f3375b9a43f5fa2ee62d484f
 
 十堰新闻综合,webview://https://www.syiptv.com/tv?station_id=1
 十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
@@ -857,7 +857,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 保康综合,webview://http://bkcms.gdnewmedia.cc/wx/live.php
 仙桃综合,webview://https://web.guangdianyun.tv/tv/?id=509&uin=1832
 罗田综合,webview://https://luotiannews.cjyun.org/app/streamradio/79
-罗田综合,https://luotian-live21.cjyun.org/10013/','s10013-LTZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-25551ca5ae536deb2cd1eca067453f45
+罗田综合,https://luotian-live21.cjyun.org/10013/s10013-LTZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-25551ca5ae536deb2cd1eca067453f45
 蕲春综合,webview://https://m.hbqcrm.cn/zhibo/index.html
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8
 嘉鱼综合,webview://https://m.ysjiayu.cn/zhibo
@@ -866,7 +866,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 汉川综合,webview://https://biibwavzb.vzan.com/live/page/521374751?v=1744687978000
 汉川综合,http://play-hsbj.vzan.com/357534/505886811862583019/live.m3u8
 江陵综合,webview://https://m.hbysjl.cn/zhibo79
-江陵综合,https://jiangling-live21.cjyun.org/10090/','s10090-jltv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5ded7dc8f71b09f82e1efdd4bef9c173
+江陵综合,https://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5ded7dc8f71b09f82e1efdd4bef9c173
 钟祥综合,webview://https://m-zhongxiang.cjyun.org/zhibo
 钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1add4540b335d87c0db34f20f2435cbd
 咸丰综合,webview://https://web.guangdianyun.tv/tv/3567?uin=3179
@@ -878,13 +878,13 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 远安综合,webview://http://m-yuanan.cjyun.org/dsgb
 远安综合,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fc30c9bafcc0eb179577c1c9771de6a5
 丹江口综合,webview://http://m-danjiangkou.cjyun.org/dszb
-丹江口综合,https://danjiangkou-live21.cjyun.org/10081/','s10081-djktv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-038788ebf1f8ece1e9149ded8f153d4b
+丹江口综合,https://danjiangkou-live21.cjyun.org/10081/s10081-djktv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-038788ebf1f8ece1e9149ded8f153d4b
 郧阳综合,webview://https://web.guangdianyun.tv/tv/?id=3820&uin=3659
 大冶综合,http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c3d27fbc279c3efc9187853aca3da012
 大冶综合,webview://https://dayeyun.cjyun.org/app/streamradio/4
 阳新综合,http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a27d99b67d0e39445f1df5ea6ad088ec
 大悟综合,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-31c2fe6941d7d718cec2dccab6e42412
-武穴综合,https://wuxue-live21.cjyun.org/10107/','s10107-wxtv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5027944a3323aec0fb1293cb024a9555
+武穴综合,https://wuxue-live21.cjyun.org/10107/s10107-wxtv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5027944a3323aec0fb1293cb024a9555
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -1682,6 +1682,7 @@ $石家庄
 宁波都市文体,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
 宁波影视剧,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 宁波新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel02/1080p.m3u8
+宁波新闻综合,https://lxxcp.kesug.com/ningbo.php?id=nbtv1
 绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/78
 绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/75
 绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/74
