@@ -701,6 +701,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
+常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggzh.php
 邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 邵阳新闻综合,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=33
 邵阳文旅民生,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
@@ -932,6 +933,8 @@ $石家庄
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,webview://https://www.xttv.com.cn/index/channel/index/id/62.html
 邢台城市生活,webview://https://www.xttv.com.cn/index/channel/index/id/64.html
+邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 临西综合,http://jwcdnqx.hebyun.com.cn/live/lx1/1500k/tzwj_video.m3u8
 临西生活,http://jwcdnqx.hebyun.com.cn/live/lx2/1500k/tzwj_video.m3u8
@@ -2694,6 +2697,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 易门综合,webview://https://nginx-yimen.yn.ynurl.com/yimen/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4teWltZW4ueW4ueW51cmwuY29tL2FwcC8iLCJ0eXBlIjowLCJjaGFubmVsIjoxLCJpc1NoYXJlIjoxLCJhcHBJZCI6MSwic2l0ZUlEIjoxLCJzaXRlSWQiOjEsInN5c3RlbVR5cGUiOjAsImFwcFZlcnNpb24iOiIzLjIuMSIsInd4QXBwSWQiOiJ3eDBlYzYyY2FmZDVjZjc1MWIifQ%3D%3D
 元江综合,https://hwapi.yntv.net/vu7hkj/x6rer3.m3u8
 元江综合,https://hwapi.yntv.net/vu7hkj/x6rer3_uhd.m3u8
+元江综合,webview://https://mtydazzle.yntv.cn/pages/liveDetails/detail.html/?_id=5ddbc8208e36a246256bc488&companyId=yuanjiang&productId=rqyj
 红河新闻综合,https://hwapi.yntv.net/ew265l/b4v0s0.m3u8
 红河新闻综合,https://live.hh.cn/hhtv1/index.m3u8
 红河新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
