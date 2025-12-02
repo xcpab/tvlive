@@ -219,7 +219,9 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
-吉安公共,webview://http://www.ijatv.com/live/jatv2/
+吉安综合,webview://https://www.jgsdaily.com/19/19qysj/kds/pdzb/index.shtml
+吉安综合,https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
+吉安公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 赣州新闻综合,webview://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1
 赣州公共,webview://https://www.newskj.net/html/rft/live.html?channelId=b4b37304359f45fabce63ab429d4ce2a&type=1
 赣州教育,webview://https://www.newskj.net/html/rft/live.html?channelId=3f35ed90763a4c43bde6d39fb4c5ba55&type=1
