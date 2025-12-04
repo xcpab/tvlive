@@ -424,6 +424,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 东方财经,webview://https://www.yicai.com/tv/#dfcj
 第一财经,webview://https://www.yicai.com/tv/#dycj
 上海新闻综合,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
+东方卫视4K,webview://https://summer.bestv.cn/smg_gongzhonghao_h5/#/home
 嘉定综合,webview://http://m.jdrmt.cn/live/jdtv/
 嘉定综合,webview://http://m.jdrmt.cn/jdtvnews/play.php
 嘉定综合,http://5730.liveplay.myqcloud.com/live/jcmcTV.m3u8
@@ -432,6 +433,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 点掌财经,webview://https://www.aniu.tv/
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 乐游,webview://http://tv.zimtv.cn/tv/player/?p=f&url=api/shtv2.php?id=1745
+
 天津,#genre#
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/shoujitv_05181638.shtml
@@ -1958,9 +1960,9 @@ $石家庄
 丹阳新闻,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-镇江教育,http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
-镇江公共,http://cm-wshls.homecdn.com/live/2aa16.m3u8
-镇江公共,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江城市服务,http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
+镇江社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8
+镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 溧阳新闻综合,http://tvlive.cxzly.com/live/tv.m3u8
 响水综合,http://xiangshui-tv-hls.cm.jstv.com/xiangshui-tv/xiangshuizh.m3u8
