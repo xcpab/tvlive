@@ -433,6 +433,16 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 点掌财经,webview://https://www.aniu.tv/
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 乐游,webview://http://tv.zimtv.cn/tv/player/?p=f&url=api/shtv2.php?id=1745
+东方购物,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+上海教育,http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
+点掌财经,http://volcanopull.aniu.tv/live/aniu2/index.m3u8
+新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+魔都眼,http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
 
 天津,#genre#
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
@@ -3175,7 +3185,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 清镇综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
 七星关综合,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 七星关综合,webview://https://live.qxgrmt.cn/live/page/596003550?v=1750941332000
-
+三都新闻综合,http://cmsrtmp.todcy.cn/live/dcsd/7d313580bfea4e48bd72133f8c0a5206/7d313580bfea4e48bd72133f8c0a5206.m3u8
 四川,#genre#
 四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
@@ -3679,7 +3689,7 @@ i乐山,webview://http://ileshan.lsdianxin.com/wap/index.html#/menu
 阿荣旗电视台,webview://https://live.polyv.cn/watch/1791887
 达茂新闻综合,webview://http://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
-准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+准格尔旗综合,https://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live176473108046340.m3u8
 奈曼综合,webview://http://nmqrmt.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=2
 鄂温克综合,webview://http://ewkrm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 
