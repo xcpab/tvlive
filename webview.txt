@@ -433,6 +433,10 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 点掌财经,webview://https://www.aniu.tv/
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 乐游,webview://http://tv.zimtv.cn/tv/player/?p=f&url=api/shtv2.php?id=1745
+东方卫视4K,http://bp-livety4kbz.bestv.cn/live/dfws4k.m3u8
+东方卫视4K,http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
+东方卫视4K,http://bp-livety4kbz.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+东方卫视4K,http://bp-livety4kbz.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 东方购物,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 上海教育,http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
 点掌财经,http://volcanopull.aniu.tv/live/aniu2/index.m3u8
@@ -3911,6 +3915,7 @@ TVB-翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 TVB-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB-翡翠台,https://cdn6.101.qzz.io/163189/fct
 TVB-翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
@@ -3961,6 +3966,9 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲美食,http://iptv.4666888.xyz/iptv.php?id=20270
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰中文,https://4k.11cn.dpdns.org/8.m3u8
 凤凰资讯,https://4k.11cn.dpdns.org/9.m3u8
 凤凰香港,https://4k.11cn.dpdns.org/10.m3u8
@@ -4071,6 +4079,12 @@ ELT生活旅游,http://iptv.4666888.xyz/iptv.php?id=20272
 香港卫视,webview://http://www.hkstv.tv/?mod=index&do=live
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 黄金华剧台,http://iptv.4666888.xyz/iptv.php?id=20100
+星空影视,https://pull.dxhmt.cn/tv/168666456gechenyu.flv
+邵氏喜剧 HD,https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
+邵氏武侠 HD,https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
+邵氏电影 HD,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+邵氏动作 HD,https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+
 澳门,#genre#
 澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
