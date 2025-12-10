@@ -17,8 +17,8 @@ CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
 CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
 CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
-CCTV-4 中文国际欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV-4 中文国际美洲,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV-4 欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV-4 美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -2700,7 +2700,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
-松原公共,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+松原生活,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
 
 吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
@@ -2766,8 +2766,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781
 延吉综合,http://stream6.jlntv.cn/yj/sd/live.m3u8
-通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
-
 松原新闻综合,webview://http://uogz-www.plus.jlntv.cn/songyuan/folder133/folder101
 乾安综合,webview://http://ckpd-www.plus.jlntv.cn/folder3830/folder3875
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
@@ -2798,8 +2796,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 长白新闻综合,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8
 长白新闻综合,webview://http://juxian.juyun.tv/live.php?id=11347
-敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
-龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
 
 辽宁,#genre#
