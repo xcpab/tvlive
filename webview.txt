@@ -2098,7 +2098,7 @@ $石家庄
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
@@ -2118,9 +2118,9 @@ $石家庄
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 柯桥新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 柯桥新闻综合,http://play-a2.quklive.com/live/1640945211435051.flv
-嵊州综合,webview://http://wap.szttkk.cn/#/WatchTv
-嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-嵊州综合,http://play-sh11.quklive.com/live/1626935015913208.m3u8
+嵊州新闻综合,webview://http://wap.szttkk.cn/#/WatchTv
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+嵊州新闻综合,http://play-sh11.quklive.com/live/1626935015913208.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 诸暨综合,webview://http://wap.zjbtv.com/TV
 诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -2129,16 +2129,16 @@ $石家庄
 新昌综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-永嘉综合,webview://https://web.guangdianyun.tv/tv/1335?uin=2768
-永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+永嘉新闻综合,webview://https://web.guangdianyun.tv/tv/1335?uin=2768
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 瑞安新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1681269183807252
 龙港综合,webview://https://app.tmuyun.com/webarticle/naturelive2?id=1544
 龙港综合,http://play-qukan.cztv.com/live/1722309876941077.m3u8
-苍南综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-苍南综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-龙游综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 平湖综合,webview://http://www.qukanvideo.com/cloud/h5/1690167908295069
@@ -2151,7 +2151,7 @@ $石家庄
 开化新闻综合,webview://http://	http://www.qukanvideo.com/cloud/h5/1721295786810240
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-武义综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 兰溪综合,https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 兰溪综合,webview://https://web.guangdianyun.tv/tv/1185?uin=1324
@@ -2225,8 +2225,8 @@ $石家庄
 瑞安新闻综合,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2039920481-e6234a8197034f1aa2b599714ed35d2a-0-6a8a3bd9c5887ff42c5fbfd0c42e2aee
 长兴新闻,http://play-a11.quklive.com/live/1689126294179076.m3u8
 长兴新闻综合,http://play-a11.quklive.com/live/1689126294179076.flv
-武义综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-武义综合,http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2064370307-c7eb1320375948e7a1cb15855f689bdd-0-315ee5908d9cededc1ca4c53117406b0
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+武义新闻综合,http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2064370307-c7eb1320375948e7a1cb15855f689bdd-0-315ee5908d9cededc1ca4c53117406b0
 龙泉综合,http://play-sh13.quklive.com/live/1721354859785237.m3u8?auth_key=2064371299-81b46b11fb4b4948b8b272f34aa37317-0-25b98db04c6680ed171e0140abc2e938
 
 
@@ -3216,8 +3216,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 成都少儿,webview://https://wap.cditv.cn/tvDetail?app_id=1&t=rmt_live&v=4801;;552
 
 高新电视台,webview://https://cando.cditv.cn/show-2762-722-1.html
-简阳市电视台,webview://https://www.cditv.cn/show/4844-578.html
-双流电视台,webview://https://www.cditv.cn/show/4844-581.html
+简阳新闻综合,webview://https://www.cditv.cn/show/4844-578.html
+双流综合,webview://https://www.cditv.cn/show/4844-581.html
 蒲江电视台,webview://https://www.cditv.cn/show/4844-571.html
 大邑电视台,webview://https://www.cditv.cn/show/4844-572.html
 金堂电视台,webview://https://www.cditv.cn/show/4844-573.html
@@ -3239,7 +3239,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 锦江电视台,webview://https://cando.cditv.cn/show-2762-1541-1.html
 高新电视台,webview://https://www.cditv.cn/show/4844-591.html
 高新电视台,http://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
-简阳市电视台,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
+简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
 双流电视台,http://171.221.250.132:28080/live/3146B3F489F1246E4E542E341B99EEAD.m3u8
 
 
