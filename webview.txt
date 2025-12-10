@@ -3469,9 +3469,9 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 会东综合,http://exfile.schdxww.com:80/nmip-media/channellive/channel100055/playlist.m3u8
 中江综合,http://bl.zjtvrm.cn/live/zjrmzxzb.m3u8?timestamp=20250617174454&encrypt=7759375eb83dccfe26811155bff1c4be
 华蓥综合,http://218.89.61.237:83/live/xwzh.m3u8
-崇州新闻综合,http://livesec.mudu.tv/watch/x6h90s.m3u8
+崇州综合,http://livesec.mudu.tv/watch/x6h90s.m3u8
 苍溪综合,rtmp://118.121.231.225:1935/live/hdmi054
-洪雅新闻综合,http://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
+洪雅综合,http://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
 西充综合,http://bl.xichongtv.cn/xcrm2025/ZHPD1010.m3u8?auth_key=1768713113-0-0-b6d00e1ea50a76484d1bed974d6e1b80
 
 内蒙古,#genre#
