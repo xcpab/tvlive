@@ -3401,7 +3401,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
-若尔盖综合,http://regpull.regrmt.cn/live/fba4bdf0019310007748ce6c00000000/playlist.m3u8?wsSecret=c48a78f1f3c14458a9867a8067c8bb5b&wsTime=2019657600
 九寨沟新闻综合,http://jzpull.jzgrmt.cn/live/71af360e0193100051149d6b00000000/playlist.m3u8?wsSecret=052358fbc75c0e852954a22a51d0cd7f&wsTime=2019657600
 广安新闻综合,webview://https://www.gatv.com.cn/Tv/details?id=10
 广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
