@@ -1466,7 +1466,7 @@ $石家庄
 潍坊影视综艺,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
 潍坊科教文旅,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
 潍坊高新区,webview://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
-滨海新闻综合,webview://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
+潍坊滨海新闻综合,webview://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
 昌乐综合,webview://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
 昌邑综合,webview://https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html
 昌邑经济生活,webview://https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html
