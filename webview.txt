@@ -1399,7 +1399,7 @@ $石家庄
 潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
 潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
 潍坊公共,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+潍坊科教文化,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 淄博新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
 泰安综合,webview://http://live.1545ts.net/zhibotatv1.html
 泰安综合,https://vod2023.tajn.cn/live/tahd01.m3u8?hls_ctx=tnw59vf7
@@ -1464,7 +1464,7 @@ $石家庄
 潍坊新闻综合,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
 潍坊经济生活,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
 潍坊公共,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
-潍坊科教文旅,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
+潍坊科教文化,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
 潍坊高新区,webview://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
 潍坊滨海新闻综合,webview://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
 昌乐综合,webview://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
@@ -1475,11 +1475,11 @@ $石家庄
 高密党建农科,webview://https://iapp.gaominews.com/share/dHZsLTcxLTM4.html
 寒亭新闻,webview://https://iapp.httv.cn/share/dHZsLTEzMy0x.html
 奎文综合,webview://https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html
-临朐新闻综合,webview://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
+临朐综合,webview://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
 青州综合,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
 青州文化旅游,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
-潍城 TV,webview://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
-诸城新闻综合,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
+潍城TV,webview://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
+诸城综合,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
 诸城生活娱乐,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
 寿光综合,webview://https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html
 寿光蔬菜,webview://https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html
@@ -1487,7 +1487,7 @@ $石家庄
 济南
 长清综合,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
 长清生活,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
-济铁电视台,webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
+济铁频道,webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
 济阳综合,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
 济阳影视,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html
 历城新闻综合,webview://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
@@ -1510,8 +1510,8 @@ $石家庄
 青岛文化娱乐,webview://m.qdntv.cn/qd.html?id=qtv4
 青岛教育,webview://http://m.qdntv.cn/qd.html?id=qtv5
 青岛李沧,webview://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
+青岛城阳,webview://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.html
 崂山综合,webview://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
-城阳综合,webview://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.html
 黄岛综合,webview://https://iapp.qwmedia.cn/share/dHZsLTIyNy0x.html
 黄岛生活,webview://https://iapp.qwmedia.cn/share/dHZsLTIyNy0z.html
 即墨综合,webview://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
@@ -1553,7 +1553,7 @@ $石家庄
 沂源生活,webview://https://iapp.yyrmapp.com/share/dHZsLTIwMy03.html
 淄川新闻,webview://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTE.html
 张店综合,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
-张店 2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
+张店2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
 周村新闻,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0x.html
 周村生活,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
 
@@ -1572,14 +1572,14 @@ $石家庄
 
 枣庄
 山亭综合,webview://https://iapp.stqrmtzx.com/share/dHZsLTI0My0x.html
-枣庄市中综合,webview://https://iapp.zzszrm.com/share/dHZsLTIzMy0x.html
+市中综合,webview://https://iapp.zzszrm.com/share/dHZsLTIzMy0x.html
 滕州综合,webview://https://iapp.tzrmt.com/share/dHZsLTEwMy0y.html
 滕州民生,webview://https://iapp.tzrmt.com/share/dHZsLTEwMy0z.html
 薛城新闻综合,webview://https://iapp.aixuechengapp.com/share/dHZsLTM3LTg.html
 峄城综合,webview://https://iapp.yilan-app.com/share/dHZsLTIwOS0x.html
 
 滨州
-滨城 TV,webview://https://iapp.binchengrongmei.com/share/dHZsLTI0OS0zNQ.html
+滨城TV,webview://https://iapp.binchengrongmei.com/share/dHZsLTI0OS0zNQ.html
 博兴综合,webview://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy0z.html
 博兴生活,webview://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy00.html
 惠民综合,webview://https://iapp.aihuimin.cn/share/dHZsLTIxMS0y.html
@@ -1692,11 +1692,11 @@ $石家庄
 罗庄综合,webview://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0x.html
 罗庄影视,webview://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0xNw.html
 蒙阴综合,webview://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xMw.html
-蒙阴 2 套,webview://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xNQ.html
+蒙阴2套,webview://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xNQ.html
 平邑综合,webview://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS00.html
 平邑生活,webview://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS0xNA.html
 郯城综合,webview://https://iapp.tanchengtv.com/share/dHZsLTgzLTE.html
-郯城 2 套,webview://https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html
+郯城2套,webview://https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html
 沂南综合,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
 沂南红色影视,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 沂水综合,webview://https://app.litenews.cn/share/dHZsLTE0NS0x.html
@@ -1716,7 +1716,7 @@ $石家庄
 肥城综合,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
 肥城生活,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
 宁阳综合,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
-宁阳 2 套,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
+宁阳2套,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
 泰山综合,webview://https://iapp.tsqrmtzx.cn/share/dHZsLTI2My0x.html
 新泰综合,webview://https://iapp.xintairongmei.cn/share/dHZsLTU5LTI.html
 新泰乡村,webview://https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html
