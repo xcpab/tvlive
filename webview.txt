@@ -1811,12 +1811,16 @@ $石家庄
 汾阳综合,webview://https://www.fysrmt.com/#/media/tvLive
 交城电视台,webview://https://web.guangdianyun.tv/tv/3406?uin=1779
 孝义综合,webview://https://yvimdxvzb.vzan.com/live/page/108629568?v=1754282568015
+孝义综合,https://p2hs.vzan.com/slowlive/739908540076758903/live.m3u8
 绛县综合,webview://https://webcast.vyuan8.cn/vyuan/plugin.php?id=vyuan_zhibo&mod=viewpc&identify=5750712
+
 离石综合,http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
 平顺综合,http://player4.juyun.tv/tv/149466149.m3u8
 宁武电视台,webview://https://ningwu.qmtzy.sxmty.com///television/live_wap_1.html
 宁武电视台,https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8
 代县综合,webview://https://daixianxinwen.com/meiti.html#/tvLive
+灵石综合,webview://https://www.lsxrmtzx.com/lives/1
+保德综合,webview://https://www.bdxrmtzx.com/#/media/tvLive
 江苏,#genre#
 江苏卫视4K,webview://https://live.jstv.com?channelId=662
 江苏卫视,webview://https://live.jstv.com?channelId=670
