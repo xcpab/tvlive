@@ -1462,8 +1462,8 @@ $石家庄
 安丘综合,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
 安丘民生,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
 潍坊新闻综合,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
-潍坊生活,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
-潍坊影视综艺,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
+潍坊经济生活,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
+潍坊公共,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
 潍坊科教文旅,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
 潍坊高新区,webview://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
 潍坊滨海新闻综合,webview://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
