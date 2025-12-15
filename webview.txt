@@ -800,7 +800,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 金鹰卡通,http://nn.7x9d.cn/地方台8563/湖南2.php?id=287
 快乐垂钓,http://nn.7x9d.cn/地方台8563/湖南2.php?id=218
 先锋乒羽,http://nn.7x9d.cn/地方台8563/湖南2.php?id=329
-长沙新闻,http://nn.7x9d.cn/地方台8563/湖南2.php?id=269
+长沙新闻综合,http://nn.7x9d.cn/地方台8563/湖南2.php?id=269
 长沙政法,http://nn.7x9d.cn/地方台8563/湖南2.php?id=254
 湖南爱晚,webview://https://www.mgtv.com/z/261/261.html
 湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
@@ -872,7 +872,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 邵东电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=13
 中方县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=18
 芷江电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=20
-东安电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=21
+东安综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=21
 新晃综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=23
 洪江区电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=24
 蓝山综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=26
@@ -1225,6 +1225,8 @@ $石家庄
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 濮阳综合,webview://https://capp.pytv.ha.cn/web/telecast
+濮阳公共,webview://https://web.guangdianyun.tv/tv/?id=3017&uin=3616
+濮阳综合,https://tvcdn.stream3.hndt.com/tv/5ac4f236019110000835777900000000_transios/playlist.m3u8?wsSecret=133360d411531d77c2ed15afa5721c88&wsTime=1765800703
 濮阳公共,https://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=3322297702-0-0-594dac67e438e481f52063ac963b8fa5&extra_key=kZpZ_AvL2PTKCc0NFQ4S0bP1T0MJTZ7X4TOchrZU6NdagixgZiVnqnQcRpEwV5BDV8zsF-HnoYV7AGRREPkx1VyAy0CCy57X8gV3V6Il92VfRo9168jMXPYx2VjhODbLp1nfn7QrVxsMB-vyIfFg1UoNE0k6IRhIaWZkwQAHd_g
 台前新闻综合,webview://https://share.hntv.tv/news/3/1975387813546733570
 周口新闻综合,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.yszkapp.cn:18080/mms4.6.3&token=pmqhukcpyipvqmoz
@@ -1277,7 +1279,10 @@ $石家庄
 鹤壁新闻综合,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 禹州综合,webview://https://www.yuzhou.net.cn/yztv
 内乡综合,webview://https://www.hntv.tv/news/3/1952931332015620097
-漯河新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
+漯河新闻综合,https://tvcdn.stream3.hndt.com/tv/5ac7a959019110004eaa29cc00000000_transios/playlist.m3u8?wsSecret=ad03195f2dee32e31b800dc0351a6722&wsTime=1765799719
+三门峡新闻综合,https://tvcdn.stream3.hndt.com/tv/5ac843060191100085ac01c600000000_transios/playlist.m3u8?wsSecret=e30af6207dafbdc1a7868f44eaa517f7&wsTime=1765799950
+商丘综合,https://tvcdn.stream3.hndt.com/tv/5ac97afd01911000f40479f300000000_transios/playlist.m3u8?wsSecret=acf43fda4fcb2704d26f6135cb2270ea&wsTime=1765800316
+商丘综合,webview://http://win.nettv.vip/embed/henan.html?id=sq1
 上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
 上街融媒,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
@@ -4003,7 +4008,7 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 兵团十师北屯综合,http://test5.btzx.com.cn/live/10TV.stream/playlist.m3u8
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 兵团十三师新星综合,http://test5.btzx.com.cn:80/live/13TV.stream/playlist.m3u8
-昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 
 香港,#genre#
 AXN,http://iptv.4666888.xyz/iptv.php?id=20254
