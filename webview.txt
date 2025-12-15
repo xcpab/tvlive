@@ -714,6 +714,11 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+钦州综合,https://stream.gxqzxw.com/qzzhpd/qzzhpd/live.m3u8
+钦州综合,https://stream.gxqzxw.com/qzzhpd/playlist.m3u8
+钦州公共,https://stream.gxqzxw.com/qzggpd/ggpd/live.m3u8
+钦州公共,https://stream.gxqzxw.com/qzggpd/playlist.m3u8
+钦州综合,webview://https://www.gxqzxw.com/folder401/folder406/
 桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
 桂林公共,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
 桂林科教旅游,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
@@ -739,6 +744,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 来宾综合,webview://https://share-laibin.gxlbcloud.com/fhshare/#/live_detail?contentType=4&id=9
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 贺州综合,webview://http://www.gxhzxw.com/index.php/page-view-id-50
+百色综合,http://43.138.216.144/live/3d517b284178.m3u8
 横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
 隆安综合,webview://https://wx.vzan.com/live/tvchat-628948832?v=1745758431000
 隆安综合,http://p2hs.vzan.com/slowlive/551846483251458644/live.m3u8
