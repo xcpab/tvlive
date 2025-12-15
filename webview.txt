@@ -878,7 +878,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 蓝山综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=26
 耒阳电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=27
 汉寿综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=31
-祁阳电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=33
+祁阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=33
 靖州综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=34
 麻阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=38
 永兴新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=40
@@ -904,7 +904,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 衡阳县电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=183
 嘉禾新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=184
 桑植新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=185
-津市综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=187
+津市电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=187
 长沙县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=203
 安化综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=204
 
@@ -992,7 +992,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 石首综合,webview://https://utthwxvzb.vzan.com/live/page/1781145787?jumpitd=1&v=1744689203918
 石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 房县综合,http://p2hs.vzan.com/844270/495391109072307857/live.m3u8
-江夏综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
 黄石新闻综合,http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
 阳新综合,webview://https://m.yangxintv.cn/zhibo/
@@ -1044,7 +1043,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 大冶综合,webview://https://dayeyun.cjyun.org/app/streamradio/4
 阳新综合,http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a27d99b67d0e39445f1df5ea6ad088ec
 大悟综合,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-31c2fe6941d7d718cec2dccab6e42412
-武穴综合,https://wuxue-live21.cjyun.org/10107/s10107-wxtv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5027944a3323aec0fb1293cb024a9555
 
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -1897,7 +1895,6 @@ $石家庄
 孝义综合,webview://https://yvimdxvzb.vzan.com/live/page/108629568?v=1754282568015
 孝义综合,https://p2hs.vzan.com/slowlive/739908540076758903/live.m3u8
 绛县综合,webview://https://webcast.vyuan8.cn/vyuan/plugin.php?id=vyuan_zhibo&mod=viewpc&identify=5750712
-
 离石综合,http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
 平顺综合,http://player4.juyun.tv/tv/149466149.m3u8
 宁武电视台,webview://https://ningwu.qmtzy.sxmty.com///television/live_wap_1.html
