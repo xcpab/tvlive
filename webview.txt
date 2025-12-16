@@ -1136,9 +1136,6 @@ $石家庄
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 隆化综合,http://jwcdnqx.hebyun.com.cn/live/lhtv/1500k/tzwj_video.m3u8
-沧州新闻综合,webview://http://wap.czgd.tv/api/content/getplay_live?id=1
-沧州公共,webview://http://wap.czgd.tv/api/content/getplay_live?id=2
-沧州影视娱乐,webview://http://wap.czgd.tv/api/content/getplay_live?id=3
 沧州新闻综合,webview://http://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州公共,webview://http://www.czgd.tv/Article/des?infoid=32769&modelid=3
 沧州影视娱乐,webview://http://www.czgd.tv/Article/des?infoid=32770&modelid=3
@@ -2430,7 +2427,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 建宁综合,http://pull-hsbj.vzan.com/v/2144741973_681448837351911792.m3u8
 建宁综合,http://pull-hsbj.vzan.com/v/2144741973_681448837351911792.flv
 建宁综合,rtmp://pull-hsbj.vzan.com/v/2144741973_681448837351911792
-
 沙县综合,webview://https://web.guangdianyun.tv/tv/425?uin=1567
 永安综合,webview://https://web.guangdianyun.tv/tv/?id=2597&uin=3454
 尤溪综合,webview://https://live.yxxww.cn/tv/765?uin=2055
@@ -2520,7 +2516,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 广德新闻综合,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=14&dataObjId=26
 广德生活,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 灵璧新闻综合,webview://http://app.cms.anhuinews.com/video/videojs/index?site_id=10003&live_type=1&id=32
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
@@ -2542,7 +2537,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 蒙城新闻,webview://https://noctguvzb.vzan.com/live/page/1242056970?v=1744437591000
 桐城综合,webview://https://web.guangdianyun.tv/tv/3350?uin=4104
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
-蚌埠新闻,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104546.shtml
 利辛新闻综合,https://live.rong-lixin.com/hls/lixinxw/playlist.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch0.m3u8
@@ -2566,7 +2560,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 岳西新闻综合,https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7.flv
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
-
 
 黑龙江,#genre#
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
