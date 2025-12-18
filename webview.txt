@@ -915,7 +915,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
 湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
 湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
-湖北公共,webview://https://news.hbtv.com.cn/app/tv/434
 湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
 湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
@@ -2752,10 +2751,12 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 方正综合,https://rmplive.hljtv.com/live/fangzheng.m3u8
 肇东综合,https://rmplive.hljtv.com/live/zhaodong.m3u8
 肇东综合,https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
+肇州综合,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
 友谊综合,https://rmplive.hljtv.com/live/youyi.m3u8
 友谊综合,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
 五大连池综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
 五大连池综合,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+杜尔伯特综合,https://masterpull.hljtv.com/live/eCNHwyyW.m3u8
 
 吉林,#genre#
 吉林卫视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlws
@@ -3043,7 +3044,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 西峰综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.flv
 西峰综合,rtmp://play.kankanlive.com/live/1683944827526991
-
+定西综合,http://play.kankanlive.com/live/1745232061100288.m3u8
+定西文旅生活,http://play.kankanlive.com/live/1745232082475287.m3u8
 景泰综合,http://play.kankanlive.com/live/1624439143745981.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
@@ -3114,7 +3116,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
 石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.flv
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.flv
-
 
 青海,#genre#
 青海卫视,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786181204964564992&company_id=1075
@@ -3847,7 +3848,9 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
-日喀则,webview://https://www.rkzrm.cn/2/2zb/index.shtml
+日喀则汉语,webview://https://www.rkzrm.cn/2/2zb/index.shtml
+日喀则汉语,https://console.rkzrm.cn:20323/4.m3u8
+日喀则藏语,https://console.rkzrm.cn:20323/8.m3u8
 拉萨藏语,webview://https://www.lasatv.cn/cms/tv
 拉萨藏语,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 拉萨综合,https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
@@ -3980,8 +3983,6 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 
 兵团卫视,webview://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 四师可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 兵团五师综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 兵团五师综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
