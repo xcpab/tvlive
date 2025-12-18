@@ -243,6 +243,17 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744#/
 宜春法治民生,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
+景德镇新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1724916607073321
+九江新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1757386374062009
+九江公共,webview://https://www.qukanvideo.com/cloud/h5/1757386400403349
+九江教育,webview://https://www.qukanvideo.com/cloud/h5/1757386418265193
+彭泽综合,webview://https://www.qukanvideo.com/cloud/h5/1740970999257207
+上饶新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1758679893354090
+上饶经济旅游,webview://https://www.qukanvideo.com/cloud/h5/1758679936307088
+铜鼓综合,webview://https://www.qukanvideo.com/cloud/h5/1742531118997158
+丰城新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1753663315049013
+定南综合,webview://https://www.qukanvideo.com/cloud/h5/1762136155495343
+
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.flv
 景德镇新闻综合,rtmp://play-sh.quklive.com/live/1724916607073321
@@ -280,8 +291,8 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 广丰综合,rtmp://play-a2.quklive.com/live/1754033359790055
 
 玉山综合,http://play-a2.quklive.com/live/1744269699236128.m3u8
-玉山综合,http://play-a2.quklive.com/live/1754033359790055.flv
-玉山综合,rtmp://play-a2.quklive.com/live/1754033359790055
+玉山综合,http://play-a2.quklive.com/live/1744269699236128.flv
+玉山综合,rtmp://play-a2.quklive.com/live/1744269699236128
 
 崇仁综合,http://play-a2.quklive.com/live/1744277411242065.m3u8
 崇仁综合,http://play-a2.quklive.com/live/1744277411242065.flv
@@ -3102,9 +3113,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
 宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse/
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
-银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
-银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
-银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
+银川公共,https://play-sh13.quklive.com/live/1759132792923073.m3u8?auth_key=1766043464-b9b5f24153b24e20b27236d63b3d0054-0-2874fbba74d697c90d6289a29635444d
+银川生活,https://play-sh13.quklive.com/live/1759132827032262.m3u8?auth_key=1766043499-9203537efdba490c84bee6b6a4d18c80-0-50a21820d9a49238941df731533ddc5b
+银川文体,https://play-sh13.quklive.com/live/1759132882868161.m3u8?auth_key=1766043363-e2ed3bee17a94e8c83130f9f1602a42e-0-51425216fc7b1b3ac7421b8cbbdcdeb2
+银川公共,webview://https://www.qukanvideo.com/cloud/h5/1759132792923073
+银川生活,webview://https://www.qukanvideo.com/cloud/h5/ias银川文体,webview://https://www.qukanvideo.com/cloud/h5/1759132882868161
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
@@ -3112,10 +3125,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宁夏文旅,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
 石嘴山综合,webview://https://jrszs.szsnews.com/application/tenma01ds_tvradio/view/web/#/?id=1
 石嘴山公共,webview://https://jrszs.szsnews.com/application/tenma01ds_tvradio/view/web/#/?id=2
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.flv
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.flv
+石嘴山综合,http://120.253.35.207:10086/hls/zhpd/playlist.m3u8
+石嘴山公共,http://120.253.35.207:10086/hls/ggpd/playlist.m3u8
 
 青海,#genre#
 青海卫视,webview://https://h5.qhbtv.com.cn/front-cloudlive-manage-h5/index.html?id=786181204964564992&company_id=1075
@@ -3912,7 +3923,6 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 
 阿勒泰汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10132&id=28
 阿勒泰哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10132&id=27
-阿勒泰汉语综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 布尔津哈语综合,https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
 布尔津哈语综合,webview://https://web.guangdianyun.tv/tv/?id=3377&uin=4239
 布尔津汉语综合,https://st-video.xjmty.com/fs/livedit/6fc961a3e0f06313/c9338510613c6394.m3u8
@@ -4118,6 +4128,10 @@ now财经台,http://iptv.4666888.xyz/iptv.php?id=20085
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲美食,http://iptv.4666888.xyz/iptv.php?id=20270
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
