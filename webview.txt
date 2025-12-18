@@ -3113,11 +3113,9 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
 宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse/
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
-银川公共,https://play-sh13.quklive.com/live/1759132792923073.m3u8?auth_key=1766043464-b9b5f24153b24e20b27236d63b3d0054-0-2874fbba74d697c90d6289a29635444d
-银川生活,https://play-sh13.quklive.com/live/1759132827032262.m3u8?auth_key=1766043499-9203537efdba490c84bee6b6a4d18c80-0-50a21820d9a49238941df731533ddc5b
-银川文体,https://play-sh13.quklive.com/live/1759132882868161.m3u8?auth_key=1766043363-e2ed3bee17a94e8c83130f9f1602a42e-0-51425216fc7b1b3ac7421b8cbbdcdeb2
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1759132792923073
-银川生活,webview://https://www.qukanvideo.com/cloud/h5/ias银川文体,webview://https://www.qukanvideo.com/cloud/h5/1759132882868161
+银川生活,webview://https://www.qukanvideo.com/cloud/h5/1759132827032262
+银川文体,webview://https://www.qukanvideo.com/cloud/h5/1759132882868161
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
