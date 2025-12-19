@@ -469,7 +469,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia.flv
 武清电视台,rtmp://tvpull.smartwq.cn/wqlive/convergencemedia
-南开区电视台,http://win.nettv.vip/embed/nankai.php
+南开区电视台,webview://http://win.nettv.vip/embed/nankai.php
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
@@ -501,19 +501,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 
 广东,#genre#
 #荔枝网
-深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
-深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
-深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
-深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
-深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
-深圳财经生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
-深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
-深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
-深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
-广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
-广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
-广州法治,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=fazhi
-广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
 广东卫视4K,webview://https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
@@ -746,7 +733,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 贺州综合,webview://http://www.gxhzxw.com/index.php/page-view-id-50
 百色综合,http://43.138.216.144/live/3d517b284178.m3u8
-横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
+横州新闻综合,http://live.nnnews.net/video/s10004-hzstv-hd/index.m3u8
 隆安综合,webview://https://wx.vzan.com/live/tvchat-628948832?v=1745758431000
 隆安综合,https://p8.vzan.com/slowlive/761366121648225328/live.m3u8
 融水综合,rtmp://live.gxrb.com.cn/gx/rongshui
@@ -3272,14 +3259,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 玉溪社会与法,https://hwapi.yntv.net:443/r5fc3f/3l9g1m_hd.m3u8
 
 贵州,#genre#
-贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
-贵州公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch02
-贵州影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch03
-贵州大众生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch04
-贵州生态乡村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch05
-贵州科教健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch06
-贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
-
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 贵州公共,webview://https://www.gzstv.com/tv/ch02
 贵州影视文艺,webview://https://www.gzstv.com/tv/ch03
