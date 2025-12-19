@@ -243,17 +243,14 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744#/
 宜春法治民生,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
-景德镇新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1724916607073321
 九江新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1757386374062009
 九江公共,webview://https://www.qukanvideo.com/cloud/h5/1757386400403349
 九江教育,webview://https://www.qukanvideo.com/cloud/h5/1757386418265193
-彭泽综合,webview://https://www.qukanvideo.com/cloud/h5/1740970999257207
 上饶新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1758679893354090
 上饶经济旅游,webview://https://www.qukanvideo.com/cloud/h5/1758679936307088
 铜鼓综合,webview://https://www.qukanvideo.com/cloud/h5/1742531118997158
 丰城新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1753663315049013
 定南综合,webview://https://www.qukanvideo.com/cloud/h5/1762136155495343
-
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.flv
 景德镇新闻综合,rtmp://play-sh.quklive.com/live/1724916607073321
@@ -358,6 +355,8 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
 章贡综合,http://218.95.14.41:8000/hls/stream0.m3u8
 赣县综合,http://zhibo.jxxw.com.cn/live/ganxtv.m3u8?txSecret=5de6c9d1b218f12d37fafef4b49b8fc9&txTime=69F30AD9
+龙南综合,https://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
+
 北京,#genre#
 北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
 北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
@@ -482,7 +481,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia.flv
 武清电视台,rtmp://tvpull.smartwq.cn/wqlive/convergencemedia
-
+南开区电视台,http://win.nettv.vip/embed/nankai.php
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
@@ -1472,6 +1471,9 @@ $石家庄
 鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
 鹿邑综合,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
 鹿邑综合,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+洛宁综合,https://tvpull.dxhmt.cn/tv/10328-1.m3u8
+
+
 山东,#genre#
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
 山东综艺,webview://https://v.iqilu.com/live/zypd/
@@ -1743,6 +1745,10 @@ $石家庄
 郓城综艺,webview://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0y.html
 
 济宁
+济宁综合,webview://https://www.jnnews.tv/gbds/index.html
+济宁综合,https://srs.jnnews.tv/video/JTV-1/index.m3u8
+济宁生活,https://srs.jnnews.tv/video/JTV-2/index.m3u8
+济宁公共,https://srs.jnnews.tv/video/JTV-3/index.m3u8
 嘉祥综合,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html
 嘉祥生活,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html
 金乡综合,webview://https://iapp.jxrm.net/share/dHZsLTEyOS0y.html
@@ -1864,13 +1870,15 @@ $石家庄
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
 阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
+阳泉新闻综合,https://live.yqrtv.com/xwpd/playlist.m3u8?_upt=6935acbd1766123069
+阳泉科教,https://live.yqrtv.com/xwchne/sd/live.m3u8?_upt=7da87dd71766123202
+
 临汾新闻综合,http://36.134.77.251:9075/chain/live/lfj3/lfj3.flv?auth_key=1773973160-0-0-5c8e3945d6b70f841f8aeaab67bf1ee8
 临汾公共,http://36.134.77.251:9075/chain/live2/lfj2/lfj2.flv?auth_key=1773973326-0-0-92ce52094c76101b8ac31a9abf917acb
 临汾科教,http://36.134.77.251:9075/chain/live1/lfj1/lfj1.flv?auth_key=1773973310-0-0-501b8e0238fa4e5224d75f225f25007d
 临汾科教,webview://http://36.134.77.251:9075/channel/kandians
-晋中综合,rtmp://jzlive.jztvnews.com:1940/live/jzzh
-晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-晋中公共,rtmp://jzlive.jztvnews.com:1940/live/jzgg
+晋中综合,https://live.jztvnews.cn/lsdream/40Xc057/1000/live.m3u8
+晋中公共,https://live.jztvnews.cn/lsdream/8i6Yd67/1000/live.m3u8
 晋城新闻综合,http://live.jinnews.com.cn/xwzh/playlist.m3u8
 晋城文化生活,http://live.jinnews.com.cn/ggpd/playlist.m3u8
 晋城新闻综合,webview://http://share.jinnews.com.cn/?_hgOutLink=live/livedetail&channel_id=5
@@ -1921,6 +1929,9 @@ $石家庄
 代县综合,webview://https://daixianxinwen.com/meiti.html#/tvLive
 灵石综合,webview://https://www.lsxrmtzx.com/lives/1
 保德综合,webview://https://www.bdxrmtzx.com/#/media/tvLive
+山阴综合,http://pili-live-rtmp.188.i2863.com/i2863-188/live_188_430198.m3u8
+原平综合,https://xkmspyxn.live.sxmty.com/live/hls/f9656a0b2386464d972a0871a16d2fed/8a25d45c2f98451da8927c088f189446.m3u8
+
 江苏,#genre#
 江苏卫视4K,webview://https://live.jstv.com?channelId=662
 江苏卫视,webview://https://live.jstv.com?channelId=670
@@ -3031,7 +3042,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 嘉峪关综合,webview://https://nginx-jyg.xgsyun.com/jyg/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tanlnLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInN5c3RlbVR5cGUiOjAsImFwcFZlcnNpb24iOiIzLjIuMSIsInd4QXBwSWQiOiJ3eGU3MzViZGQ3MGNmZGQzNzkifQ==
-嘉峪关综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1690854462058921
+嘉峪关综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1754465670263218
+嘉峪关综合,https://play.kankanlive.com/live/1754465670263218.m3u8
 张掖新闻,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖农业旅游,https://play.kankanlive.com/live/1720583009200246.m3u8
 张掖新闻,webview://https://cloud.kankanlive.com/cloud/a/embed/1720583434627241
@@ -3314,6 +3326,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 七星关综合,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 七星关综合,webview://https://live.qxgrmt.cn/live/page/596003550?v=1750941332000
 三都新闻综合,http://cmsrtmp.todcy.cn/live/dcsd/7d313580bfea4e48bd72133f8c0a5206/7d313580bfea4e48bd72133f8c0a5206.m3u8
+望谟电视台,https://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
+石阡电视台,https://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
+凯里综合,https://p8.vzan.com/slowlive/155100264086195136/live.m3u8
+黔东南综合,https://p8.vzan.com/slowlive/144621665466645234/live.m3u8
+
 四川,#genre#
 四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
 四川科教,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
