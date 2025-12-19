@@ -698,6 +698,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 番禺综合,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=cb3eef99270b468f9f7ca8abce090afc&type=1&siteId=d755df8bb9fb49ee96052f7dee58d21b
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
+
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
@@ -745,18 +746,19 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 柳州科教,webview://https://web.guangdianyun.tv/tv/?id=1808&uin=3370
 柳州新闻综合,webview://https://live.lzgd.com.cn/tv/1902?uin=3370
 柳州科教,webview://https://live.lzgd.com.cn/tv/1808?uin=3370
+北海新闻综合,https://bhlive.gxbhxww.cn/live/xwzh20250801.m3u8
+北海经济科教,http://bhlive.gxbhxww.cn/live/kj20250526001.m3u8
 北海新闻综合,webview://https://res.gxbhxww.cn/html/rft/live.html?channelId=389d764cf13244de97a30bc44161d235
 北海经济科教,https://res.gxbhxww.cn/html/rft/live.html?channelId=51733cd2fd0548d288c3015ec3d0535b
-北海经济科教,http://bhlive.gxbhxww.cn/live/kj20250526001.m3u8
-梧州新闻综合,http://live.wzrtv.cn/xwzh1/sd/live.m3u8
-梧州教育生活,http://live.wzrtv.cn/jysh1/sd/live.m3u8
-梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/live
-梧州教育生活,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/15/%E6%95%99%E8%82%B2%E7%94%9F%E6%B4%BB
+梧州新闻综合,http://live.wuzhourm.cn/xwzh/index.m3u8
+梧州教育生活,http://live.wuzhourm.cn/jysh/index.m3u8
+梧州新闻综合,http://live.wuzhourm.cn:80/xwzh/index.m3u8
+梧州教育生活,http://live.wuzhourm.cn:80/jysh/index.m3u8
 防城港新闻综合,webview://https://www.fcgtvb.com/lives/2
 防城港公共,webview://https://www.fcgtvb.com/lives/3
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 来宾综合,webview://https://share-laibin.gxlbcloud.com/fhshare/#/live_detail?contentType=4&id=9
-贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 贺州综合,webview://http://www.gxhzxw.com/index.php/page-view-id-50
 百色综合,http://43.138.216.144/live/3d517b284178.m3u8
 横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
@@ -797,6 +799,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 西林综合,rtmp://live.gxrb.com.cn/gx/xilin
 乐业综合,rtmp://live.gxrb.com.cn/gx/leye
 兴安综合,rtmp://live.gxrb.com.cn/gx/xingan
+马山综合,webview://https://www.qukanvideo.com/cloud/h5/1758165058517221
+田东综合,webview://http://www.qukanvideo.com/cloud/h5/1758786150192313
 
 湖南,#genre#
 湖南卫视,webview://https://web.guangdianyun.tv/tv/?id=680&uin=1202
