@@ -1470,6 +1470,8 @@ $石家庄
 济南教育,webview://https://www.jnjyapp.cn/live/live_tv.html
 聊城综合,webview://https://api.lcxw.cn/live/live_tv.html
 聊城综合,webview://http://www.lcxw.cn/kands/
+聊城综合,http://p2hs.vzan.com/slowlive/764847762432628424/live.m3u8?zbid=310994002&tpid=1890088003
+聊城民生,http://p2hs.vzan.com/slowlive/784687275696638407/live.m3u8?zbid=310994002&tpid=1621172895
 聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
 聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 潍坊新闻综合,webview://https://www.wfcmw.cn/330865/
@@ -1506,11 +1508,8 @@ $石家庄
 临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂经济,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
 临沂综合,rtmp://tv.lytv.tv/channellive/ch1
 临沂经济,rtmp://tv.lytv.tv/channellive/ch3
 临沂经济,rtmp://tv.lytv.tv/channellive/ch2
@@ -1637,6 +1636,8 @@ $石家庄
 张店2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
 周村新闻,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0x.html
 周村生活,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
+桓台综合,webview://https://iapp.htxw.cn/share/dHZsLTIzLTE1.html
+桓台二套,webview://https://iapp.htxw.cn/share/dHZsLTIzLTE2.html
 
 东营
 东营新闻综合,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html
@@ -1727,6 +1728,7 @@ $石家庄
 
 济宁
 济宁综合,webview://https://www.jnnews.tv/gbds/index.html
+济宁综合,webview://https://www.jnnews.tv/fuesf/TV
 济宁综合,https://srs.jnnews.tv/video/JTV-1/index.m3u8
 济宁生活,https://srs.jnnews.tv/video/JTV-2/index.m3u8
 济宁公共,https://srs.jnnews.tv/video/JTV-3/index.m3u8
@@ -1789,7 +1791,7 @@ $石家庄
 沂南红色影视,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 沂水综合,webview://https://app.litenews.cn/share/dHZsLTE0NS0x.html
 沂水生活,webview://https://app.litenews.cn/share/dHZsLTE0NS0y.html
-
+新闻综合,webview://https://app.litenews.cn/share/dHZsLTM5LTQ0.html
 日照
 莒县综合,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县生活,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
