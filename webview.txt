@@ -1346,8 +1346,6 @@ $石家庄
 新乡新闻综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 新县综合,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-商城综合,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-商城综合,http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
 新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 新安综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 新密综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
@@ -1507,8 +1505,6 @@ $石家庄
 威海都市生活,webview://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
 威海都市生活,webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
 威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-嘉祥综合,webview://https://web.guangdianyun.tv/tv/1306?uin=2606
-嘉祥生活,webview://https://web.guangdianyun.tv/tv/1307?uin=2606
 临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂经济,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
@@ -1520,24 +1516,14 @@ $石家庄
 东营新闻综合,http://stream.hhek.cn/xwzh/sd/live.m3u8
 东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8
 东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8
-青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 滨州新闻综合,https://lmt.binzhouw.com:8443/live/ca5e9d9535ac.m3u8
 滨州民生,https://lmt.binzhouw.com:8443/live/2aeb23199bab.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
 烟台公共,http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a.m3u8
-德州新闻综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0x.html
-德州经济生活,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0y.html
-德州图文,webview://https://https://iapp.dztv.tv/share/dHZsLTE3OS05.html
 茌平综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 茌平生活 ,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
 仁寿综合,https://play.scrstv.com.cn/TV/xwzh.m3u8?auth_key=1724660870-0-0-a245e661caf0188f84e8e486754a80ce
-张店综合,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
-张店综合,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv01
-张店2,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
-张店2,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv02
-曹县综合,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
-曹县综合,rtmp://jsylivealone.iqilu.com/live/caoxian_tv01
+
 潍坊
 安丘综合,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
 安丘民生,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
@@ -1558,6 +1544,8 @@ $石家庄
 临朐综合,webview://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
 青州综合,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
 青州文化旅游,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
+青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 潍城TV,webview://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
 诸城综合,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
 诸城生活娱乐,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
@@ -1634,6 +1622,10 @@ $石家庄
 淄川新闻,webview://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTE.html
 张店综合,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
 张店2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
+张店综合,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
+张店综合,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv01
+张店2,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
+张店2,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv02
 周村新闻,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0x.html
 周村生活,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
 桓台综合,webview://https://iapp.htxw.cn/share/dHZsLTIzLTE1.html
@@ -1709,6 +1701,8 @@ $石家庄
 成武综合,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html
 成武综艺,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html
 曹县综合,webview://https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html
+曹县综合,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
+曹县综合,rtmp://jsylivealone.iqilu.com/live/caoxian_tv01
 东明新闻综合,webview://https://iapp.dongmingrongmei.cn/share/dHZsLTExMS0y.html
 定陶新闻,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html
 定陶综艺,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTg.html
@@ -1726,6 +1720,8 @@ $石家庄
 济宁综合,https://srs.jnnews.tv/video/JTV-1/index.m3u8
 济宁生活,https://srs.jnnews.tv/video/JTV-2/index.m3u8
 济宁公共,https://srs.jnnews.tv/video/JTV-3/index.m3u8
+嘉祥综合,webview://https://web.guangdianyun.tv/tv/1306?uin=2606
+嘉祥生活,webview://https://web.guangdianyun.tv/tv/1307?uin=2606
 嘉祥综合,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html
 嘉祥生活,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html
 金乡综合,webview://https://iapp.jxrm.net/share/dHZsLTEyOS0y.html
