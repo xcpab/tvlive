@@ -803,7 +803,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 长沙新闻综合,http://nn.7x9d.cn/地方台8563/湖南2.php?id=269
 长沙政法,http://nn.7x9d.cn/地方台8563/湖南2.php?id=254
 湖南爱晚,webview://https://www.mgtv.com/z/261/261.html
-湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
 湖南经视,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8
 湖南国际,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
 湖南都市,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
@@ -3298,7 +3297,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 习水综合,webview://https://www.xishuirm.cn/lives/9
 习水综合,https://ali-live.xishuirm.cn/live/app3.m3u8?auth_key=1766452673-0-0-8e8c44fcd3a77207b5a5317d1c674574
 仁怀综合,webview://http://win.nettv.vip/embed/renhuai.php
-仁怀综合,https://aliyun-live.rh163.cn/live/app1.m3u8?auth_key=1766456022-0-0-1911f085bfbaa40d81c2d047bc5e272f
 
 四川,#genre#
 四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
