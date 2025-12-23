@@ -3270,8 +3270,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 贵州科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州移动电视,webview://https://www.gzstv.com/tv/ch13
 贵阳新闻综合,webview://https://web.guangdianyun.tv/tv/3398?uin=4263
-铜仁新闻综合,webview://https://movement.gzstv.com/streams/videolive/84
-遵义新闻综合,webview://https://movement.gzstv.com/streams/videolive/78
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻综合,webview://http://www.gzastv.cn/live/live.shtml
 安顺新闻综合,webview://http://https://app.gzastv.cn//television/live_wap_138891.html?site=53
@@ -3297,6 +3295,10 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 石阡电视台,https://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
 凯里综合,https://p8.vzan.com/slowlive/155100264086195136/live.m3u8
 黔东南综合,https://p8.vzan.com/slowlive/144621665466645234/live.m3u8
+习水综合,webview://https://www.xishuirm.cn/lives/9
+习水综合,https://ali-live.xishuirm.cn/live/app3.m3u8?auth_key=1766452673-0-0-8e8c44fcd3a77207b5a5317d1c674574
+仁怀综合,webview://http://win.nettv.vip/embed/renhuai.php
+仁怀综合,https://aliyun-live.rh163.cn/live/app1.m3u8?auth_key=1766456022-0-0-1911f085bfbaa40d81c2d047bc5e272f
 
 四川,#genre#
 四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
@@ -3356,8 +3358,10 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 绵阳新闻综合,webview://http://www.myntv.cn/html/zb/mytv1.asp
 绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
-绵阳新闻综合,http://livepull.myntv.cn:80/rtmp/myzh.m3u8
-绵阳科教生活,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
+绵阳新闻综合,http://tvpull.myntv.cn/rtmp/myzh.m3u8
+绵阳新闻综合,http://tvpull.myntv.cn/rtmp/myzh.flv
+绵阳科教生活,http://tvpull.myntv.cn/rtmp/mykj.m3u8
+绵阳科教生活,http://tvpull.myntv.cn/rtmp/mykj.flv
 绵阳新闻综合,http://fjgcl.myxwcm.cn/live/9ff5a9b001971000b986a10c00000000/playlist.m3u8?wsSecret=c91a6af5e349cc6b3115363a3eb001a7&wsTime=2019657600
 绵阳科教生活,http://fjgcl.myxwcm.cn/live/9ff6671801971000c0df254f00000000/playlist.m3u8?wsSecret=47b8341e592207bfe68c68ba9fc11d92&wsTime=2019657600
 江油综合,http://jypull.jyxrmtzx.xyz/live/9dfe6ab1018e1000f4bb01a600000000/playlist.m3u8?wsSecret=9eb9256aa01b00e91c86deab33ef9cab&wsTime=2019657600
@@ -3381,11 +3385,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
 泸州科教生活,webview://https://www.luzhoubs.com/lztv3/index.html
-泸州新闻综合,http://file.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-泸州新闻综合,http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州新闻综合,http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州新闻综合,http://tvdrs.luzhoubs.com:8100/channellive/lztv1.flv
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://tvdrs.luzhoubs.com:8100/channellive/lztv3.flv
 泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 泸县综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
@@ -3407,14 +3411,16 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,webview://http://m.dzsm.com/tms
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel104601/playlist.m3u8
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+苍溪综合,https://tvfile.lzgbdst.cn/nmip-media/channellive/channel106876/playlist.m3u8
 利州新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+昭化综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 昭化综合,http://live.zhgbtv.cn:3100/hlsram/live0/index.m3u8
+广元综合,webview://http://m.dzsm.com/tms
+
 遂宁综合,webview://https://www.snxw.com/suinMini/site/6642bf8360b26293fe689f04/6642d21860b26293fe689f4c
 遂宁文化生活,webview://http://www.snxw.com/wldst/gggyzb/
 遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
@@ -3426,12 +3432,15 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内江综合,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
 内江科教生活,webview://https://www.scnj.tv/bencandy.php?fid=43&aid=1914042
 内江科教生活,https://www.scnj.tv/hls_njtv_direct/9.m3u8
+内江科教生活,https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
+内江综合,https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
 内江综合,https://www.scnj.tv/hls_njtv_direct/1.m3u8
 内江综合,https://www.scnj.tv/hls_njtv_direct/2.m3u8
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 东兴综合,http://dxpull.njdxrm.cn/live/93f6de420192100084d4e49300000000/playlist.m3u8?wsSecret=5af4267b22744b16a7d4bb75fed6b7e7&wsTime=2019657600
 资中综合,http://zzpull.zzrmtzx.cn/live/75c3758a0193100092e8cea100000000/playlist.m3u8?wsSecret=e40ab1fec464e16bb966fa960cc9ff30&wsTime=2019657600
 隆昌综合,http://lcpull.lcrmt.cn/live/290b5c6d018f10005f27549100000000/playlist.m3u8?wsSecret=16fa06c38ecb93e0b4743792b7ea0641&wsTime=2019657600
+
 宜宾新闻综合,webview://https://m.ybtv.cc/tms/app/default/150997
 宜宾公共,webview://https://ybtv.cc/tms/app/default/1214936
 南溪综合,webview://https://tgslmevzb.vzan.com/live/page/311008060?v=1746245997000
@@ -3451,6 +3460,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 营山综合,http://tv.drs.ysxtv.cn:8100/channellive/ystv-bak.flv
 营山综合,webview://http://m.ysxtv.cn/tms/app/ysrmt/64542
 青神综合,http://lmt.scqstv.com/live1/live1.m3u8
+
 达州新闻综合,webview://https://www.dzrm.cn/cms/tv
 达州新闻综合,webview://http://m.dzxw.net/tms/app/dz/297861
 达州文化生活,webview://https://www.dzrm.cn/cms/tv/13560089?
@@ -3470,11 +3480,13 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宣汉综合,http://livexuanhan.chinamcache.com/live/push1.m3u8
 宣汉综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 
+雅安新闻综合,https://play.yunxya.com/channellive/xinwen.flv
 雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
 雅安新闻综合,webview://http://m.yunxya.com/tms/app/ceshiapp/187644
 雅安新闻综合,webview://https://www.beiww.com/cms/content/34353990
-雅安文化生活,http://play.yunxya.com/channellive/whsh.m3u8
+雅安文化生活,https://play.yunxya.com/channellive/whsh.flv
+雅安文化生活,https://play.yunxya.com/channellive/whsh.m3u8
 雅安文化生活,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
 雅安文化生活,webview://https://www.beiww.com/cms/content/34354720
 雅安雨城,http://tv.yunxya.com/channellive/yucheng.flv
@@ -3577,7 +3589,6 @@ i乐山,http://p8.vzan.com/slowlive/147517797332177132/live.m3u8
 中江综合,http://bl.zjtvrm.cn/live/zjrmzxzb.m3u8?timestamp=20250617174454&encrypt=7759375eb83dccfe26811155bff1c4be
 华蓥综合,http://218.89.61.237:83/live/xwzh.m3u8
 崇州综合,http://livesec.mudu.tv/watch/x6h90s.m3u8
-苍溪综合,rtmp://118.121.231.225:1935/live/hdmi054
 洪雅综合,http://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
 西充综合,http://bl.xichongtv.cn/xcrm2025/ZHPD1010.m3u8?auth_key=1768713113-0-0-b6d00e1ea50a76484d1bed974d6e1b80
 
