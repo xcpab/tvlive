@@ -3385,10 +3385,10 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
 泸州科教生活,webview://https://www.luzhoubs.com/lztv3/index.html
-泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州新闻综合,https://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州新闻综合,http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州新闻综合,http://tvdrs.luzhoubs.com:8100/channellive/lztv1.flv
-泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州科教生活,https://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://tvdrs.luzhoubs.com:8100/channellive/lztv3.flv
 泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
@@ -3398,10 +3398,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw
 合江综合,http://hjpull.hjxtv.com/live/13034430018f10001416c54900000000/playlist.m3u8?wsSecret=61be0b2528cf1f9f05a427cf47c632b7&wsTime=2019657600
 
-德阳新闻综合,webview://http://zb.scdytv.com/?name=xwpd
-德阳文旅科教,webview://http://zb.scdytv.com/?name=ggpd
-德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+德阳新闻综合,webview://https://dywang.cn/tv/detail/1
+德阳文旅科教,webview://https://dywang.cn/tv/detail/4
+德阳新闻综合,https://zb.scdytv.cn/live/xwpd.m3u8
+德阳文旅科教,https://zb.scdytv.cn/live/wlkj.m3u8
+
 罗江综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 罗江综合,webview://https://fabu.luojiangrongmei.com/luojiang-publish-app/pages/palm/livebroadcast/index
 绵竹综合,webview://https://web.guangdianyun.tv/tv/?id=1933&uin=3277
@@ -3523,9 +3524,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 九寨沟新闻综合,http://jzpull.jzgrmt.cn/live/71af360e0193100051149d6b00000000/playlist.m3u8?wsSecret=052358fbc75c0e852954a22a51d0cd7f&wsTime=2019657600
 广安新闻综合,webview://https://www.gatv.com.cn/Tv/details?id=10
 广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
-广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
-广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+广安新闻综合,http://live1.gatv.com.cn:90/live/XWZH.m3u8
+广安文旅乡村,http://live1.gatv.com.cn:90/live/GGPD.m3u8
 武胜综合,http://wspull.wsxrmt.com.cn/live/fb899c55019310000893a7cd00000000/playlist.m3u8?wsSecret=49781046550db1e8434768dc478f8b59&wsTime=2019657600
 邻水综合,http://lspull.lsrmtzx.cn/live/c92cb6c001971000d922f2dd00000000/playlist.m3u8?wsSecret=8bca56a07d291fb734625e030a47ff25&wsTime=2019657600
 前锋综合,http://qfpull.qfrmt.cn/live/48364bd5019310005e7f2b2600000000/playlist.m3u8?wsSecret=38f5b177eaf9db3cd2b5b5e01e791a90&wsTime=2019657600
