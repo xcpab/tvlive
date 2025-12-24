@@ -116,6 +116,19 @@ CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
 CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+CGTN阿尔巴尼亚,webview://https://live-ol.meldingcloud.com/albanianlive/am106online.m3u8?auth_key=1711939304-0-0-c9ac7fc169f869fc45f13bfb96bbe81f
+CGTN阿尔巴尼亚,webview://https://albanian.cgtn.com/LIVE/
+CGTN swahili,webview://https://sk.cri.cn/kenya.m3u8
+CGTN swahili,webview://https://swahili.cgtn.com/2024/12/13/ARTI1734063627803469
+cctv plus1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1_600p.smil/playlist.m3u8
+cctv plus1,webview://https://www.cctvplus.com/live/channel1.shtml
+cctv plus2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2_600p.smil/playlist.m3u8
+cctv plus2,webview://https://www.cctvplus.com/live/channel2.shtml
+cctv plus3,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3_600p.smil/playlist.m3u8
+cctv plus3,webview://https://www.cctvplus.com/live/channel3.shtml
+cctv plus4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4_600p.smil/playlist.m3u8
+cctv plus4,webview://https://www.cctvplus.com/live/channel4.shtml
+
 CCTV-6 电影,webview://https://www.1905.com/cctv6/live/
 CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -144,8 +157,10 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 CETV4,webview://https://edu.cctv.com/cetv/
 CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
 CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$1080p
+CHC影迷电影,webview://https://m.miguvideo.com/m/liveDetail/952383261?channelId=201600010010024
+1905电影网,webview://https://m.1905.com/m/xl/live/?fr=1905app
+环球经典,webview://https://m.1905.com/m/1905tv/live/?fr=1905app
 1905电影网,webview://https://m.1905.com/m/xl/live/
-1905电影网,http://php.jdshipin.com/1905.php
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -154,6 +169,7 @@ CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playli
 重温经典,http://aikuai2.xuran1983.cn:2008/udp/225.1.8.39:8002
 书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
 书画,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+书画,webview://http://web.shtv.net.cn/app/v-1.1.89-zh_CN-/shtv/index.w?go=main#!($model/v-1.1.89-zh_CN-/shtv/webpage/live.w)
 党员频道,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 党员频道,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
@@ -172,6 +188,26 @@ CECTV-3 国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CECTV-4 国际健康,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
+央广购物,https://newapplive.cnrmall.com/live/cnrxp_HD1200.m3u8
+央广购物,webview://https://www.cnrmall.com/tv/
+央广购物,webview://https://m1.cnrmall.com/
+聚鲨环球精选,http://app.c01.live.sharkselection.com/beijing.m3u8
+聚鲨环球精选,webview://https://wp.sharkshopping.com/
+中国供销,webview://https://web.guangdianyun.tv/tv/1399?uin=2118
+中经电视,webview://http://yun.ce.cn/mobile/
+imode时尚,http://player.juyun.tv/camera/137932133.m3u8
+imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
+农视网正在直播,https://streamrtmp.ntv.cn/live/1234.m3u8
+农视网正在直播,webview://https://rmtapi.ntv.cn/jhxtapi/jhxt/Live/show/id/3360
+amsp,https://ww2-live.amsp.link/live/ch1.m3u8
+amsp,webview://https://amsp.link/live
+央视网清流直播1,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip1
+央视网清流直播2,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip2
+央视网清流直播3,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip3
+央视网清流直播4,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip4
+央视网清流直播5,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip5
+央视网清流直播6,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip6
+央视网清流直播,webview://http://sports.cctv.com/H5/Program/index.shtml
 
 卫视,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -2477,7 +2513,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 滁州新闻综合,webview://http://www.cztv.cc/Live/index?liveid=1
 滁州公共,webview://http://www.cztv.cc/Live/index?liveid=2
 滁州科教,webview://http://www.cztv.cc/Live/index?liveid=3
-芜湖新闻综合,webview://http://www.wuhubtv.com/folder1194/#
+芜湖新闻综合,webview://http://www.wuhubtv.com/folder1194/
 合肥新闻,webview://https://app.hfbtc.cn/shows/2/1.html
 合肥生活,webview://https://app.hfbtc.cn/shows/2/2.html
 合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
@@ -2516,12 +2552,22 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 广德生活,http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 广德新闻综合,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=14&dataObjId=26
 广德生活,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
+广德新闻综合,webview://https://wdgdedit.ahwanyun.cn/h5/shareLive/index.html#/?liveId=14&appId=340&contId=14&dataObjId=26
+广德生活,webview://https://wdgdedit.ahwanyun.cn/h5/shareLive/index.html#/?liveId=15&appId=340&contId=15&dataObjId=26
+
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+固镇综合,webview://http://www.guzhenm.com:8008/AndrApp/pages/live_info.html?data-id=15?http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%9B%BA%E9%95%87%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93?%E7%94%B5%E8%A7%86
+五河新闻综合,http://file.wuhermt.cn/hls/gWcg9GLNg/playlist.m3u8
+五河新闻综合,webview://https://child.yun.fst1994.net/shareh5/wuhe/#/
 灵璧新闻综合,webview://http://app.cms.anhuinews.com/video/videojs/index?site_id=10003&live_type=1&id=32
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
+祁门综合,webview://http://www.qmxrmt.com/cms/content/1026918
+
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8
 潜山综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8
+潜山综合,webview://https://www.qsxw.gov.cn/tv_politics
+
 六安综合,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104416.shtml
 六安综合,https://live.ahsx.ahtv.cn/live/latv.m3u8?txSecret=a9aec2d19be14af37372ae129e00961c&txTime=6954CAD3
 六安综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/latv.m3u8
@@ -2535,32 +2581,63 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 怀远综合,http://play-a2.quklive.com/live/1734491351341308.m3u8
 怀远综合,webview://http://www.qukanvideo.com/cloud/h5/1734491351341308
 蒙城新闻,http://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
+蒙城新闻,https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
 蒙城新闻,webview://https://noctguvzb.vzan.com/live/page/1242056970?v=1744437591000
 桐城综合,webview://https://web.guangdianyun.tv/tv/3350?uin=4104
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
 利辛新闻综合,https://live.rong-lixin.com/hls/lixinxw/playlist.m3u8
+利辛新闻综合,webview://https://www.rong-lixin.com/tvLive
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch0.m3u8
+涡阳新闻综合,http://112.28.86.56:8099/live/one/playlist.m3u8
 涡阳新闻综合,webview://https://gyrmedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=233
 阜阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
 阜阳教育,webview://https://web.guangdianyun.tv/tv/?id=2852&uin=2577
 阜阳生活,webview://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
 阜阳都市文艺,webview://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
+阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
+阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
+阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阜南新闻综合,webview://https://web.guangdianyun.tv/tv/3216?uin=1469
+阜南新闻综合,http://112.27.139.242:8278/fnxwzh/playlist.m3u8
 阜南新闻综合,http://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
+阜南新闻综合,webview://https://fnxnews.cn/website/live-broadcast.html
 马鞍山新闻综合,webview://https://www.masbcx.cn/statics/maanshan-website/generalColumns/ds
+马鞍山新闻综合,webview://https://www.masbcx.cn/html/rft/live.html?channelId=b180abf75c0f490a96c33df29d81cf5f&type=1&siteId=c508cfbe9292471d91ddcadb72e58faa&shareAppId=c508cfbe9292471d91ddcadb72e58faa
+马鞍山科教生活,webview://https://www.masbcx.cn/html/rft/live.html?channelId=dfafe6c8d6ca426ca10c36e547b8db45&type=1&siteId=c508cfbe9292471d91ddcadb72e58faa&shareAppId=c508cfbe9292471d91ddcadb72e58faa
 马鞍山新闻综合,https://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
 马鞍山科教生活,https://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
 泾县新闻综合,https://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
 宁国新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1588&uin=2465
 萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
+萧县新闻综合,webview://https://zhxxedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=320
+
 淮河能源综合,http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
+淮河能源,webview://https://www.hhnynews.com/html/rft/live.html?channelId=25b12f8fbb814d348d83e6d8ebc718bb&type=1&siteId=e746afd84edd4516841ef09bebd78602&shareAppId=e746afd84edd4516841ef09bebd78602
 宣城综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/xctv.m3u8
 绩溪新闻综合,https://live.cnjxxw.com/hls/jxzh/playlist.m3u8
+绩溪新闻综合,webview://https://www.cnjxxw.com/
+岳西新闻综合,http://112.28.222.71:20080/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
 岳西新闻综合,https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
 岳西新闻综合,https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7.flv
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
+无为综合,http://112.28.222.71:20080/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
+繁昌新闻综合,https://nfcplay.wuhunews.cn/fc/zhpd_lhd.m3u8
+繁昌新闻综合,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895755.html
+繁昌文化娱乐,https://nfcplay.wuhunews.cn/fc/whyl.m3u8
+繁昌文化娱乐,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895752.html
+郎溪综合,webview://http://www.zglx.gov.cn/tvLive
+郎溪综合,https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
+当涂新闻综合,http://112.28.222.71:20080/live/53296715e584463cb512dccf964311a8/hls.m3u8
+含山新闻综合,webview://https://app.hswltv.cn/mag/livevideo/v1/video/wapVideoView?id=13720
+含山新闻综合,http://livehs.hswltv.com/hls/hanshanzh/index.m3u8
+濉溪电视,http://112.28.222.71:20080/live/a69bc3cfc7f34dbea9d31b5176d732ca/hls.m3u8
+歙县综合,http://112.28.222.71:20080/live/09c5ad9fdb8a44fbaf152b03f8402589/hls.m3u8
+歙县综合,webview://https://wyedit.ahsxrm.cn/h5/shareLive/index.html#/?liveId=1&appId=231&contId=1&dataObjId=26
+黟县综合,webview://https://child.yun.fst1994.net/shareh5/yixian/#/pages/home/liveSon/liveson?type=VIDEO&title=%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD&thumb=%2Fconvey%2Fplay%2F6ae13be0d12ca1f6e076626aa539c5f6%2FsimpleFormat%3FfileName%3D6ae13be0d12ca1f6e076626aa539c5f6.png&link=https%3A%2F%2Fplay-a2.quklive.com%2Flive%2F1715757116493079.m3u8
+太湖新闻综合,http://112.28.222.71:20080/live/cd47e028615f4bd29098cdc78126e524/hls.m3u8
+金寨综合,http://live.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
 
 黑龙江,#genre#
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
