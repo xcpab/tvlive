@@ -237,6 +237,8 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
 宜春综合,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
+宜春综合,https://liveds-yc.newsyc.com/api/cloudlive/wetef_sd.flv
+宜春法治民生,https://liveds-yc.newsyc.com/api/cloudlive/two_sd.flv
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744#/
 宜春法治民生,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
 九江新闻综合,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=29
@@ -345,7 +347,6 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 鹰潭综合,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
 贵溪综合,http://guixibc.jxshiju.com/live/guixi.m3u8
@@ -803,6 +804,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 长沙新闻综合,http://nn.7x9d.cn/地方台8563/湖南2.php?id=269
 长沙政法,http://nn.7x9d.cn/地方台8563/湖南2.php?id=254
 湖南爱晚,webview://https://www.mgtv.com/z/261/261.html
+湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
 湖南经视,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8
 湖南国际,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
 湖南都市,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
@@ -2270,6 +2272,7 @@ $石家庄
 奉化综合,webview://https://web.guangdianyun.tv/tv/3152?uin=3512
 慈溪综合,webview://https://web.guangdianyun.tv/tv/3697?uin=1346
 宁海新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1423&uin=1329
+宁海新闻综合,webview://http://nh.cnnb.com.cn/2024/p/tv.html
 宁海新闻综合,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 嘉善新闻综合,webview://https://www.jsxww.cn/5651/15962/index.html
 嘉善新闻综合,https://p2hs.vzan.com/slowlive/633251673265558519/live.m3u8
@@ -2988,7 +2991,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 商洛公共,http://player4.juyun.tv/camera/167348174.m3u8
 延安综合,https://srs.yanews.cn/video/YATV-1/index.m3u8
 延安综合,http://srs.yanews.cn/video/YATV-1/index.m3u8
-延安公共,http://srs.yanews.cn/video/YATV-2/index.m3u8
+延安公共,https://srs.yanews.cn/video/YATV-2/index.m3u8
+延安公共,webview://https://www.yanews.cn/fuesf/TV
 安康综合,http://pili-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 安康民生,http://pili-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
 安康教育,http://pili-live-hls.akrt.cn/akapptv/jypdhd.m3u8
@@ -3186,8 +3190,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 丽江新闻综合,webview://https://www.lijiang.cn/live/
 华坪综合,https://hwapi.yntv.net/xfm214/198968.m3u8
 怒江综合,https://hwapi.yntv.net/s5xpv2/9r4ei4.m3u8
-怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.flv
-怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
+怒江综合,https://zb-live.ynurl.com/nujiang/3958c9a0-7db0-4bef-a422-fd900d762e83.m3u8
 怒江综合,webview://https://www.nujiang.cn/html/video/tv/
 福贡综合,http://zb-live.ynurl.com/live/5dd91e43-da42-4d32-81ec-7354b2b36de7.flv
 福贡综合,http://zb-live.ynurl.com/live/5dd91e43-da42-4d32-81ec-7354b2b36de7.m3u8
@@ -3299,6 +3302,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 习水综合,webview://https://www.xishuirm.cn/lives/9
 习水综合,https://ali-live.xishuirm.cn/live/app3.m3u8?auth_key=1766452673-0-0-8e8c44fcd3a77207b5a5317d1c674574
 仁怀综合,webview://http://win.nettv.vip/embed/renhuai.php
+仁怀综合,https://aliyun-live.rh163.cn/live/app1.m3u8?auth_key=1766456022-0-0-1911f085bfbaa40d81c2d047bc5e272f
 
 四川,#genre#
 四川卫视4K,webview://http://win.nettv.vip/sichuan/13038.html
@@ -4148,9 +4152,9 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 澳门资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 台湾,#genre#
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
