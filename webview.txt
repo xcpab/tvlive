@@ -3977,7 +3977,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 文山综合,https://hwapi.yntv.net/ew265l/29vf20.m3u8
 文山综合,webview://http://m.wsrtv.com.cn/cms?column=100648
 文山综合,webview://http://rbweb.wsnews.com.cn/cms/tv
-文山综合,webview://http://rbweb.wsnews.com.cn/cms/tv
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山综合,http://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
 麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
@@ -3994,7 +3993,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 西双版纳文化旅游,http:///channellive.xsbnw.cn/default/nmip-media/channellive/channel112694/playlist.m3u8
 西双版纳文化旅游,webview://https://m.xsbnw.cn/cms/content/12070751
 昭通综合,https://hwapi.yntv.net/ew265l/5fkqnm.m3u8
-昭通三套,webview://https://hwapi.yntv.net/9nwc4s/y7445b.m3u8
+昭通三套,https://hwapi.yntv.net/9nwc4s/y7445b.m3u8
 绥江电视台,http://60.160.23.32:8100/media/livepkgr/sjtv/playlist.m3u8
 彝良综合,webview://https://zb-live.ynurl.com/yiliang/daba5594-ccf8-44c1-a137-3b368b8e398b.m3u8
 镇雄电视台,http://livebroadcastzx.kpinfo.cn/live/w1721178893949339.flv
