@@ -4018,11 +4018,11 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 迪庆新闻综合,http://live.xgll.com.cn/hls/tv/dqrm-zhpd-2025.m3u8
 迪庆藏语,http://live.xgll.com.cn/hls/tv/dqrm-zypd-2025.m3u8
+迪庆新闻综合,webview://https://www.xgll.com.cn/cityMini/site/tv?shareAppId=93ed9803e42d43f3be794d00065293a8
 迪庆新闻综合,webview://https://source.xgll.com.cn/html/rft/live.html?channelId=04dfa186daff4d88adedaa0b7ef825dc&type=1&siteId=899911efddc94d60bef5d19124362220&shareAppId=899911efddc94d60bef5d19124362220
 迪庆藏语,webview://https://source.xgll.com.cn/html/rft/live.html?channelId=8669ef6ef1fc49ecbeccf3495481abb0&type=1&siteId=899911efddc94d60bef5d19124362220&shareAppId=899911efddc94d60bef5d19124362220
 迪庆新闻综合,webview://https://yndq.diqingtv.com/application/tenma01ds_tvradio/view/h5/#/?id=1
 迪庆藏语,webview://https://yndq.diqingtv.com/application/tenma01ds_tvradio/view/h5/#/?id=2
-迪庆新闻综合,webview://https://www.xgll.com.cn/cityMini/site/tv?shareAppId=93ed9803e42d43f3be794d00065293a8
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 文山市新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
@@ -4353,12 +4353,12 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 四川巴州,webview://http://app.scbzxw.cn:8083/sctv/lives/2022/03/04/1714_shared.html
 
 凉山新闻综合,webview://http://m.i0834.cn/tms/app/default/83365
-凉山新闻综合,webview://https://www.ls666.com/platform/tv
 凉山新闻综合,https://tvlive.i0834.cn/nmip-media/channellive/channel114103/playlist.m3u8
 凉山彝语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 凉山彝语,https://tvlive.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 凉山彝语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+凉山新闻综合,webview://https://www.ls666.com/platform/tv
 
 宁南综合,http://nnpull.ningnan.gov.cn/live/bd3e289e018f100042d46e9300000000/playlist.m3u8?wsSecret=f1408b81c110be4002ba3cfc6201845e&wsTime=2019657600
 宁南综合,webview://http://kstatic.sctvcloud.com:80/static/a3427/list/1514909142486818817.json
