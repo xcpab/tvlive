@@ -3379,9 +3379,9 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
 东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
 通化新闻综合,webview://https://h5-master.jlntv.cn/front-cloudlive-manage-h5/index.html?id=762677854365392896#/
-通化市新闻综合,webview://https://live-master.jlntv.cn/thhd/sd/live.m3u8
-通化市新闻综合,http://lsfb.avap.jilintv.cn:80/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-通化市新闻综合,webview://https://h5-th.jlntv.cn/
+通化新闻综合,webview://https://live-master.jlntv.cn/thhd/sd/live.m3u8
+通化新闻综合,http://lsfb.avap.jilintv.cn:80/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+通化新闻综合,webview://https://h5-th.jlntv.cn/
 
 集安综合,webview://http://6ctv-www.plus.jlntv.cn/jian/folder329/folder334
 梅河口综合,webview://http://uufn-www.plus.jlntv.cn/meihekou/folder1759
@@ -3448,7 +3448,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8
 龙井综合,http://stream8.jlntv.cn:80/ljtv/playlist.m3u8
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
-通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
 
 辽宁,#genre#
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
@@ -3556,7 +3555,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 西安丝路,https://xatv-bq.xiancity.cn:443/live/5/index.m3u8
 西安戏剧影视,http://xatv-yt.xiancity.cn/live/4/index.m3u8
 西安戏剧影视,https://xatv-yt.xiancity.cn/live/4/index.m3u8
-西安戏曲影视,https://xatv-bq.xiancity.cn:443/live/4/index.m3u8
+西安戏剧影视,https://xatv-bq.xiancity.cn:443/live/4/index.m3u8
 西安乐购购物,https://xatv-bq.xiancity.cn:443/live/6/index.m3u8
 西安移动电视,http://xatv-yt.xiancity.cn/live/7/index.m3u8
 西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
@@ -3651,15 +3650,15 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 陇南公共,webview://https://cloud.kankanlive.com/cloud/h5/1709171893138901
 陇南公共,webview://https://cloud.kankanlive.com/cloud/a/embed/1709171893138901
 陇南公共,webview://https://nginx-lns.xgsyun.com/lns/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tbG5zLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4MWE5Y2Q3OGNlODZmMDEyZSJ9
-临夏州综合,http://play.kankanlive.com/live/1714096320293954.m3u8
-临夏州综合,webview://https://cloud.kankanlive.com/cloud/h5/1714096320293954
-临夏州综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1714096320293954
-临夏州综合,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=374#374
-临夏州综合,webview://http://chinalxnet.com/index/Zhibo/index.html
-临夏州文旅,https://play.kankanlive.com/live/1714099799400957.m3u8
-临夏州文旅,webview://https://cloud.kankanlive.com/cloud/h5/1714099799400957
-临夏州文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1714099799400957
-临夏州文旅,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=375#375
+临夏综合,http://play.kankanlive.com/live/1714096320293954.m3u8
+临夏综合,webview://https://cloud.kankanlive.com/cloud/h5/1714096320293954
+临夏综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1714096320293954
+临夏综合,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=374#374
+临夏综合,webview://http://chinalxnet.com/index/Zhibo/index.html
+临夏文旅,https://play.kankanlive.com/live/1714099799400957.m3u8
+临夏文旅,webview://https://cloud.kankanlive.com/cloud/h5/1714099799400957
+临夏文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1714099799400957
+临夏文旅,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=375#375
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
 武威综合,webview://https://cloud.kankanlive.com/cloud/h5/1693539781636986
 武威综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1693539781636986
@@ -3669,8 +3668,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 定西综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1707969054968992
 定西文旅生活,http://play.kankanlive.com/live/1745232082475287.m3u8
 定西文旅生活,https://play.kankanlive.com/live/1707482307440963.m3u8
-定西西文旅生活,webview://https://cloud.kankanlive.com/cloud/h5/1707482307440963
-定西西文旅生活,webview://https://cloud.kankanlive.com/cloud/a/embed/1707482307440963
+定西文旅生活,webview://https://cloud.kankanlive.com/cloud/h5/1707482307440963
+定西文旅生活,webview://https://cloud.kankanlive.com/cloud/a/embed/1707482307440963
 红古综合,https://play.kankanlive.com/live/1741073416508036.m3u8
 红古综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1741073416508036
 红古综合,webview://https://aihonggun.newgscloud.com/live/2025/03/04/7280c79079db46fc9129a4254c44f360.html?shareAppId=81ea0af4f26248a6bda2095800aa54c2
@@ -3749,7 +3748,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 玛曲电视台,webview://https://cloud.kankanlive.com/cloud/h5/1711955878545987
 玛曲电视台,webview://https://cloud.kankanlive.com/cloud/a/embed/1711955878545987
 临潭电视台,webview://http://gnrtv.cn/m/display.php?id=93
-临潭,webview://http://www.gnrtv.com/display.php?id=93
+临潭电视台,webview://http://www.gnrtv.com/display.php?id=93
 临潭电视台,webview://https://nginx-gnz.xgsyun.com/gnz/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tZ256Lnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjksImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4YWEyMDhjZWYxMzgyZjU3MSJ9
 临潭电视台,webview://https://play.kankanlive.com/live/1711955919910986.m3u8
 临潭电视台,webview://https://cloud.kankanlive.com/cloud/h5/1711955919910986
@@ -4034,6 +4033,8 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 隆阳综合,webview://https://www.lyqrmt.com/article/14/5.html
 隆阳综合,https://hwapi.yntv.net/5a6l75/0w8p8m_hd.m3u8
 玉溪新闻综合,https://hwapi.yntv.net:443/r5fc3f/4kzlat_hd.m3u8
+玉溪新闻综合,webview://https://hwapi.yntv.net:443/r5fc3f/4kzlat_hd.m3u8
+玉溪社会与法,webview://https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8
 玉溪社会与法,https://hwapi.yntv.net:443/r5fc3f/3l9g1m_hd.m3u8
 
 贵州,#genre#
@@ -4580,10 +4581,10 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.m3u8
 内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.flv
 内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/2324general
-内蒙古蒙语卫视,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560387346365
-内蒙古蒙语卫视,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560387346365
-内蒙古蒙语卫视,webview://http://mongol.cctv.com/index.html
-内蒙古蒙语卫视,webview://https://mn.cctv.com/live/index.shtml
+内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560387346365
+内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560387346365
+内蒙古蒙古语卫视,webview://http://mongol.cctv.com/index.html
+内蒙古蒙古语卫视,webview://https://mn.cctv.com/live/index.shtml
 
 内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.flv
@@ -4852,7 +4853,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 昌吉综合,webview://http://www.cjxww.cn/sy/kds/
 昌吉综合,http://play.xjbzrk.com/live/cjzh.m3u8
-昌吉城市生活,http://play.xjbzrk.com/live/cjsh.m3u8
 昌吉综合,webview://http://www.cjxww.cn/new/cjwfusion/
 昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12
 呼图壁综合,http://222.80.186.118:8088/live/video.m3u8
@@ -4863,17 +4863,17 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 吉木萨尔综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10015&id=3&page=canvas&live_type=1
 阜康综合,http://120.69.17.15:50002/live/test1.m3u8
 阜康综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10048&id=8&page=canvas&live_type=1
-疏附汉语,http://36.96.215.58:6000/0.m3u8
-疏附汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10057&id=36&page=canvas&live_type=1
-疏附维语,http://36.96.215.58:6000/4.m3u8
-疏附维语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10057&id=40&page=canvas&live_type=1
+疏附汉语综合,http://36.96.215.58:6000/0.m3u8
+疏附汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10057&id=36&page=canvas&live_type=1
+疏附维语综合,http://36.96.215.58:6000/4.m3u8
+疏附维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10057&id=40&page=canvas&live_type=1
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 玛纳斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10043&id=14&page=canvas&live_type=1
 玛纳斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10043&id=14
-福海汉语,webview://http://222.81.86.42:8060/hls/ch3/ch3.m3u8
-福海汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=15&page=canvas&live_type=1
-福海哈萨克语,webview://http://222.81.86.42:8060/hls/ch4/ch4.m3u8
-福海哈萨克语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=14&page=canvas&live_type=1
+福海汉语综合,webview://http://222.81.86.42:8060/hls/ch3/ch3.m3u8
+福海汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=15&page=canvas&live_type=1
+福海哈语综合,webview://http://222.81.86.42:8060/hls/ch4/ch4.m3u8
+福海哈语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10010&id=14&page=canvas&live_type=1
 
 石河子新闻综合,webview://https://www.shznews.com/TV.html
 石河子新闻综合,http://www.shznews.com/ds/xwzh/playlist.m3u8
@@ -4893,12 +4893,12 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 伊犁哈语综合,http://110.153.180.106:55555/out_2/index.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈语综合,http://218.84.12.186:8002/hls/main/playlist.m3u8
-伊宁汉语,http://222.81.52.40:9898/out_1/index.m3u8
-伊宁汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=55&page=canvas&live_type=1
-伊宁维吾尔语,http://222.81.52.40:9898/out_2/index.m3u8
-伊宁维吾尔语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=56&page=canvas&live_type=1
-霍尔果斯,http://117.190.118.174:9090/stream3/hegs.m3u8
-霍尔果斯,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10038&id=29&page=canvas&live_type=1
+伊宁汉语综合,http://222.81.52.40:9898/out_1/index.m3u8
+伊宁汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=55&page=canvas&live_type=1
+伊宁维语综合,http://222.81.52.40:9898/out_2/index.m3u8
+伊宁维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10012&id=56&page=canvas&live_type=1
+霍尔果斯综合,http://117.190.118.174:9090/stream3/hegs.m3u8
+霍尔果斯综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10038&id=29&page=canvas&live_type=1
 
 塔城汉语综合,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 塔城哈语综合,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
@@ -4934,14 +4934,14 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
-巴音郭楞综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24
-巴音郭楞蒙语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=22
-巴音郭楞维语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=21
-巴音郭楞教育,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=20
-巴音郭楞综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
-巴音郭楞蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
-巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-巴音郭楞教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+巴州综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24
+巴州蒙语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=22
+巴州维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=21
+巴州教育综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=20
+巴州综合综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴州蒙语综合,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+巴州维语综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+巴州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 
 阿克苏汉语综合,webview://https://web.guangdianyun.tv/tv/?id=2229&uin=3643
 阿克苏维语综合,webview://https://web.guangdianyun.tv/tv/?id=2233&uin=3643
@@ -4976,18 +4976,9 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 博州蒙语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10134&id=23&page=canvas&live_type=1
 博州维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10134&id=22&page=canvas&live_type=1
 
-巴州汉语,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
-巴州汉语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
-巴州蒙古语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
-巴州蒙古语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=22&page=canvas2&live_type=1
-巴州维吾尔语,/http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-巴州维吾尔语,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=21&page=canvas2&live_type=1
-巴州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-巴州教育,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=20&page=canvas2&live_type=1
-巴州汉语广播,webview://http://living.muzhifm.com/muzhifm/bazhou_fm966.m3u8?auth_key=
 
-克孜勒苏柯尔克孜自治州汉语,webview://https://pl1.cloud.dayang.com.cn/live/10062_M8PEWJ.m3u8
-克孜勒苏柯尔克孜自治州汉语,webview://https://st-app.xjmty.com/video/videojs/index?id=4&qq_aio_chat_type=3&site_id=10142&live_type=1&page=canvas
+克州综合,webview://https://pl1.cloud.dayang.com.cn/live/10062_M8PEWJ.m3u8
+克州综合,webview://https://st-app.xjmty.com/video/videojs/index?id=4&qq_aio_chat_type=3&site_id=10142&live_type=1&page=canvas
 
 兵团卫视,webview://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
