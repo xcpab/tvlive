@@ -2451,6 +2451,8 @@ $石家庄
 贾汪旅游,http://1033946631.cloudvdn.com/a.m3u8?domain=jiawang-tv-rtmp.cm.jstv.com&player=1&streamid=jiawang-tv:jiawang-tv/jwly&v3=1
 连云港新闻综合,webview://https://sharenew.lyg1.com/?_hgOutLink=live/livedetail&channel_id=54
 连云港公共,webview://https://sharenew.lyg1.com/?_hgOutLink=live/livedetail&channel_id=55
+连云港新闻综合,https://livenew.lyg1.com/SHPD/hd/live.m3u8
+连云港公共,https://livenew.lyg1.com/LYGZHGB/hd/live.m3u8
 盐都综合,http://1033946631.cloudvdn.com/a.m3u8?domain=yandu-tv-rtmp.cm.jstv.com&player=1&streamid=yandu-tv:yandu-tv/yanduzh&v3=1
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
@@ -2640,11 +2642,13 @@ x系列
 松阳综合,webview://http://www.qukanvideo.com/cloud/h5/1718675414025228
 松阳综合,webview://https://cloud.quklive.com/cloud/a/embed/1718675414025228
 云和综合,webview://https://app.tmuyun.com/client/lightPage.html?tenant_id=81&id=474&gaze_control=1
-北仑综合,webview://https://www.qukanvideo.com/cloud/h5/1626327731714170
-北仑综合,webview://https://cloud.quklive.com/cloud/a/embed/1626327731714170
+青田综合,https://cloud.quklive.com/cloud/a/embed/1692755062081192
+青田综合,https://www.qukanvideo.com/cloud/h5/1692755062081192
 青田综合,webview://https://app.tmuyun.com/webChannels/normal?id=64782792e305b45f6263e919&name=%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB&code=%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB&tenantId=77
 鄞州综合,webview://https://www.qukanvideo.com/cloud/h5/1668501533304136
 鄞州综合,webview://https://cloud.quklive.com/cloud/a/embed/1668501533304136
+北仑综合,webview://https://www.qukanvideo.com/cloud/h5/1626327731714170
+北仑综合,webview://https://cloud.quklive.com/cloud/a/embed/1626327731714170
 
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
@@ -2683,15 +2687,11 @@ x系列
 嘉兴新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1675942165226154
 嘉兴文化影视,webview://https://www.qukanvideo.com/cloud/h5/1675149625220101
 嘉兴公共,webview://https://www.qukanvideo.com/cloud/h5/1675149601192103
-海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁生活服务,https://p2hs.vzan.com/slowlive/140655701702632623/live.m3u8
-海宁新闻综合,http://pull-hsbj.vzan.com/v/slowlive_317913155078575177.m3u8
-海宁新闻综合,http://pull-hsbj.vzan.com/v/slowlive_317913155078575177.flv
-海宁新闻综合,rtmp://pull-hsbj.vzan.com/v/slowlive_317913155078575177
-海宁生活服务,http://pull-hsbj.vzan.com/v/slowlive_140655701702632623.m3u8
-海宁生活服务,http://pull-hsbj.vzan.com/v/slowlive_140655701702632623.flv
-海宁生活服务,rtmp://pull-hsbj.vzan.com/v/slowlive_140655701702632623
+海宁新闻综合,webview://https://app.hndachao.cn/webarticle/naturelive2?id=1283&articleId=8579073&tenantId=94&uid=65dfd27e2776e42d4a60e2c2
+海宁生活服务,webview://https://lljtbavzb.vzan.com/live/pc/topic-detail?liveId=293304&topicId=1242115969&parameter=%26jumpitd%3D1
 舟山新闻综合,https://ali-xwl.cztv.com:443/live/zhoushands.m3u8
 舟山新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1699001836208185
 舟山公共,webview://https://www.qukanvideo.com/cloud/h5/1699002430299200
@@ -4913,6 +4913,9 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 布尔津哈语综合,webview://https://web.guangdianyun.tv/tv/?id=3377&uin=4239
 布尔津汉语综合,https://st-video.xjmty.com/fs/livedit/6fc961a3e0f06313/c9338510613c6394.m3u8
 布尔津汉语综合,webview://https://web.guangdianyun.tv/tv/?id=3366&uin=4239
+布尔津汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10004&id=98&page=canvas&live_type=1
+布尔津汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10004&id=97&page=canvas&live_type=1
+
 
 克拉玛依汉语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=7&page=canvas&live_type=1
 克拉玛依维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=6&page=canvas&live_type=1
