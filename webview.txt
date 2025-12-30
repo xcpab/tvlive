@@ -291,6 +291,8 @@ amsp,webview://https://amsp.link/live
 新余教育,http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
 
 九江新闻综合,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=29
+九江公共,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=27
+九江教育,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=26
 九江新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1757386374062009
 九江公共,webview://https://www.qukanvideo.com/cloud/h5/1757386400403349
 九江教育,webview://https://www.qukanvideo.com/cloud/h5/1757386418265193
@@ -433,7 +435,7 @@ amsp,webview://https://amsp.link/live
 
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
-抚州综合,webview://https://www.zgfznews.com/fzzt/zt23/Fzsp/#t6
+
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 鹰潭综合,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
@@ -1813,6 +1815,7 @@ $石家庄
 临沂经济,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
+临沂综合,webview://https://news.langya.cn/y/tv
 东营新闻综合,webview://https://www.dongyingnews.cn/v/tv/?id=0
 东营公共,webview://https://www.dongyingnews.cn/v/tv/?id=1
 东营科教,webview://https://www.dongyingnews.cn/v/tv/?id=2
