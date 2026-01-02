@@ -307,8 +307,6 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226279/inde
 优优宝贝,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226312/index.m3u8
 优漫卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225665/index.m3u8
 先锋乒羽,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226311/index.m3u8
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225560/index.m3u8
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225720/index.m3u8
 嘉佳卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 国学频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226338/index.m3u8
 新动漫,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226322/index.m3u8
@@ -629,8 +627,6 @@ CGTN阿语,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226279/8779
 优优宝贝,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226312/877949953.smil/index.m3u8?
 优漫卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/877949953.smil/index.m3u8?
 先锋乒羽,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226311/877949953.smil/index.m3u8?
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/877949953.smil/index.m3u8?
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/877949953.smil/index.m3u8?
 嘉佳卡通,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/877949953.smil/index.m3u8?
 国学频道,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226338/877949953.smil/index.m3u8?
 新动漫,http://zxrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226322/877949953.smil/index.m3u8?
@@ -957,8 +953,6 @@ CGTN阿语,http://117.169.30.5:6610/PLTV/88888888/224/3221226279/1/index.m3u8
 优优宝贝,http://117.169.30.5:6610/PLTV/88888888/224/3221226312/1/index.m3u8
 优漫卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221225665/1/index.m3u8
 先锋乒羽,http://117.169.30.5:6610/PLTV/88888888/224/3221226311/1/index.m3u8
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225560/1/index.m3u8
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225720/1/index.m3u8
 嘉佳卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221226193/1/index.m3u8
 国学频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226338/1/index.m3u8
 新动漫,http://117.169.30.5:6610/PLTV/88888888/224/3221226322/1/index.m3u8
@@ -1279,8 +1273,6 @@ CGTN阿语,http://117.169.30.5:6610/PLTV/88888888/224/3221226279/2/index.m3u8
 优优宝贝,http://117.169.30.5:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://117.169.30.5:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://117.169.30.5:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -1601,8 +1593,6 @@ CGTN阿语,http://117.169.30.5:6610/PLTV/88888888/224/3221226279/2/index.m3u8?fm
 优优宝贝,http://117.169.30.5:6610/PLTV/88888888/224/3221226312/2/index.m3u8?fmt=ts2hls
 优漫卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 先锋乒羽,http://117.169.30.5:6610/PLTV/88888888/224/3221226311/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225560/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://117.169.30.5:6610/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://117.169.30.5:6610/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
 国学频道,http://117.169.30.5:6610/PLTV/88888888/224/3221226338/2/index.m3u8?fmt=ts2hls
 新动漫,http://117.169.30.5:6610/PLTV/88888888/224/3221226322/2/index.m3u8?fmt=ts2hls
@@ -1923,8 +1913,6 @@ CGTN阿语,http://39.135.140.104:6610/PLTV/88888888/224/3221226279/1/index.m3u8?
 优优宝贝,http://39.135.140.104:6610/PLTV/88888888/224/3221226312/1/index.m3u8?fmt=ts2hls
 优漫卡通,http://39.135.140.104:6610/PLTV/88888888/224/3221225665/1/index.m3u8?fmt=ts2hls
 先锋乒羽,http://39.135.140.104:6610/PLTV/88888888/224/3221226311/1/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.140.104:6610/PLTV/88888888/224/3221225560/1/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.140.104:6610/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.135.140.104:6610/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 国学频道,http://39.135.140.104:6610/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
 新动漫,http://39.135.140.104:6610/PLTV/88888888/224/3221226322/1/index.m3u8?fmt=ts2hls
@@ -2244,8 +2232,6 @@ CGTN阿语,http://39.135.140.104:6610/PLTV/88888888/224/3221226279/1/index.m3u8
 优优宝贝,http://39.135.140.104:6610/PLTV/88888888/224/3221226312/1/index.m3u8
 优漫卡通,http://39.135.140.104:6610/PLTV/88888888/224/3221225665/1/index.m3u8
 先锋乒羽,http://39.135.140.104:6610/PLTV/88888888/224/3221226311/1/index.m3u8
-哈哈炫动,http://39.135.140.104:6610/PLTV/88888888/224/3221225560/1/index.m3u8
-哈哈炫动,http://39.135.140.104:6610/PLTV/88888888/224/3221225720/1/index.m3u8
 嘉佳卡通,http://39.135.140.104:6610/PLTV/88888888/224/3221226193/1/index.m3u8
 国学频道,http://39.135.140.104:6610/PLTV/88888888/224/3221226338/1/index.m3u8
 新动漫,http://39.135.140.104:6610/PLTV/88888888/224/3221226322/1/index.m3u8
@@ -2564,8 +2550,6 @@ CGTN阿语,http://39.135.140.227:6610/PLTV/88888888/224/3221226279/2/index.m3u8
 优优宝贝,http://39.135.140.227:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://39.135.140.227:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://39.135.140.227:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://39.135.140.227:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://39.135.140.227:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://39.135.140.227:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://39.135.140.227:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://39.135.140.227:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -2886,8 +2870,6 @@ CGTN阿语,http://39.135.140.227:6610/PLTV/88888888/224/3221226279/2/index.m3u8?
 优优宝贝,http://39.135.140.227:6610/PLTV/88888888/224/3221226312/2/index.m3u8?fmt=ts2hls
 优漫卡通,http://39.135.140.227:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 先锋乒羽,http://39.135.140.227:6610/PLTV/88888888/224/3221226311/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.140.227:6610/PLTV/88888888/224/3221225560/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.140.227:6610/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.135.140.227:6610/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
 国学频道,http://39.135.140.227:6610/PLTV/88888888/224/3221226338/2/index.m3u8?fmt=ts2hls
 新动漫,http://39.135.140.227:6610/PLTV/88888888/224/3221226322/2/index.m3u8?fmt=ts2hls
@@ -3206,8 +3188,6 @@ CGTN阿语,http://39.135.139.9:6610/PLTV/88888888/224/3221226279/2/index.m3u8
 优优宝贝,http://39.135.139.9:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://39.135.139.9:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://39.135.139.9:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://39.135.139.9:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://39.135.139.9:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://39.135.139.9:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://39.135.139.9:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://39.135.139.9:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -3527,8 +3507,6 @@ CGTN阿语,http://39.135.139.9:6610/PLTV/88888888/224/3221226279/2/index.m3u8?fm
 优优宝贝,http://39.135.139.9:6610/PLTV/88888888/224/3221226312/2/index.m3u8?fmt=ts2hls
 优漫卡通,http://39.135.139.9:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 先锋乒羽,http://39.135.139.9:6610/PLTV/88888888/224/3221226311/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.139.9:6610/PLTV/88888888/224/3221225560/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.139.9:6610/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.135.139.9:6610/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
 国学频道,http://39.135.139.9:6610/PLTV/88888888/224/3221226338/2/index.m3u8?fmt=ts2hls
 新动漫,http://39.135.139.9:6610/PLTV/88888888/224/3221226322/2/index.m3u8?fmt=ts2hls
@@ -3848,8 +3826,6 @@ CGTN阿语,http://39.135.139.214:6610/PLTV/88888888/224/3221226279/2/index.m3u8
 优优宝贝,http://39.135.139.214:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://39.135.139.214:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://39.135.139.214:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://39.135.139.214:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://39.135.139.214:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://39.135.139.214:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://39.135.139.214:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://39.135.139.214:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -4169,8 +4145,6 @@ CGTN阿语,http://39.135.139.199:6610/PLTV/88888888/224/3221226279/2/index.m3u8
 优优宝贝,http://39.135.139.199:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://39.135.139.199:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://39.135.139.199:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://39.135.139.199:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://39.135.139.199:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://39.135.139.199:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://39.135.139.199:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://39.135.139.199:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -4490,8 +4464,6 @@ CGTN阿语,http://39.135.139.199:6610/PLTV/88888888/224/3221226279/2/index.m3u8?
 优优宝贝,http://39.135.139.199:6610/PLTV/88888888/224/3221226312/2/index.m3u8?fmt=ts2hls
 优漫卡通,http://39.135.139.199:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 先锋乒羽,http://39.135.139.199:6610/PLTV/88888888/224/3221226311/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.139.199:6610/PLTV/88888888/224/3221225560/2/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.139.199:6610/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.135.139.199:6610/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
 国学频道,http://39.135.139.199:6610/PLTV/88888888/224/3221226338/2/index.m3u8?fmt=ts2hls
 新动漫,http://39.135.139.199:6610/PLTV/88888888/224/3221226322/2/index.m3u8?fmt=ts2hls
@@ -4799,7 +4771,6 @@ CGTN纪录,http://39.134.115.191:8080/PLTV/88888929/224/3221226011/1.m3u8
 农林卫视,http://39.134.115.191:8080/PLTV/88888929/224/3221226491/1.m3u8
 厦门卫视,http://39.134.115.191:8080/PLTV/88888929/224/3221226497/1.m3u8
 厦门卫视,http://39.134.115.191:8080/PLTV/88888929/224/3221226752/1.m3u8
-哈哈炫动,http://39.134.115.191:8080/PLTV/88888929/224/3221225795/1.m3u8
 嘉佳卡通,http://39.134.115.191:8080/PLTV/88888929/224/3221226495/1.m3u8
 国学频道,http://39.134.115.191:8080/PLTV/88888929/224/3221226732/1.m3u8
 宁夏卫视,http://39.134.115.191:8080/PLTV/88888929/224/3221225810/1.m3u8
@@ -5136,8 +5107,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226312/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225665/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226311/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225560/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225720/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226193/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226338/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226322/index.m3u8
@@ -5457,8 +5426,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -5779,8 +5746,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226312/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225665/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226311/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225560/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225720/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226193/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226338/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226322/index.m3u8
@@ -6100,8 +6065,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -6421,8 +6384,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226312/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225665/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226311/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225560/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225720/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226193/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226338/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226322/index.m3u8
@@ -6743,8 +6704,6 @@ CGTN阿语,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/32212262
 优优宝贝,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226312/2/index.m3u8
 优漫卡通,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225665/2/index.m3u8
 先锋乒羽,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226311/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225560/2/index.m3u8
-哈哈炫动,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221225720/2/index.m3u8
 嘉佳卡通,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226193/2/index.m3u8
 国学频道,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226338/2/index.m3u8
 新动漫,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888888/224/3221226322/2/index.m3u8
@@ -6796,7 +6755,6 @@ CCTV-1 综合,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/
 青海卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225546/index.m3u8?fmt=ts2hls
 山西卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls
 金鹰卡通,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225554/index.m3u8?fmt=ts2hls
-哈哈炫动,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225560/index.m3u8?fmt=ts2hls
 西藏卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225562/index.m3u8?fmt=ts2hls
 CETV1,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
 江西公共农业,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
@@ -6962,7 +6920,6 @@ CCTV-5+ 体育赛事,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88
 精品大剧,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 明星大片,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 山东教育,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-哈哈炫动,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225720/index.m3u8
 金鹰卡通,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
 海南卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8
 西藏卫视,http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225723/index.m3u8
@@ -7099,7 +7056,6 @@ CCTV-1 综合,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/
 青海卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225546/index.m3u8?fmt=ts2hls
 山西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls
 金鹰卡通,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225554/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225560/index.m3u8?fmt=ts2hls
 西藏卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225562/index.m3u8?fmt=ts2hls
 CETV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
 江西公共农业,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
@@ -7266,7 +7222,6 @@ CCTV-5+ 体育赛事,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88
 精品大剧,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 明星大片,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 山东教育,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-哈哈炫动,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225720/index.m3u8
 金鹰卡通,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
 海南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8
 西藏卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225723/index.m3u8
@@ -7404,7 +7359,6 @@ CCTV-1 综合,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/
 青海卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225546/1.m3u8?fmt=ts2hls$576p
 山西卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225549/1.m3u8?fmt=ts2hls$576p
 金鹰卡通,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225554/1.m3u8?fmt=ts2hls$576p
-哈哈炫动,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/1.m3u8?fmt=ts2hls$576p
 西藏卫视,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225562/1.m3u8?fmt=ts2hls$576p
 CETV1,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/1.m3u8?fmt=ts2hls$576p
 江西公共农业,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/1.m3u8?fmt=ts2hls$1080p
@@ -7544,7 +7498,6 @@ CCTV-1 综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/i
 青海卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225546/index.m3u8?fmt=ts2hls
 山西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225554/index.m3u8?fmt=ts2hls
-哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/index.m3u8?fmt=ts2hls
 西藏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225562/index.m3u8?fmt=ts2hls
 CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
 江西公共农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
@@ -7709,7 +7662,6 @@ CCTV-5+ 体育赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 精品大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
 明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 山东教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
-哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
 海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8
 西藏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
@@ -7909,7 +7861,6 @@ CGTN阿语,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226279/01.m
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/01.m3u8$720p
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/01.m3u8$1080p
 古装剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/01.m3u8$1080p
-哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/01.m3u8$576p
 哒啵电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226265/01.m3u8$1080p
 哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/01.m3u8$1080p
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/01.m3u8$576p
@@ -8067,7 +8018,6 @@ CCTV-5+ 体育赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 精品大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/10000100000000060000000000000162_0.smil/index.m3u8
 明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/10000100000000060000000000000162_0.smil/index.m3u8
 山东教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/10000100000000060000000000000162_0.smil/index.m3u8
-哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/10000100000000060000000000000162_0.smil/index.m3u8
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/10000100000000060000000000000162_0.smil/index.m3u8
 海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/10000100000000060000000000000162_0.smil/index.m3u8
 西藏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/10000100000000060000000000000162_0.smil/index.m3u8
@@ -8234,7 +8184,7 @@ CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/S
 北京卫视4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
 古装剧场,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
+CCTV-14 少儿,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
 哒啵电竞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/dabodj/1.m3u8
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/wmyx/1.m3u8
 嘉佳卡通,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/SD-4000k-576P-jiajiakaton/1.m3u8
@@ -8398,7 +8348,7 @@ CCTV中视购物,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/S
 北京卫视4K,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
 古装剧场,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/guzhuangjc/index.m3u8
 睛彩广场舞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
-哈哈炫动,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
+CCTV-14 少儿,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
 哒啵电竞,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/dabodj/index.m3u8
 哒啵赛事,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/wmyx/index.m3u8
 嘉佳卡通,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/SD-4000k-576P-jiajiakaton/index.m3u8
@@ -8549,7 +8499,7 @@ CCTV中视购物,http://117.169.120.98:8080/ysten-businessmobile/live/SD-1500k-5
 北京卫视4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/1.m3u8
 古装剧场,http://117.169.120.98:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8
 睛彩广场舞,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/1.m3u8
-哈哈炫动,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
+CCTV-14 少儿,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
 哒啵电竞,http://117.169.120.98:8080/ysten-businessmobile/live/dabodj/1.m3u8
 哒啵赛事,http://117.169.120.98:8080/ysten-businessmobile/live/wmyx/1.m3u8
 嘉佳卡通,http://117.169.120.98:8080/ysten-businessmobile/live/SD-4000k-576P-jiajiakaton/1.m3u8
@@ -8713,7 +8663,7 @@ CCTV中视购物,http://117.169.120.98:8080/ysten-businessmobile/live/SD-1500k-5
 北京卫视4K,http://117.169.120.98:8080/ysten-businessmobile/live/H265-34M-2160P-beijingstv4k/index.m3u8
 古装剧场,http://117.169.120.98:8080/ysten-businessmobile/live/guzhuangjc/index.m3u8
 睛彩广场舞,http://117.169.120.98:8080/ysten-businessmobile/live/HD-8000k-1080P-migudongao5/index.m3u8
-哈哈炫动,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
+CCTV-14 少儿,http://117.169.120.98:8080/ysten-businessmobile/live/xuandongkaton/index.m3u8
 哒啵电竞,http://117.169.120.98:8080/ysten-businessmobile/live/dabodj/index.m3u8
 哒啵赛事,http://117.169.120.98:8080/ysten-businessmobile/live/wmyx/index.m3u8
 嘉佳卡通,http://117.169.120.98:8080/ysten-businessmobile/live/SD-4000k-576P-jiajiakaton/index.m3u8
