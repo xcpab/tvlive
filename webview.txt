@@ -1472,15 +1472,15 @@ $石家庄
 郑州豫剧,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
 郑州教育,http://livezzutv.chinamcache.com/zb02/zb02.m3u8
 郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
-信阳综合,webview://https://www.xytv.cn/television/137.html
+信阳新闻综合,webview://https://www.xytv.cn/television/137.html
 信阳文旅,webview://https://www.xytv.cn/television/138.html
 信阳平桥,webview://https://www.xytv.cn/television/140.html
 信阳浉河,webview://https://www.xytv.cn/television/139.html
-信阳综合,http://rtmp.xytv.cn/live/514f8a62d467.m3u8
+信阳新闻综合,http://rtmp.xytv.cn/live/514f8a62d467.m3u8
 信阳文旅,http://rtmp.xytv.cn/live/118cfcf8c6df.m3u8
 信阳平桥,http://rtmp.xytv.cn/live/b998c92c650c.m3u8
 信阳浉河,http://rtmp.xytv.cn/live/8b28047c9e6f.m3u8
-信阳综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
+信阳新闻综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
 信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
@@ -1981,7 +1981,6 @@ $石家庄
 菏泽
 菏泽综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽公共,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-
 成武综合,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html
 成武综艺,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html
 曹县综合,webview://https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html
