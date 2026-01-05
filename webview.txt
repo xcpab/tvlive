@@ -2932,9 +2932,6 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 淮北新闻综合,webview://https://www.hbnews.net/tv/
 淮北新闻综合,https://vms-x.hbnews.net/video/xwzh/index.m3u8
 淮北经济生活,https://vms-x.hbnews.net/video/JJSH/index.m3u8
-淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
-淮北新闻综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/hbds.m3u8
-淮北经济生活,https://live.hbnews.net/video/ggpd/index.m3u8
 淮南新闻综合,webview://https://ghedit.ahwanyun.cn/h5/h5app/#/pages/livestream/livestream?type=1
 淮南新闻综合,http://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
 亳州综合,webview://https://www.ahbztv.com/televisi0n.html
@@ -2957,9 +2954,9 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 安庆经济生活,webview://https://www.zsaqnews.cn/html/rft/live.html?channelId=b7287de089c6401f985ae27873fb34f8
 安庆新闻综合,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104011.shtml
 安庆经济生活,webview://https://www.zsaqnews.cn/html/rft/live.html?channelId=b7287de089c6401f985ae27873fb34f8
-池州新闻综合,webview://https://www.chiznews.com/radio-television
 池州新闻综合,https://wdcz.chiznews.com/tv-api/live/xwzh.flv
 池州新闻综合,http://gbds.chiznews.com:8037/live/xwzh.m3u8
+池州新闻综合,webview://https://www.chiznews.com/radio-television
 铜陵新闻综合,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=56
 铜陵教育科技,webview://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
@@ -3049,7 +3046,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
 无为综合,http://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
 无为综合,http://112.28.222.71:20080/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
-繁昌新闻综合,https://nfcplay.wuhunews.cn/fc/zhpd_lhd.m3u8
+繁昌新闻综合,https://nfcplay.wuhunews.cn/fc/zhpd.m3u8
 繁昌新闻综合,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895755.html
 繁昌文化娱乐,https://nfcplay.wuhunews.cn/fc/whyl.m3u8
 繁昌文化娱乐,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895752.html
