@@ -749,6 +749,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 五华综合,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
 怀集综合,webview://https://www.zqhjtv.com/index/channel/detail/id/1.html
 怀集综合,http://www.zqhjtv.com/hls/hjzhpd.m3u8
+惠州新闻综合,http://b.bsy.hztvmg.com/AppName/StreamName.m3u8
+惠州新闻综合,webview://https://www.gdhzhmt.cn/html/rft/live.html?channelId=2a093c0b3a5f47b9af40df78d52eb688
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
@@ -2268,15 +2270,12 @@ $石家庄
 南京教科,webview://https://www.nbs.cn/live/?id=109153
 南京文旅纪录,webview://https://www.nbs.cn/live/?id=110093
 南京少儿,webview://https://www.nbs.cn/live/?id=110095
-徐州新闻综合,webview://http://www.wifixz.com/tv/
-徐州新闻综合,https://pull.nicewifi.cn/live/xztv01.flv
-徐州经济生活,https://pull.nicewifi.cn/live/xztv02.flv
-徐州文艺影视,https://pull.nicewifi.cn/live/xztv03.flv
-徐州公共,https://pull.nicewifi.cn/live/xztv04.flv
-徐州新闻综合,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=46
+徐州新闻综合,https://stream3.huaihai.tv/xz4t/sd/live.m3u8
+徐州文艺影视,https://stream3.huaihai.tv/xz3t/sd/live.m3u8
+徐州新闻综合,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=49
 徐州经济生活,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=47
 徐州文艺影视,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=48
-徐州公共,webview://https://www.huaihai.tv/wltv/live/xwzh?channel_id=49
+徐州新闻综合,webview://http://www.wifixz.com/tv/
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 盐城新闻综合,https://live1yc.0515yc.cn/sd/sd/live.m3u8
 盐城教育民生,https://live1yc.0515yc.cn/hd/sd/live.m3u8
@@ -2440,7 +2439,7 @@ $石家庄
 盐都综合,http://yandu-tv-replay.cm.jstv.com/yandu-tv/yanduzh.m3u8
 宿迁综合,webview://https://m.sqsjt.net/tv/detail/10000.html?spx=691166a4f36ef592aa04f69d5d78ee95
 宿迁公共,webview://https://m.sqsjt.net/tv/detail/10001.html?spx=67d0825142b99907ee85cf202b7b8ccf
-邳州综合,webview://https://liveplus.pznews.com:443/pzzhpd/sd/live.m3u8
+邳州综合,http://liveplus.pznews.com/pzxwpd/sd/live.m3u8
 邳州综合,webview://https://www.pznews.com/live/
 泰兴综合,webview://https://share.smarttaixing.cn/front-cloudlive-manage-h5/index.html?id=735450268560986112&company_id=1059
 泰兴综合,webview://http://m.taixing.cn/index.php?&m=wap&a=show&catid=219&typeid=19&id=11565
