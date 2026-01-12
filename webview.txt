@@ -557,6 +557,13 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 上海澎湃新闻,webview://https://m.thepaper.cn/channel_128409
 
 天津,#genre#
+天津卫视,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000698
+天津新闻,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000699
+天津文艺,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000700
+天津影视,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000701
+天津都市,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000702
+天津体育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000692
+天津教育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000693
 天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/shoujitv_05181638.shtml
 天津静海台,http://live.jinghai.tjrmtzx.com/live/tjjh0807.m3u8
@@ -3425,6 +3432,14 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
 
 辽宁,#genre#
+辽宁都市,http://sh.lnott.top:880/dx20.m3u8
+辽宁影视剧,http://sh.lnott.top:880/dx21.m3u8
+辽宁体育休闲,http://sh.lnott.top:880/dx22.m3u8
+辽宁生活,http://sh.lnott.top:880/dx23.m3u8
+辽宁教育青少,http://sh.lnott.top:880/dx24.m3u8
+辽宁北方,http://sh.lnott.top:880/dx25.m3u8
+辽宁经济,http://sh.lnott.top:880/dx26.m3u8
+辽宁公共,http://sh.lnott.top:880/dx27.m3u8
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
