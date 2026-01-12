@@ -706,9 +706,11 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 清远新闻综合,https://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
 韶关新闻综合,webview://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
-韶关新闻综合,webview://https://mudu.tv/live/watch/general/lkd3k27o
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-韶关新闻综合,webview://http://www.sgxw.cn/v/tv?spm=0.0.0.0.fxQK7E&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
+韶关新闻综合,webview://https://mudu.tv/live/watch/general/lkd3k27o
+韶关新闻综合,http://livesec.mudu.tv/watch/1qo2hj.m3u8
+韶关新闻综合,http://livesec.mudu.tv/watch/1qo2hj.flv
+韶关新闻综合,rtmp://livesec.mudu.tv/watch/1qo2hj
 潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101
 潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101
 潮州综合,webview://https://app.kanchaozhou.com/application/tvradio/h5/detail.html?type=tv&id=11
@@ -740,7 +742,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 信宜综合,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
 信宜综合,webview://https://live.xytv.cc/tv/?id=643&uin=1629
-开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 增城电视台,http://live.zccmc.cn:1920/hls/tv1.m3u8
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
@@ -1107,6 +1108,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 武汉教育,webview://https://www.wetv.com.cn/LiveList
 襄阳综合,webview://https://web.guangdianyun.tv/tv/?id=3061&uin=1500
 襄阳经济生活,webview://https://web.guangdianyun.tv/tv/?id=2675&uin=1500
+襄阳综合,webview://https://www.hj.cn/node_1000139.html
+襄阳经济生活,webview://https://www.hj.cn/node_1000140.html
 襄阳综合,webview://http://xiangyang.cjyun.org/app/streamradio/142
 襄阳经济生活,webview://http://xiangyang.cjyun.org/app/streamradio/138
 襄阳综合,https://xiangyang-live21.cjyun.org/10125/s10125-news_hd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-dc97c38176b5aac42ac95d80d410eaf2
@@ -1497,7 +1500,7 @@ $石家庄
 安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 安阳文旅,http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 安阳文旅,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-洛阳新闻综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+洛阳新闻综合,https://wshlslive.migucloud.com/live/08QAZLG6_C0/playlist.m3u8
 洛阳新闻综合,webview://http://www.lytv.com.cn/dist/phone_new_file.html
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
@@ -2459,6 +2462,7 @@ x系列
 
 浙江,#genre#
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 浙江钱江都市,webview://https://www.cztv.com/liveTV/102
 浙江经济生活,webview://https://www.cztv.com/liveTV/103
@@ -2902,7 +2906,6 @@ x系列
 石狮电视台,webview://https://h5-new.chinashishi.net/front-cloudlive-manage-h5/index.html?id=662611405685436416&company_id=492
 石狮电视台,webview://https://web.guangdianyun.tv/tv/?id=3863&uin=4206
 永春综合,webview://https://web.guangdianyun.tv/tv/1792?uin=2311
-CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/1793?uin=2311
 CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 晋江综合,webview://https://www.ijjnews.com/folder5356/
 晋江综合,https://live.ijjnews.com/jjtv/sd/live.m3u8
@@ -2913,6 +2916,7 @@ CCTV第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 云霄综合,webview://http://www.zzyxxw.com/live
 漳浦综合,webview://https://web.guangdianyun.tv/tv/?id=2803&uin=3350
 漳浦综合,webview://http://www.zpxww.cn/#/pages/live/tv
+霞浦综合,webview://https://web.guangdianyun.tv/tv/?id=3952&uin=4744
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
