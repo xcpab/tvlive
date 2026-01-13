@@ -1133,11 +1133,12 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 十堰经济旅游,webview://https://zb.aisy.com/live/tvchat-1550600621?v=1744697474000
 荆门新闻综合,webview://https://web.guangdianyun.tv/tv/?id=3612&uin=1936
 荆门新闻综合,webview://http://www.jmtv.com.cn/folder48/folder50
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+荆门新闻综合,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门科教文旅,https://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 荆门新闻综合,webview://http://m-jingmen.cjyun.org/p/353048.html
 荆门科教文旅,webview://http://m-jingmen.cjyun.org/p/353049.html
-
+荆门新闻综合,webview://https://res.jptnews.cn/html/rft/live.html?channelId=5781ec244f164102b6e8ea05c01aaf29
+荆门科教文旅,webview://https://res.jptnews.cn/html/rft/live.html?channelId=d09cf21f01ea4103a3c8ed3f6e14228d
 孝感新闻综合,webview://https://www.xgnews.cn/app/streamradio/62
 孝感生活,webview://https://www.xgnews.cn/app/streamradio/63
 孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
@@ -1335,6 +1336,9 @@ $石家庄
 石家庄新闻综合,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=4
 石家庄城市服务,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
 石家庄文化娱乐,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
+石家庄新闻综合,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=4e946c98a07049fc92f68e464dbdd939
+石家庄城市服务,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=7c3b0db17c46411782cb4f4620a70ee9
+石家庄文化娱乐,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=fe5301b900ec4a049de688cdd602fdef
 高邑融媒,http://jwcdnqx.hebyun.com.cn/live/gaoyiyitao/1500k/tzwj_video.m3u8
 唐山新闻综合,webview://https://www.tsr.he.cn/video/video.shtml
 滦南新闻综合,http://tvnew.lnshw.com.cn:58123/live/lntv1.m3u8
@@ -3513,12 +3517,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 铜川公共,webview://https://www.tcsrm.cn/tvradio/tcggpd.html
 铜川综合,webview://http://ews.joyhua.cn/tvradio/tczh.html
 铜川公共,webview://http://ews.joyhua.cn/tvradio/tcgg.html
-咸阳综合,webview://http://www.xybtv.com/station/xyyt/
-咸阳公共,webview://http://www.xybtv.com/station/xyst/
 咸阳综合,webview://https://www.sxxynews.com.cn/tvradio/xyzhpd.html
-咸阳公共,webview://https://www.sxxynews.com.cn/tvradio/xyggpd.html
 咸阳综合,webview://https://kanxianyang.com//a/b/e/live_wap_72928.html?site=53&color=D3283D
-咸阳公共,webview://https://kanxianyang.com//a/b/e/live_wap_72930.html?site=53&color=D3283D
 
 西安新闻综合,webview://https://v.xiancity.cn/folder8/folder39/folder29/
 西安都市,webview://https://v.xiancity.cn/folder8/folder39/folder30/
