@@ -2879,12 +2879,13 @@ x系列
 泉州新闻综合,webview://https://wxqz2.qztv.cn/index/wap/index.html#/video/tv/share/2
 泉州闽南语,webview://https://wxqz2.qztv.cn/index/wap/index.html#/video/tv/share/1
 漳州新闻综合,webview://https://web.guangdianyun.tv/tv/?id=175&uin=1116
-龙岩新闻综合,http://stream.lytv.net.cn/2/playlist.m3u8
+龙岩新闻综合,https://live4-fuyun.fjtv.net/hb_lytv/sd/live.m3u8?_upt=ebd92d771768372432
 龙岩新闻综合,webview://http://www.setvn.com/plus/view-6022-0.html
-宁德新闻综合,http://live.nddst.com/NDTV1D/M/live.m3u8?_upt=b4e160a11755872794
+宁德新闻综合,http://live.nddst.com/NDTV1D/M/live.m3u8?_upt=b652852d1768369852
+宁德文化旅游,http://live.nddst.com/NDTV2D/playlist.m3u8?_upt=fe1448521768369909
 宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
 宁德文化旅游,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
-三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8
+三明新闻综合,https://live4-fuyun.fjtv.net/hb_smtv/sd/live.m3u8?_upt=8d5f88501768372571
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/907?uin=1118
 平潭新闻综合,webview://https://web.guangdianyun.tv/tv/908?uin=1118
 南平新闻综合,https://live4-fuyun.fjtv.net/hb_nptv/sd/live.m3u8?_upt=f1c2247e1755875425
@@ -3026,8 +3027,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宿松戏曲文艺,webview://https://web.guangdianyun.tv/tv/3389?uin=4180
 宿松新闻综合,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
 宿松戏曲文艺,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3389.m3u8?auth_key=4864330202-0-0-2268f4d5824c10bb314f55dc9cd6b165&extra_key=rwRUgVSNWali97XRZgNTe4xO1vc8AG2jj51x8uQ7gSUG-XyXYVHFzXxi5tygubMbWE7cRjthGbemXjtCXGTqIE-4BBaPBL-LaG6ZTKGc-p9GYmcPwlPB3DuYKNV_2nnPq7h_TG4Dvi4flw3CUYjIRvrtvCAUIcWgymSmI75x3QU
-怀远综合,http://play-a2.quklive.com/live/1734491351341308.m3u8
-怀远综合,webview://http://www.qukanvideo.com/cloud/h5/1734491351341308
 蒙城新闻,http://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
 蒙城新闻,https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
 蒙城新闻,webview://https://noctguvzb.vzan.com/live/page/1242056970?v=1744437591000
@@ -3061,7 +3060,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 萧县新闻综合,webview://https://zhxxedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=320
 
 淮河能源综合,http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
-淮河能源,webview://https://www.hhnynews.com/html/rft/live.html?channelId=25b12f8fbb814d348d83e6d8ebc718bb&type=1&siteId=e746afd84edd4516841ef09bebd78602&shareAppId=e746afd84edd4516841ef09bebd78602
+淮河能源综合,webview://https://www.hhnynews.com/html/rft/live.html?channelId=25b12f8fbb814d348d83e6d8ebc718bb&type=1&siteId=e746afd84edd4516841ef09bebd78602&shareAppId=e746afd84edd4516841ef09bebd78602
 宣城综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/xctv.m3u8
 绩溪新闻综合,https://live.cnjxxw.com/hls/jxzh/playlist.m3u8
 绩溪新闻综合,webview://https://www.cnjxxw.com/
@@ -4160,9 +4159,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 富顺综合,http://pili-live-hls.145.i2863.com/i2863-145/live_145_906964.m3u8
 富顺综合,webview://http://wxshare.i2863.com/programmeList/proIndex.html?data=cHJvSWQ9OTAmdGFnTmFtZT1mc3NqdCZzaXRlSWQ9MTQ1
 
-攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-攀枝花新闻综合,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
+攀枝花新闻综合,https://pzhlive.pzhxinwen.cn/pzhxw/pzh_xw.m3u8?auth_key=1760079276-0-0-3ba55c2971070cdb3b4212fe62481776
 攀枝花新闻综合,webview://https://www.pzhxinwen.cn/html/rft/live.html?channelId=d1f8066886ea4ed1a4f55acea5ef42bc&type=1&siteId=4399a78804af48b285f25614750a77fe&shareAppId=4399a78804af48b285f25614750a77fe
+攀枝花新闻综合,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
 
 泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
 泸州科教生活,webview://https://www.luzhoubs.com/lztv3/index.html
