@@ -3074,12 +3074,12 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 繁昌新闻综合,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895755.html
 繁昌文化娱乐,https://nfcplay.wuhunews.cn/fc/whyl.m3u8
 繁昌文化娱乐,webview://http://www.fcxnews.cn/dsyl/202011/t20201102_4895752.html
-郎溪综合,webview://http://www.zglx.gov.cn/tvLive
-郎溪综合,https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
+郎溪新闻综合,webview://http://www.zglx.gov.cn/tvLive
+郎溪新闻综合,https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
 当涂新闻综合,http://112.28.222.71:20080/live/53296715e584463cb512dccf964311a8/hls.m3u8
 含山新闻综合,webview://https://app.hswltv.cn/mag/livevideo/v1/video/wapVideoView?id=13720
 含山新闻综合,http://livehs.hswltv.com/hls/hanshanzh/index.m3u8
-濉溪电视,http://112.28.222.71:20080/live/a69bc3cfc7f34dbea9d31b5176d732ca/hls.m3u8
+濉溪综合,http://112.28.222.71:20080/live/a69bc3cfc7f34dbea9d31b5176d732ca/hls.m3u8
 歙县综合,http://112.28.222.71:20080/live/09c5ad9fdb8a44fbaf152b03f8402589/hls.m3u8
 歙县综合,webview://https://wyedit.ahsxrm.cn/h5/shareLive/index.html#/?liveId=1&appId=231&contId=1&dataObjId=26
 黟县综合,webview://https://child.yun.fst1994.net/shareh5/yixian/#/pages/home/liveSon/liveson?type=VIDEO&title=%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD&thumb=%2Fconvey%2Fplay%2F6ae13be0d12ca1f6e076626aa539c5f6%2FsimpleFormat%3FfileName%3D6ae13be0d12ca1f6e076626aa539c5f6.png&link=https%3A%2F%2Fplay-a2.quklive.com%2Flive%2F1715757116493079.m3u8
