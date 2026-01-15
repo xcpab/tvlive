@@ -1122,6 +1122,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 荆门科教文旅,webview://http://m-jingmen.cjyun.org/p/353049.html
 荆门新闻综合,webview://https://res.jptnews.cn/html/rft/live.html?channelId=5781ec244f164102b6e8ea05c01aaf29
 荆门科教文旅,webview://https://res.jptnews.cn/html/rft/live.html?channelId=d09cf21f01ea4103a3c8ed3f6e14228d
+荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9bbdf1e961c3ba64dcd8d00f6d5dfff0
+荆门科教文旅,https://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1e90257c8c16a64505ae51e378086271
 孝感新闻综合,webview://https://www.xgnews.cn/app/streamradio/62
 孝感生活,webview://https://www.xgnews.cn/app/streamradio/63
 孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
@@ -1155,7 +1157,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 咸宁经济生活,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
 赤壁综合,webview://https://m.chibi.com.cn/p/117220.html
 赤壁综合,webview://https://m.chibi.com.cn/dsgb?2022
-赤壁综合,http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a9f4eb22b55c750628c090d53a445bbc
+赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 孝昌综合,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-948b2cf2777e352d9f83660c9b79aa3f
 孝昌综合,webview://https://myunxc.hbxc.cn/zhibo
 孝昌综合,webview://https://myunxc.hbxc.cn/dianshi/
@@ -1179,7 +1181,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 枝江综合,webview://https://app.sxzhijiang.cn:443/dsgb
 长阳综合,webview://https://m.ycchangyang.cn/zhibo
 长阳综合,webview://https://m-changyang.cjyun.org/zhibo
-长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c16910d50f308ea1150ce2648945a081
+长阳综合,https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-69b7adceccbc5ea8f2cc6f34b34171af
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 崇阳综合,webview://https://m-yscy.cyxw.cn/dianshi
 崇阳综合,webview://http://m-chongyang.cjyun.org/dianshi
@@ -1198,7 +1200,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
 谷城综合,webview://http://m-gucheng.cjyun.org/dszb
 谷城综合,webview://http://wap.guchengnews.com/dszb/index.html
-黄石新闻综合,http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
+黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-881db406245fb25ab51e962f0b5b23a1
 阳新综合,webview://https://m.yangxintv.cn/zhibo/
 阳新综合,http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a27d99b67d0e39445f1df5ea6ad088ec
 恩施综合,webview://http://imgfile.estv.com.cn/yses/zb.html
@@ -1241,7 +1243,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 武穴综合,webview://http://m-wuxue.cjyun.org/zhibo/
 来凤综合,https://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
 来凤综合,webview://https://m-laifeng.cjyun.org/dsgb
-嘉鱼综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ca56ee7b0e7b23d7ccb3f6649b2686a
+嘉鱼综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90997969c48171e39b738519231accac
 嘉鱼综合,webview://https://m.ysjiayu.cn/zhibo
 嘉鱼综合,webview://http://m-jiayu.cjyun.org/zhibo
 嘉鱼综合,webview://https://m.ysjiayu.cn/zhibo
@@ -1251,7 +1253,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 秭归综合,webview://https://m.zgapp.sxzg.cn/huodong/tv-broadcast/#/live?siteid=10111
 通山综合,webview://https://m.tongshan1.cn/dianshi
 通山综合,webview://http://m-tongshan.cjyun.org/dianshi
-通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-23ad1b5ada69ec0d4796d8227f737ca6
+通山综合,https://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-47936ec27159c1f2b4e1ddfd4c2caa46
 汉川综合,webview://https://biibwavzb.vzan.com/live/page/521374751?v=1744687978000
 汉川综合,http://play-hsbj.vzan.com/357534/505886811862583019/live.m3u8
 江陵综合,webview://https://m.hbysjl.cn/zhibo79
@@ -2897,7 +2899,6 @@ x系列
 南平新闻综合,https://live4-fuyun.fjtv.net/hb_nptv/sd/live.m3u8?_upt=f1c2247e1755875425
 南平新闻综合,webview://http://www.setvn.com/plus/view-6023-0.html
 集美综合,webview://https://web.guangdianyun.tv/tv/3102?uin=4113
-新罗综合,webview://http://www.lyxltv.cn/live/
 建宁综合,webview://https://wx.vzan.com/live/page/172895828
 建宁综合,http://p2hs.vzan.com/2144741973/681448837351911792/live.m3u8
 建宁综合,http://pull-hsbj.vzan.com/v/2144741973_681448837351911792.m3u8
@@ -2909,11 +2910,11 @@ x系列
 尤溪综合,webview://https://web.guangdianyun.tv/tv/765?uin=2055
 尤溪旅游宣传,webview://https://live.yxxww.cn/tv/767?uin=2055
 尤溪旅游宣传,webview://https://web.guangdianyun.tv/tv/767?uin=2055
-邵武综合,http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
 武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 武夷山综合,webview://http://fjwys.chinashadt.com:80/syncott/Modile/WirelessLY/PalyVideo.jsp?title=%E6%AD%A6%E5%A4%B7%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&videoUrl=webview://http%3A%2F%2Ffjwysdb.chinashadt.com%3A2036%2Flive%2F1.stream_360p%2Fplaylist.m3u8%3FmyTokenPrefixCustomParameter%3D782%26myTokenPrefixendtime%3D1727662970%26myTokenPrefixhash%3DxIJm7DXrXcrNy29duPNFskGVydGYzkzVAyZgRh9w4uw%3D&aid=17fjwys&pt=2
 长乐综合,https://p2hssh.vzan.com/839846767/184473044999297114/live.m3u8
 长乐综合,webview://https://wtfwul.vnet.weizan.cn/live/page/827688255?v=1763726740349
+邵武综合,http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
 福清综合,webview://https://web.guangdianyun.tv/tv/699?uin=1945
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2068&uin=2656
 德化综合,webview://http://www.cidudehua.net/m/view.php?aid=1175
@@ -2936,6 +2937,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 漳浦综合,webview://https://web.guangdianyun.tv/tv/?id=2803&uin=3350
 漳浦综合,webview://http://www.zpxww.cn/#/pages/live/tv
 霞浦综合,webview://https://web.guangdianyun.tv/tv/?id=3952&uin=4744
+新罗综合,webview://http://www.lyxltv.cn/live/
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
