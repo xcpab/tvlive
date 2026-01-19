@@ -168,7 +168,8 @@ CHC影迷电影,webview://https://m.miguvideo.com/m/liveDetail/952383261?channel
 重温经典,http://61.182.24.170:8080/live/xiangjiao-cwjd.m3u8
 重温经典,http://aikuai2.xuran1983.cn:2008/udp/225.1.8.39:8002
 书画,webview://http://www.shtv.net.cn/MobileWeb/OnlineLive.aspx
-书画,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+书画,webview://http://web.shtv.net.cn/MobileWeb/OnlineLiveTV59.aspx
+书画,http://114.251.103.114:8234/live_hls/hdmi.m3u8
 书画,webview://http://web.shtv.net.cn/app/v-1.1.89-zh_CN-/shtv/index.w?go=main#!($model/v-1.1.89-zh_CN-/shtv/webpage/live.w)
 党员远程教育,http://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
