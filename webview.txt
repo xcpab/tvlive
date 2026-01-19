@@ -287,6 +287,7 @@ amsp,webview://https://amsp.link/live
 宜春法治民生,https://liveds-yc.newsyc.com/api/cloudlive/two_sd.flv
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744#/
 宜春法治民生,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352#/
+
 新余新闻综合,http://175.178.86.156:8001/hls/w_MGyzT4AuoD4I3TRAoQxjGRQwg74r0M/playlist.m3u8
 新余教育,http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
 
@@ -354,7 +355,6 @@ amsp,webview://https://amsp.link/live
 乐安综合,http://play-a2.quklive.com/live/1752744744088073.m3u8
 乐安综合,http://play-a2.quklive.com/live/1752744744088073.flv
 乐安综合,rtmp://play-a2.quklive.com/live/1752744744088073
-乐安综合,webview://http://play-a2.quklive.com/live/1752744744088073.m3u8
 乐安综合,webview://https://cloud.quklive.com/cloud/a/embed/1752744744088073
 
 丰城新闻综合,http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
@@ -416,10 +416,9 @@ amsp,webview://https://amsp.link/live
 瑞金综合,http://play-a2.quklive.com/live/1760408109205119.m3u8
 瑞金综合,http://play-a2.quklive.com/live/1760408109205119.flv
 瑞金综合,rtmp://play-a2.quklive.com/live/1760408109205119
-瑞金综合,https://play-a2.quklive.com/live/1760408109205119.m3u8
 瑞金综合,webview://https://cloud.quklive.com/cloud/a/embed/1760408109205119
 
-赣县综合,webview://https://play-sh13.quklive.com/live/1760926953729140.m3u8?auth_key=2076287320-b0b53714f5a34275aea05a8acc137c2d-0-4f68a51e2134dcb7f48474979e10faeb
+赣县综合,https://play-sh13.quklive.com/live/1760926953729140.m3u8?auth_key=2076287320-b0b53714f5a34275aea05a8acc137c2d-0-4f68a51e2134dcb7f48474979e10faeb
 赣县综合,webview://https://cloud.quklive.com/cloud/h5/1760926953729140
 赣县综合,webview://https://cloud.quklive.com/cloud/a/embed/1760926953729140
 赣县综合,http://zhibo.jxxw.com.cn/live/ganxtv.m3u8?txSecret=5de6c9d1b218f12d37fafef4b49b8fc9&txTime=69F30AD9
@@ -428,7 +427,7 @@ amsp,webview://https://amsp.link/live
 东乡电视台,webview://https://cloud.quklive.com/cloud/h5/1745910375586053
 东乡电视台,webview://https://cloud.quklive.com/cloud/a/embed/1745910375586053
 
-大余综合,webview://https://play-a2.quklive.com/live/1757066245476057.m3u8
+大余综合,https://play-a2.quklive.com/live/1757066245476057.m3u8
 大余综合,webview://https://cloud.quklive.com/cloud/a/embed/1757066245476057
 大余综合,webview://https://api.dyxrmtzx.top/webarticle/naturelive2?id=81
 大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
