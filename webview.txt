@@ -19,8 +19,8 @@ CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 美洲,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
+CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801
@@ -59,9 +59,6 @@ CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
 CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
 CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
 CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
-中央新影-发现之旅,webview://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
-中央新影-老故事,webview://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
-中央新影-中学生,webview://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
@@ -140,7 +137,7 @@ CCTV-10 科教,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV-11 戏曲,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV-12 社会与法,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV-13 新闻,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-CCTV4K 超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+CCTV4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV-4 中文国际,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
@@ -181,6 +178,9 @@ CHC影迷电影,webview://https://m.miguvideo.com/m/liveDetail/952383261?channel
 每经AI电视,rtmp://swiftplay.hxkjmedia.com/tv/spbW
 每经AI电视,rtmp://swiftplay.hxkjmedia.com/tv/yytestW
 每经AI电视,webview://https://www.nbd.com.cn/corp/AiTv/index.html
+中央新影-发现之旅,webview://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
+中央新影-老故事,webview://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
+中央新影-中学生,webview://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
 CECTV-1 汉语文化,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-1 汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-2 国际旅游,http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
@@ -580,6 +580,9 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 南开区电视台,webview://http://win.nettv.vip/embed/nankai.php
 
 重庆,#genre#
+重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
+重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
 重庆时尚购物,webview://https://www.huimai.com.cn/tvList/
