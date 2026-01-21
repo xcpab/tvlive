@@ -2240,7 +2240,6 @@ $石家庄
 乡宁综合,webview://https://xiangning.qmtzy.sxmty.com///television/live_wap_7.html
 浮山综合,webview://https://fushan.qmtzy.sxmty.com///television/live_wap_3.html
 安泽综合,webview://https://anze.qmtzy.sxmty.com///television/live_wap_5.html
-神池综合,webview://https://shenchi.qmtzy.sxmty.com///television/live_wap_4.html
 河曲综合,webview://https://hequ.qmtzy.sxmty.com///television/live_wap_1.html
 偏关综合,webview://https://pianguan.qmtzy.sxmty.com///television/live_wap_3.html
 交口综合,webview://https://152.136.174.237/#/media/tvLive
@@ -2758,8 +2757,6 @@ x系列
 龙港综合,http://play-qukan.cztv.com/live/1722309876941077.m3u8
 龙港综合,http://play-qukan.cztv.com/live/1722309876941077.flv
 龙港综合,rtmp://play-qukan.cztv.com/live/1722309876941077
-泰顺综合,http://pili-live-hls-jrts-tv.tianma3600.com/jrts-tv/GZTV.m3u8
-泰顺综合,webview://http://tech.test.yunshan66.com.cn/qxb/index.php/Home/Media/index.html?from=singlemessage&isappinstalled=0
 
 海南,#genre#
 海南卫视,webview://http://tc.hnntv.cn/
@@ -3555,7 +3552,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 镇安综合,webview://https://web.csp.chinamcloud.com/cms/rmt5002_html/14319/14319mrgrgklm/4895397815.shtml?share=true
 宝鸡综合,webview://https://web.baojinews.com.cn/cms/rmt5259_html/1/1st/ds/248.shtml?share=true
 宝鸡综合,webview://https://web.baojinews.com.cn/cms/rmt5259/2/2kdssy/index.shtml
-黄陵综合,webview://https://www.xmtapp.gdwlcloud.com/html/rft/live.html?channelId=56bf64639d3e42128386d61298c840f7&type=1&siteId=46a456ad50404be7b7ec9dfc20df6791&shareAppId=46a456ad50404be7b7ec9dfc20df6791&contentId=&contentType=-1
 
 甘肃,#genre#
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
