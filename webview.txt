@@ -526,7 +526,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 东方财经,webview://https://www.yicai.com/tv/#dfcj
 第一财经,webview://https://www.yicai.com/tv/#dycj
 上海新闻综合,webview://https://bp-share.bestv.cn/loveShanghaiCarousel/main-pro.html
-东方卫视4K,webview://https://summer.bestv.cn/smg_gongzhonghao_h5/#/home
 嘉定综合,webview://http://m.jdrmt.cn/live/jdtv/
 嘉定综合,webview://http://m.jdrmt.cn/jdtvnews/play.php
 嘉定综合,http://5730.liveplay.myqcloud.com/live/jcmcTV.m3u8
@@ -540,17 +539,10 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 点掌财经,webview://https://www.aniu.tv/
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 乐游,webview://http://tv.zimtv.cn/tv/player/?p=f&url=api/shtv2.php?id=1745
-东方卫视4K,http://bp-livety4kbz.bestv.cn/live/dfws4k.m3u8
-东方卫视4K,http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
-东方卫视4K,http://bp-livety4kbz.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
-东方卫视4K,http://bp-livety4kbz.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
+东方卫视4K,http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+东方卫视4K,http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
-五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-魔都眼,http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
 东方购物,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 上海教育,http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
 点掌财经,http://volcanopull.aniu.tv/live/aniu2/index.m3u8
@@ -2458,6 +2450,9 @@ x系列
 泰兴综合,https://litchi-play-encrypted.jstv.com:443/live/taixing.m3u8?txSecret=6e36a7638a59ef3c29f4eb1e7d9d7c8b&txTime=1757382486
 
 浙江,#genre#
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -2490,6 +2485,17 @@ x系列
 浙江国际,https://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江好易购,https://ali-xwl.cztv.com/live/channel111080Plxw.m3u8
 浙江之江纪录,https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
+浙江钱江都市,https://ali-xwl.cztv.com/live/channel021080Pnew.m3u8
+浙江经济生活,https://ali-xwl.cztv.com/live/channel031080Pnew.m3u8
+浙江教科影视,https://ali-xwl.cztv.com/live/channel041080Pnew.m3u8
+浙江民生休闲,https://ali-xwl.cztv.com/live/channel061080Pnew.m3u8
+浙江新闻,https://ali-xwl.cztv.com/live/channel071080Pnew.m3u8
+浙江少儿,https://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
+浙江国际,https://ali-xwl.cztv.com/live/channel101080Pnew.m3u8
+浙江好易购,https://ali-xwl.cztv.com/live/channel111080Pnew.m3u8
+浙江之江纪录,https://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
+
 杭州综合,webview://https://ali-xwl.cztv.com:443/live/hangzhouds.m3u8
 杭州综合,webview://https://tv.hoolo.tv/hzzh/
 杭州西湖明珠,webview://https://tv.hoolo.tv/xhmz/
@@ -3470,7 +3476,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 陕西都市青春,webview://http://live.snrtv.com/2
 陕西银龄,webview://http://live.snrtv.com/3
 陕西银龄,webview://http://www.sxtvs.com/sxtvs_shpd/
-陕西乐家购物,webview://http://live.snrtv.com/6
 陕西秦腔,webview://http://live.snrtv.com/5
 陕西体育休闲,webview://http://live.snrtv.com/7
 陕西体育休闲,webview://http://www.sxtvs.com/sxtvs_tyxxpd/
