@@ -214,7 +214,6 @@ amsp,webview://https://amsp.link/live
 
 卫视,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -2476,6 +2475,7 @@ $石家庄
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -2676,6 +2676,7 @@ $石家庄
 新昌综合,webview://https://web.guangdianyun.tv/tv/1361?uin=2840
 新昌生活,webview://https://web.guangdianyun.tv/tv/1362?uin=2840
 永嘉新闻综合,webview://https://web.guangdianyun.tv/tv/1335?uin=2768
+永嘉新闻综合,https://42263-live.hlsplay.aodianyun.com/tv_radio_42263/42263.hlsplay.aodianyun.com_tv_channel_1335-1769391698109.ts?auth_key=1769478102-0-0-66a81771af94e7512ba64ba77dbf7a7b
 瑞安新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1681269183807252
 龙港综合,webview://https://app.tmuyun.com/webarticle/naturelive2?id=1544
 平湖综合,webview://http://www.qukanvideo.com/cloud/h5/1690167908295069
@@ -2701,7 +2702,6 @@ $石家庄
 嘉兴新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1675942165226154
 嘉兴文化影视,webview://https://www.qukanvideo.com/cloud/h5/1675149625220101
 嘉兴公共,webview://https://www.qukanvideo.com/cloud/h5/1675149601192103
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁生活服务,https://p2hs.vzan.com/slowlive/140655701702632623/live.m3u8
 海宁新闻综合,webview://https://app.hndachao.cn/webarticle/naturelive2?id=1283&articleId=8579073&tenantId=94&uid=65dfd27e2776e42d4a60e2c2
@@ -2793,14 +2793,14 @@ $石家庄
 海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home
-海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
+海南社会与法,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
 海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
 海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
 海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
 海南卫视,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=13
 三沙卫视,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=5&scheduleId=660883
 海南新闻,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=3
-海南公共,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=4
+海南社会与法,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=4
 海南文旅,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=6
 海南少儿,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=7
 海南自贸,webview://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=1
