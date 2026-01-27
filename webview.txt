@@ -1865,10 +1865,12 @@ $石家庄
 青岛经济生活,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛影视,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
 青岛文化娱乐,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛教育,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛新闻综合,webview://http://m.qdntv.cn/qd.html?id=qtv1
 青岛经济生活,webview://http://m.qdntv.cn/qd.html?id=qtv2
 青岛影视,webview://http://m.qdntv.cn/qd.html?id=qtv3
-青岛文化娱乐,webview://m.qdntv.cn/qd.html?id=qtv4
+青岛文化娱乐,webview://http://m.qdntv.cn/qd.html?id=qtv4
+青岛教育,webview://http://m.qdntv.cn/qd.html?id=qtv5
 青岛李沧,webview://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
 青岛城阳,webview://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.html
 崂山综合,webview://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
