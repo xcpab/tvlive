@@ -1788,6 +1788,9 @@ $石家庄
 枣庄公共,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄公共,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/?id=7
 枣庄经济生活,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/?id=6
+枣庄新闻综合,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=1
+枣庄经济生活,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=2
+枣庄公共,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=3
 日照新闻综合,webview://https://www.rzw.com.cn/folder247/folder2217
 德州新闻综合,webview://http://www.dztv.tv/
 威海新闻综合,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
