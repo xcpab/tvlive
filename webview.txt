@@ -2170,6 +2170,9 @@ $石家庄
 曲沃新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1203&uin=2653
 朔州新闻综合,webview://https://www.shuozhounews.cn/folder2074/folder2075/folder2079/
 朔州生活娱乐,https://live1.shuozhounews.cn/xwzh/sd/live.m3u8?_upt=dea510391766735257
+平鲁综合,http://player4.juyun.tv:80/tv/167019161.m3u8
+平鲁综合,webview://http://juxian.juyun.tv/live.php?id=167019
+平鲁综合,webview://http://juxian.juyun.tv/h5/new_home.html?id=8808&session=&site=53&color=FF0000
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 武乡融媒体,webview://https://wuxiang.qmtzy.sxmty.com///television/live_wap_1.html
 祁县综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8
@@ -4324,7 +4327,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 石棉综合,http://tv.yunxya.com/channellive/shimian.flv
 天全综合,https://m3u8channel-tq.yunxya.com/nmip-media/channellive/channel100634/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
-四川巴州,webview://http://app.scbzxw.cn:8083/sctv/lives/2022/03/04/1714_shared.html
+巴州电视,webview://http://app.scbzxw.cn:8083/sctv/lives/2022/03/04/1714_shared.html
 
 凉山新闻综合,webview://http://m.i0834.cn/tms/app/default/83365
 凉山新闻综合,https://tvlive.i0834.cn/nmip-media/channellive/channel114103/playlist.m3u8
@@ -4357,8 +4360,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川综合,webview://http://www.aba-news.com.cn/#/tvChannel?subjectId=1579411253021081602
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
-茂县综合,webview://https://app.scmxtv.com/application/tenma01ds_tvradio/view/h5/#/
-茂县综合,webview://http://www.aba-news.com.cn/#/tvChannel?subjectId=1579412602640732162
+茂县新闻综合,webview://https://app.scmxtv.com/application/tenma01ds_tvradio/view/h5/#/
+茂县新闻综合,webview://http://www.aba-news.com.cn/#/tvChannel?subjectId=1579412602640732162
 壤塘综合,http://livepull.myntv.cn:80/tv/rangtang.m3u8
 壤塘综合,webview://http://www.aba-news.com.cn/#/tvChannel?subjectId=1579718446793748482
 松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -4443,9 +4446,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 乐至综合,webview://http://cr.lzxrmtzx.com:9011/lzgd/#/?isShare=1&centerId=32&areaId=32&paramJson=&shareCode=ba479672-ddbc-4316-bc44-a764680c6a9e
 乐至综合,http://rmlive.lzxrmtzx.com:89/live1/live1.m3u8
 安岳综合,http://aytvpull.ayrmt.com/live/sobeystream_1728362049.m3u8
-平鲁综合,http://player4.juyun.tv:80/tv/167019161.m3u8
-平鲁综合,webview://http://juxian.juyun.tv/live.php?id=167019
-平鲁综合,webview://http://juxian.juyun.tv/h5/new_home.html?id=8808&session=&site=53&color=FF0000
 甘孜综合,webview://https://www.ganzitv.com/cms/tv/1027139
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
