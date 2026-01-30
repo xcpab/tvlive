@@ -2074,7 +2074,7 @@ $石家庄
 沂南红色影视,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 沂水综合,webview://https://app.litenews.cn/share/dHZsLTE0NS0x.html
 沂水生活,webview://https://app.litenews.cn/share/dHZsLTE0NS0y.html
-新闻综合,webview://https://app.litenews.cn/share/dHZsLTM5LTQ0.html
+包头新闻综合,webview://https://app.litenews.cn/share/dHZsLTM5LTQ0.html
 日照
 莒县综合,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县生活,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
@@ -2561,6 +2561,8 @@ $石家庄
 临安综合,webview://https://web.guangdianyun.tv/tv/2747?uin=3568
 临安综合,http://49033.hlsplay.aodianyun.com/tv_radio_49033/tv_channel_2747.m3u8?auth_key=4832295243-0-0-89560f5bea559c53b72595c984e53703&extra_key=lK7fLgiETUudDHjMov44ml22fPLkfD1hOOjrQHZgf8E1uL4VyfOx_j_j4DX5G7CKe-NGl9I5J6Xeh7OZPHs17eJzLkT1TtF-GAIbIQ5g74kUEA0y28oJpRSTvnA4haqnRrRx3SMEKw7qs5LLl9uTjW1Wn_B44gNBMCrMnKNIG1Bz6L_JlG_nsOt2DbUHq-WG
 淳安新闻综合,webview://https://h5-new.qdhnews.com.cn/front-cloudlive-manage-h5/index.html?id=603275733996961792&company_id=1061
+泰顺新闻综合,http://2061827156.cloudvdn.com/a.m3u8?domain=pili-live-hdl-jrts-tv.tianma3600.com&player=1&streamid=jrts-tv:jrts-tv/GZTV&v3=1
+泰顺新闻综合,webview://https://jrts.tianma3600.com/application/tenma01ds_tvradio/view/h5/#/?id=1&time=1746456593101&type=1
 临平新闻,webview://https://web.guangdianyun.tv/tv/2513?uin=3767
 临平新闻,webview://https://lp.hi-lp.com/tv/2513?uin=3767&uid=63520ddc06287f04b7d0a08b
 桐庐综合,webview://https://web.guangdianyun.tv/tv/3566?uin=1163
