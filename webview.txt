@@ -4333,10 +4333,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 凉山新闻综合,webview://http://m.i0834.cn/tms/app/default/83365
 凉山新闻综合,https://tvlive.i0834.cn/nmip-media/channellive/channel114103/playlist.m3u8
-凉山彝语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
-凉山彝语,https://tvlive.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8
+凉山彝语综合,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+凉山彝语综合,https://tvlive.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-凉山彝语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+凉山彝语综合,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 凉山新闻综合,webview://https://www.ls666.com/platform/tv
 
 宁南综合,http://nnpull.ningnan.gov.cn/live/bd3e289e018f100042d46e9300000000/playlist.m3u8?wsSecret=f1408b81c110be4002ba3cfc6201845e&wsTime=2019657600
@@ -4380,9 +4380,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 若尔盖综合,webview://http://kstatic.sctvcloud.com:80/static/a3232/list/1793183022023786498.json
 若尔盖综合,http://regpull.regrmt.cn/live/fba4bdf0019310007748ce6c00000000/playlist.m3u8
 
-广安综合,webview://https://www.gatv.com.cn/Tv/details?id=10
+广安新闻综合,webview://https://www.gatv.com.cn/Tv/details?id=10
 广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
-广安综合,http://live1.gatv.com.cn:90/live/XWZH.m3u8
+广安新闻综合,http://live1.gatv.com.cn:90/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:90/live/GGPD.m3u8
 武胜综合,http://wspull.wsxrmt.com.cn/live/fb899c55019310000893a7cd00000000/playlist.m3u8?wsSecret=49781046550db1e8434768dc478f8b59&wsTime=2019657600
 武胜综合,webview://http://kstatic.sctvcloud.com:80/static/w1622/list/131267996000714777.json
@@ -4440,8 +4440,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 沙湾融媒,webview://http://m.swrmt.cn/cms?column=100704
 五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 峨边综合,http://applive.iebrmt.cn/live/ls1.m3u8?txSecret=c9d94de7720d19569051c533a7ec43a9&txTime=8375D652
-资阳综合,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=2&domain=https://appmgr.zyrb.com.cn
-资阳综合,webview://https://www.zyrb.com.cn/#/bD074b747F?pkey=bD074b747F
+资阳新闻综合,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=2&domain=https://appmgr.zyrb.com.cn
+资阳新闻综合,webview://https://www.zyrb.com.cn/#/bD074b747F?pkey=bD074b747F
 雁江频道,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=5&domain=https://appmgr.zyrb.com.cn
 安岳综合,webview://https://ayapp.ayrmt.com/application/tvradio/h5/detail.html?type=tv&id=10
 乐至综合,webview://http://lzapp.lzxrmtzx.com/application/tvradio/h5/detail.html?type=tv&id=14
