@@ -1666,12 +1666,12 @@ $石家庄
 汝阳综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 汤阴综合,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-沁阳新闻综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沈丘综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 沈丘综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
-泌阳综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-泌阳综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,webview://http://www.jyrb.cn/content/202009/17/c_219930.html
