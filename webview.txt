@@ -4419,7 +4419,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 乐山文旅生活,http://pwpull.leshan.cn/live/216e177701911000eb46902c00000000/playlist.m3u8
 乐山新闻综合,webview://http://www.lstv.org.cn/cms/tv/28
 乐山文旅生活,webview://http://www.lstv.org.cn/cms/tv/44
-
+峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
 峨眉山综合,webview://http://www.jrem.cn/#/web/newsDetail?columnId=6779b99e-5a30-46d9-bb50-775b99767f88&id=35137_60e394ceb0794bfa854750d461363405&type=live
 峨眉山综合,webview://http://www.jrem.cn/#/h5/live/35137_60e394ceb0794bfa854750d461363405
