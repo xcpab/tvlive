@@ -797,7 +797,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 惠州新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88891
 江门综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88892
 揭阳综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88893
-茂名新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88894
+茂名综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88894
 梅州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88895
 清远新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
 汕头综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88897
@@ -4773,7 +4773,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 巴彦淖尔影视娱乐,http://livepull.bynesrmtzx.cn/bynermt/91bd6ebf-3d58-4e3e-b5f6-db69d691c666.m3u8
 伊金霍洛旗综合,webview://https://www.yjhlnews.cn/lives/79
 元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
-阿荣旗电视台,webview://https://live.polyv.cn/watch/1791887
+阿荣旗综合,webview://https://live.polyv.cn/watch/1791887
 达茂新闻综合,webview://http://yxdm.nmgcyy.com.cn/application/tvradio/h5/detail.html?type=tv&id=12
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 达茂新闻综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.flv
