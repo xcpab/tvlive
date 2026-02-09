@@ -213,7 +213,6 @@ amsp,webview://https://amsp.link/live
 央视网清流直播,webview://http://sports.cctv.com/H5/Program/index.shtml
 
 卫视,#genre#
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -942,7 +941,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 鹿寨综合,webview://https://bookingmaster.gxrb.com.cn/cloudgxLive/liveDetails/2807
 
 湖南,#genre#
-湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,webview://https://web.guangdianyun.tv/tv/?id=1726&uin=1632
 湖南爱晚,webview://https://www.mgtv.com/z/261/261.html
 湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
@@ -3491,8 +3490,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 大连生活,webview://https://dlyapp.dltv.cn//television/live_wap_552.html?site=53&color=5488E7
 大连文体,webview://https://dlyapp.dltv.cn//television/live_wap_1231.html?site=53&color=5488E7
 大连乐天购物,webview://https://dlyapp.dltv.cn//television/live_wap_1238.html?site=53&color=5488E7
-锦州新闻综合,http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
-锦州教育,http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
+锦州新闻综合,https://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
+锦州教育,https://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 铁岭新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2584&uin=3816
 铁岭新闻综合,webview://https://nginx-tlrb.newaircloud.com/tlrb/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tdGxyYi5uZXdhaXJjbG91ZC5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjMsInR2U3R5bGUiOjEsImNvbElkIjo1NjAsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4MTAyNTdjNDUyMzU5ZWZlOSJ9
 丹东新闻综合,http://1866360232.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv%3Azhdd-tv%2Fddnews&v3=1
@@ -3820,8 +3819,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宁夏文旅,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
 石嘴山综合,webview://https://jrszs.szsnews.com/application/tenma01ds_tvradio/view/web/#/?id=1
 石嘴山公共,webview://https://jrszs.szsnews.com/application/tenma01ds_tvradio/view/web/#/?id=2
-石嘴山综合,http://120.253.35.207:10086/hls/zhpd/playlist.m3u8
-石嘴山公共,http://120.253.35.207:10086/hls/ggpd/playlist.m3u8
 吴忠综合,webview://http://live.kanwz.net/zhpd/playlist.m3u8
 吴忠综合,webview://http://share.kanwz.net/?_hgOutLink=live/livedetail&channel_id=9
 吴忠公共,webview://http://live.kanwz.net/ggpd/playlist.m3u8
