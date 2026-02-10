@@ -2382,9 +2382,9 @@ $石家庄
 吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 #南通
 南通新闻综合,webview://https://www.ntjoy.com/ntw/broadcastTvs.html?menuCode=ntw005
-南通新闻综合,http://cm-live.ntjoy.com/live/4f1.m3u8
-南通社教,https://cm-live.ntjoy.com/live/4f3.m3u8
-南通公共崇川,http://cm-live.ntjoy.com/live/4f5.m3u8
+南通新闻综合,webview://http://win.nettv.vip/embed/nantong.html?id=1&t=hls
+南通社教,webview://http://win.nettv.vip/embed/nantong.html?id=2&t=hls
+南通公共崇川,webview://http://win.nettv.vip/embed/nantong.html?id=3&t=hls
 如东综合,webview://https://www.rdxmt.com/pc.html?topid=54172
 如东综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
