@@ -2996,6 +2996,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 肥东新闻综合,webview://http://wxfx.feidongtv.com/mag/livevideo/v1/video/wapVideoView?id=752
 肥东经济生活,webview://http://wxfx.feidongtv.com/mag/livevideo/v1/video/wapVideoView?id=753
 肥东经济生活,webview://https://web.guangdianyun.tv/tv/?id=2093&uin=1167
+肥东新闻综合,https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c4&extra_key=c5aQD7PkoWQlLE2jcGdAMBsfaGdu6JPhyy8U7SviAcVIR3XolBzY26365erxKIjk_nKavWnFWH3aDX4wtTEeC_j5v6LpKXXgmTQm6JZuCVfkfQwc6Tl4ia4nCbb85h94l5UNgfI2WIts-xNjcKahTX68n8xmIFFcN6al1dK28Lo
 肥东经济生活,https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1774408589&volcSecret=4938d82045551d670c9d796c4ec39bc4
 安庆新闻综合,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
 安庆经济生活,https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
@@ -3012,8 +3013,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 黄山文旅,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 黄山新闻综合,webview://http://www.hsnewsnet.com/web/tvnews/
 黄山文旅,webview://http://www.hsnewsnet.com/web/tvlife/
-黄山文旅,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
-黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 宿州新闻综合,webview://https://www.ahsz.tv/xwzh
 宿州科教生活,webview://https://www.ahsz.tv/kejiao
 宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -3033,6 +3032,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 五河新闻综合,webview://https://child.yun.fst1994.net/shareh5/wuhe/#/
 灵璧新闻综合,webview://http://app.cms.anhuinews.com/video/videojs/index?site_id=10003&live_type=1&id=32
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+祁门综合,http://channel.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 祁门综合,webview://http://www.qmxrmt.com/cms/content/1026918
 
@@ -3041,8 +3041,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 潜山综合,webview://https://www.qsxw.gov.cn/tv_politics
 
 六安综合,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104416.shtml
-六安综合,https://live.ahsx.ahtv.cn/live/latv.m3u8?txSecret=a9aec2d19be14af37372ae129e00961c&txTime=6954CAD3
-六安综合,http://203.205.191.53/live.ahsx.ahtv.cn/live/latv.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/playlist.m3u8
 淮北矿业综合,webview://http://share.xcb.hbcoal.com/?_hgOutLink=live/livedetail&channel_id=7
@@ -3059,12 +3057,12 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 利辛新闻综合,webview://https://www.rong-lixin.com/tvLive
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch0.m3u8
-涡阳新闻综合,http://112.28.86.56:8099/live/one/playlist.m3u8
 涡阳新闻综合,webview://https://gyrmedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=233
 阜阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
 阜阳教育,webview://https://web.guangdianyun.tv/tv/?id=2852&uin=2577
 阜阳生活,webview://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
 阜阳都市文艺,webview://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
+阜阳新闻综合,https://41007-live.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2851.m3u8?auth_key=1770870673-0-0-5b444a4a3ccf63e05f6bedd2b79553c5&extra_key=rBYmoasFl1MGKyL8aN-EKOxIqJZKUeF2N8Wy67X15U7Mn4rXBDpzouFUp5qy0yST3F7rjuJykzlDwHMItnql6e1rg4V8qwa_EMVLQd9sk1WWKU7TKFfZ5laQSkZ4vyx68KeuevXk4XO_f8g6hwNqo-obFO7n5vQGCJzNsbiMAfU
 阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
 阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
