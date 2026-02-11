@@ -556,7 +556,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 天津体育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000692
 天津教育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000693
 羽球精品赛事,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000001942
-天津宝坻台,webview://https://juxian.juyun.tv/live.php?id=143100
+宝坻综合,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/shoujitv_05181638.shtml
 天津静海台,http://live.jinghai.tjrmtzx.com/live/tjjh0807.m3u8
 天津静海台,webview://http://www.jhtoutiao.cn/zb/jh_tv_ing.shtml
@@ -565,9 +565,9 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 滨海新闻综合,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2
 滨海生活,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440
 津南综合,http://play.jinnantv.top/live/JNTV1.m3u8
-武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
-武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia.flv
-武清电视台,rtmp://tvpull.smartwq.cn/wqlive/convergencemedia
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia.flv
+武清综合,rtmp://tvpull.smartwq.cn/wqlive/convergencemedia
 南开区电视台,webview://http://win.nettv.vip/embed/nankai.php
 
 重庆,#genre#
@@ -985,8 +985,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 衡阳文旅法治,webview://http://khy.hydst.com/live/index.html?liveid=348&videoUrl=aHR0cDovL2dncGRibC5oeWRzdC5jb20vQXBwTmFtZS9TdHJlYW1OYW1lLm0zdTg=&videoImg=#reloaded
 湘西新闻综合,webview://https://web.guangdianyun.tv/tv/2581?uin=3815
 湘西文化旅游,webview://https://web.guangdianyun.tv/tv/2582?uin=3815
-韶山新闻综合,webview://https://wap.ssxw.net/live/index.html?liveid=1760
-韶山新闻综合,http://liveplay-nanyue.rednet.cn/live/shaoshan-tv.m3u8
+韶山综合,webview://https://wap.ssxw.net/live/index.html?liveid=1760
+韶山综合,http://liveplay-nanyue.rednet.cn/live/shaoshan-tv.m3u8
 湘潭县电视台,webview://https://wap.xtxnews.cn/live/index.html?liveid=1102
 湘潭县电视台,http://liveplay-nanyue.rednet.cn/live/xiangtanxian_tv.m3u8
 南岳综合,webview://https://wap.nanyuenews.com/live/index.html?liveid=1817
@@ -1435,7 +1435,7 @@ $石家庄
 鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 鹿泉公共,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 涉县新闻综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
-青县新闻综合,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+青县综合,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 双滦新闻,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 双滦新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=64e92138603740e9846d057094a338cd&type=1&siteId=c03331b3709a449a91a7ee0132c272ce&shareAppId=c03331b3709a449a91a7ee0132c272ce
 
@@ -3626,13 +3626,13 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
 酒泉文旅,webview://https://cloud.kankanlive.com/cloud/h5/1702036477193973
 酒泉文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1743389368540298
-张掖新闻,http://play.kankanlive.com/live/1720583434627241.m3u8
+张掖新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖农业旅游,https://play.kankanlive.com/live/1720583009200246.m3u8
-张掖新闻,webview://https://cloud.kankanlive.com/cloud/a/embed/1720583434627241
+张掖新闻综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1720583434627241
 张掖农业旅游,webview://https://cloud.kankanlive.com/cloud/a/embed/1720583009200246
-张掖新闻,webview://https://cloud.kankanlive.com/cloud/h5/1720583434627241
+张掖新闻综合,webview://https://cloud.kankanlive.com/cloud/h5/1720583434627241
 张掖农业旅游,webview://https://cloud.kankanlive.com/cloud/h5/1720583009200246
-张掖新闻,webview://http://www.zyrmtst.cn/
+张掖新闻综合,webview://http://www.zyrmtst.cn/
 天水综合,webview://https://nginx-tss.xgsyun.com/tss/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tdHNzLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsInNpdGVJRCI6MX0N
 天水综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1698724188723989
 天水综合,webview://https://cloud.kankanlive.com/cloud/h5/1698724188723989
@@ -3790,10 +3790,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 清水综合,webview://http://play.kankanlive.com/live/1738914468748199.m3u8
 清水综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1738914468748199
 武威凉州,http://lishiwan.xicp.net:8563/udp/239.255.36.106:8231
-武威天祝,http://play.kankanlive.com/live/1656487214793905.flv
-武威天祝,https://play.kankanlive.com/live/1656487214793905.m3u8
-武威天祝,webview://https://cloud.kankanlive.com/cloud/h5/1656487214793905
-武威天祝,webview://https://cloud.kankanlive.com/cloud/a/embed/1656487214793905
+天祝综合,http://play.kankanlive.com/live/1656487214793905.flv
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
+天祝综合,webview://https://cloud.kankanlive.com/cloud/h5/1656487214793905
+天祝综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1656487214793905
 华池综合,https://play.kankanlive.com:443/live/1733800678141381.m3u8
 华池综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1733800678141381
 
@@ -4431,8 +4431,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 沐川综合,webview://http://m.mcrm.org.cn/cms/column/100899
 犍为综合,http://r8.vzan.com/v/slowlive_230559508552681163.m3u8
 犍为综合,http://p8.vzan.com/slowlive/230559508552681163/live.m3u8
-沙湾融媒,http://tvfile.swrmt.cn:80/nmip-media/channellive/channel100064/playlist.m3u8
-沙湾融媒,webview://http://m.swrmt.cn/cms?column=100704
+沙湾综合,http://tvfile.swrmt.cn:80/nmip-media/channellive/channel100064/playlist.m3u8
+沙湾综合,webview://http://m.swrmt.cn/cms?column=100704
 五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 峨边综合,http://applive.iebrmt.cn/live/ls1.m3u8?txSecret=c9d94de7720d19569051c533a7ec43a9&txTime=8375D652
 资阳新闻综合,webview://https://liveshow.zyrb.com.cn/web/fslivemobile/index.html?id=2&domain=https://appmgr.zyrb.com.cn
