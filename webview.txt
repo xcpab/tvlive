@@ -251,7 +251,6 @@ amsp,webview://https://amsp.link/live
 江西少儿,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 江西新闻,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西陶瓷,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
-风尚购物,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 江西教育,https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 江西教育,webview://https://live.jxeduyun.com/lives/XlaoRd
 南昌新闻综合,webview://https://www.nctv.net.cn/live
@@ -672,7 +671,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?liveId=ZwxzUXr
 深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?liveId=4azbkoY
-深圳财经生活,webview://https://www.sztv.com.cn/pindao/index.html?liveId=3vlcoxP
 深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?liveId=1SIQj6s
 深圳移动电视,webview://https://www.sztv.com.cn/pindao/index.html?liveId=wDF6KJ3
 深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?liveId=BJ5u5k2
@@ -682,7 +680,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
-深圳财经生活,webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
+深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
 深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
 深圳移动电视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
 深圳宜和购物,webview://https://www.sztv.com.cn/dianshi.shtml?id=7878
@@ -1794,10 +1792,6 @@ $石家庄
 枣庄公共,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=3
 日照新闻综合,webview://https://www.rzw.com.cn/folder247/folder2217
 德州新闻综合,webview://http://www.dztv.tv/
-威海新闻综合,webview://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,webview://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
-威海都市生活,webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
 临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
@@ -2088,9 +2082,6 @@ $石家庄
 新泰乡村,webview://https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html
 
 威海
-威海新闻综合,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-威海都市生活,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-威海海洋,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
 环翠综合,webview://https://iapp.whhccm.cn/share/dHZsLTIxMy01.html
 荣成综合,webview://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEw.html
 荣成生活,webview://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEx.html
@@ -3538,7 +3529,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 延安公共,webview://https://www.yanews.cn/fuesf/TV
 安康综合,http://pili-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 安康民生,http://pili-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
-安康教育,http://pili-live-hls.akrt.cn/akapptv/jypdhd.m3u8
 镇安综合,webview://https://zasjt.zatvs.cn/videolive-info/qftvqpbsedessquowaadwpexqupxuwrd/88a43d204fc20e36bdd8c76f88bd6462/cad887a9e2ad4652a1a29290ff559862
 镇安综合,https://liveznsjt.chinamcache.com/live/ZATV-1.m3u8?txSecret=29f1856aaf2206cb02594634c80da673&txTime=6A28D639&share=true
 镇安综合,webview://https://web.csp.chinamcloud.com/cms/rmt5002_html/14319/14319mrgrgklm/4895397815.shtml?share=true
