@@ -1,4 +1,45 @@
 央视,#genre#
+CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801
+CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+ 体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600099502
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
+CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
+CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
+CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
+CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+CCTV世界地理,webview://https://yangshipin.cn/tv/home?pid=600099637
+CCTV风云音乐,webview://https://yangshipin.cn/tv/home?pid=600099660
+CCTV兵器科技,webview://https://yangshipin.cn/tv/home?pid=600099649
+CCTV风云足球,webview://https://yangshipin.cn/tv/home?pid=600099636
+CCTV高尔夫网球,webview://https://yangshipin.cn/tv/home?pid=600099659
+CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
+CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
+CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
+CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
+CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
+
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
@@ -19,46 +60,6 @@ CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 美洲,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
-CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
-CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
-CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801
-CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
-CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
-CCTV-5+ 体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
-CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
-CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
-CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
-CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
-CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
-CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
-CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
-CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
-CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
-CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
-CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600099502
-CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
-CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
-CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
-CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
-CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
-CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
-CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
-CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
-CCTV世界地理,webview://https://yangshipin.cn/tv/home?pid=600099637
-CCTV风云音乐,webview://https://yangshipin.cn/tv/home?pid=600099660
-CCTV兵器科技,webview://https://yangshipin.cn/tv/home?pid=600099649
-CCTV风云足球,webview://https://yangshipin.cn/tv/home?pid=600099636
-CCTV高尔夫网球,webview://https://yangshipin.cn/tv/home?pid=600099659
-CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
-CCTV央视文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
-CCTV央视台球,webview://https://yangshipin.cn/tv/home?pid=600099652
-CCTV电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
-CCTV卫生健康,webview://https://yangshipin.cn/tv/home?pid=600099651
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
@@ -195,17 +196,6 @@ CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 中经电视,webview://http://yun.ce.cn/mobile/
 imode时尚,http://player.juyun.tv/camera/137932133.m3u8
 imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
-农视网正在直播,https://streamrtmp.ntv.cn/live/1234.m3u8
-农视网正在直播,webview://https://rmtapi.ntv.cn/jhxtapi/jhxt/Live/show/id/3360
-amsp,https://ww2-live.amsp.link/live/ch1.m3u8
-amsp,webview://https://amsp.link/live
-央视网清流直播1,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip1
-央视网清流直播2,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip2
-央视网清流直播3,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip3
-央视网清流直播4,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip4
-央视网清流直播5,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip5
-央视网清流直播6,webview://https://sports.cctv.com/H5/m/index.shtml?id=tiyuip6
-央视网清流直播,webview://http://sports.cctv.com/H5/Program/index.shtml
 
 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -962,8 +952,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 快乐垂钓,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 快乐垂钓,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.flv
 
-长沙新闻,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSXWMPP360.m3u8
-长沙新闻,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSXWMPP360.flv
+长沙新闻综合,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSXWMPP360.m3u8
+长沙新闻综合,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSXWMPP360.flv
 
 长沙政法,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSZFMPP360.m3u8
 长沙政法,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSZFMPP360.flv
@@ -979,11 +969,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2134?uin=1366
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-3e3cb4d06441f98583bcb56552e0c5cd
-怀化经济生活,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-3e3cb4d06441f98583bcb56552e0c5cd
 常德新闻综合,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
-常德公共,webview://http://zzwxht.changdejia.com/zhibo_ggzh.php
-邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 邵阳新闻综合,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=33
 邵阳文旅民生,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
 娄底综合,webview://http://www.ldntv.cn/folder51/folder154/folder171
@@ -999,110 +985,57 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湘西新闻综合,webview://https://web.guangdianyun.tv/tv/2581?uin=3815
 湘西文化旅游,webview://https://web.guangdianyun.tv/tv/2582?uin=3815
 韶山综合,webview://https://wap.ssxw.net/live/index.html?liveid=1760
-韶山综合,http://liveplay-nanyue.rednet.cn/live/shaoshan-tv.m3u8
 湘潭县电视台,webview://https://wap.xtxnews.cn/live/index.html?liveid=1102
-湘潭县电视台,http://liveplay-nanyue.rednet.cn/live/xiangtanxian_tv.m3u8
 南岳综合,webview://https://wap.nanyuenews.com/live/index.html?liveid=1817
-南岳综合,http://liveplay-nanyue.rednet.cn/live/nanyue_03f74.m3u8
 南县新闻,webview://https://web.guangdianyun.tv/tv/?id=1724&uin=1632
 洪江综合,webview://https://hongjiang-wap.rednet.cn/live/index.html?liveid=2510
-洪江综合,http://liveplay-nanyue.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
 通道综合,webview://http://m.tongdaonews.com/live/index.html?liveid=5957
-通道综合,https://www.tongdaotv.com:10086/hls/KRu9L3sNR/playlist.m3u8
 溆浦综合,webview://https://xupu-wap.rednet.cn/live/index.html?liveid=1916
-溆浦综合,http://liveplay-nanyue.rednet.cn/live/Xupu2024_DsT.m3u8
 沅陵新闻综合,webview://https://www.ylxw.net/live/index.html?liveid=4860
-沅陵新闻综合,http://liveplay-nanyue.rednet.cn/live/YL-TV.m3u8
 宜章新闻综合,webview://https://web.guangdianyun.tv/tv/3088?uin=4100
 资兴台,webview://https://zixing-wap.rednet.cn/live/index.html?liveid=2329
-资兴台,https://liveplay-zixing.rednet.cn/live/zixin_tv_00676b.m3u8
 新田综合,webview://https://wap.nyxt.cn/live/index.html?liveid=3160
-新田综合,https://liveplay-xintian.rednet.cn/live/xintian_tv.m3u8
-茶陵综合,http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
 茶陵综合,webview://https://wap.clnews.cn/live/index.html?liveid=1642
-云溪新闻综合,http://liveplay-nanyue.rednet.cn/live/yxq2024tv.m3u8
-云溪新闻综合,http://liveplay-yxq.rednet.cn/live/yxq2024tv.m3u8
 云溪新闻综合,webview://http://wap.yxqnews.com/live/index.html?liveid=1603
-桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-衡南综合,https://liveplay-hengnan.rednet.cn/live/hengnan_tv.m3u8
 衡南综合,webview://https://wap.hnxrmt.com/live/index.html?liveid=5556
-桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 桂阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=7
-邵东电视台,https://liveplay-srs.voc.com.cn/hls/tv/13_46d84a.m3u8
 邵东电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=13
-中方县综合,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
 中方县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=18
-芷江电视台,https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
 芷江电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=20
-东安综合,https://liveplay-srs.voc.com.cn/hls/tv/21_f71392.m3u8
 东安综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=21
-新晃综合,https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
 新晃综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=23
-洪江区电视台,https://liveplay-srs.voc.com.cn/hls/tv/24_6c8648.m3u8
 洪江区电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=24
-蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
 蓝山综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=26
-耒阳电视台,https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
 耒阳电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=27
-汉寿综合,https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
 汉寿综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=31
-祁阳综合,https://liveplay-srs.voc.com.cn/hls/tv/33_eb14e5.m3u8
 祁阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=33
-靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 靖州综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=34
-麻阳综合,https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
 麻阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=38
-永兴新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
 永兴新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=40
-双峰县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
 双峰县新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=131
-古丈电视,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 古丈电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=144
-花垣综合,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 花垣综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=134
-吉首综合,https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
 吉首综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=143
-龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
 龙山综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=146
-临武综合,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
 临武综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=148
-汝城新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/149_a8efd8.m3u8
 汝城新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=149
-桃源综合,https://liveplay-srs.voc.com.cn/hls/tv/157_66df9e.m3u8
 桃源综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=157
-攸县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 攸县新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=158
-沅江融媒,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 沅江融媒,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=163
-湘阴综合,https://liveplay-srs.voc.com.cn/hls/tv/165_13506b.m3u8
 湘阴综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=165
-汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 汨罗综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=166
-CCTV1综合,https://liveplay-srs.voc.com.cn/hls/tv/168_e04f1e.m3u8
 CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=168
-城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
 城步电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=169
-新化电视台,https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
 新化电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=170
-新邵新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
 新邵新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=171
-桂东融媒,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 桂东融媒,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=174
-衡东电视台,https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
 衡东电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=180
-绥宁电视台,https://liveplay-srs.voc.com.cn/hls/tv/182_3c0dc6.m3u8
 绥宁电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=182
-衡阳县电视台,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 衡阳县电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=183
-嘉禾新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
 嘉禾新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=184
-桑植新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 桑植新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=185
-津市电视台,https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8
 津市电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=187
-长沙县综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 长沙县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=203
-安化综合,https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
 安化综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=204
 
 湖北,#genre#
@@ -1791,15 +1724,17 @@ $石家庄
 枣庄经济生活,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=2
 枣庄公共,webview://https://www.sdzzwm.com/zhibo/show.php?itemid=3
 日照新闻综合,webview://https://www.rzw.com.cn/folder247/folder2217
+日照新闻综合,https://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=10106f461771330586
+日照公共,https://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=6bade8db1771330532
 德州新闻综合,webview://http://www.dztv.tv/
 临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
 临沂综合,webview://https://news.langya.cn/y/tv
-东营新闻综合,webview://https://www.dongyingnews.cn/v/tv/?id=0
-东营公共,webview://https://www.dongyingnews.cn/v/tv/?id=1
-东营科教,webview://https://www.dongyingnews.cn/v/tv/?id=2
+东营新闻综合,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html
+东营公共,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0z.html
+东营科教,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy03.html
 滨州新闻综合,https://lmt.binzhouw.com:8443/live/ca5e9d9535ac.m3u8
 滨州民生,https://lmt.binzhouw.com:8443/live/2aeb23199bab.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
