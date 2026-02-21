@@ -2318,7 +2318,7 @@ $石家庄
 连云港生活,https://livenew.lyg1.com/LYGZHGB/hd/live.m3u8
 东海综合,http://donghai-tv-replay.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
 东海综合,http://1033946631.cloudvdn.com/a.m3u8?domain=donghai-tv-rtmp.cm.jstv.com&player=1&streamid=donghai-tv:donghai-tv/donghaixinwensp&v3=1
-赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+赣榆综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 灌云综合,webview://https://web.guangdianyun.tv/tv/777?uin=1909
 #淮安
 淮安综合,webview://https://glive.habctv.com/tv/803?uin=1610
