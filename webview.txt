@@ -3845,11 +3845,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 师宗综合,http://miku-live-hls-szrm-tv.szrmxw.cn/szrm-tv/ynsz.m3u8?sign=8ef3f3ef4e94386500a3f131e0eb6aa9&t=1928369969
 师宗综合,webview://https://szrmapp.szrmxw.cn/application/tenma01ds_tvradio/view/h5/#/?id=1
 陆良电视台,https://hwapi.yntv.net/9327b6/v8i7rf.m3u8
-文山综合,https://hwapi.yntv.net/ew265l/29vf20.m3u8
-文山综合,webview://http://m.wsrtv.com.cn/cms?column=100648
-文山综合,webview://http://rbweb.wsnews.com.cn/cms/tv
-文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-文山综合,http://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
+文山新闻综合,https://hwapi.yntv.net/ew265l/29vf20.m3u8
+文山新闻综合,http://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
+文山新闻综合,webview://http://m.wsrtv.com.cn/cms?column=100648
+文山新闻综合,webview://http://rbweb.wsnews.com.cn/cms/tv
 麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 丘北电视台,http://zb-live.ynurl.com/live/87f0d417-e3c0-4f0d-b930-74ab3f8d7176.flv
@@ -3892,7 +3891,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 迪庆藏语,webview://https://yndq.diqingtv.com/application/tenma01ds_tvradio/view/h5/#/?id=2
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
-文山市新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+文山市综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 耿马综合,https://hwapi.yntv.net:443/r5fc3f/4kzlat_hd.m3u8
 龙陵综合,https://hwapi.yntv.net:443/ey0321/l0vlci_hd.m3u8
 龙陵综合,webview://https://mtydazzle.yntv.net/index.html?companyId=longling&productId=longlingnews&ifram=preview
