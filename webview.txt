@@ -611,7 +611,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
-广东移动电视,webview://https://www.gdtv.cn/tvChannelDetail/74
+广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
 广东现代教育,webview://https://www.gdtv.cn/tvChannelDetail/111
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
@@ -631,7 +631,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 嘉佳卡通,webview://https://m.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://m.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://m.gdtv.cn/tvChannelDetail/15
-广东移动电视,webview://https://m.gdtv.cn/tvChannelDetail/74
+广东移动,webview://https://m.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://m.gdtv.cn/tvChannelDetail/100
 纪录片,webview://https://m.gdtv.cn/tvChannelDetail/94
 GRTN健康,webview://https://m.gdtv.cn/tvChannelDetail/99
