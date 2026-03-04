@@ -181,11 +181,11 @@ CHC影迷电影,webview://https://m.miguvideo.com/m/liveDetail/952383261?channel
 中央新影-发现之旅,webview://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
 中央新影-老故事,webview://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
 中央新影-中学生,webview://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
-CECTV-1 汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV-2 国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV-3 国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV-4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CECTV 美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CEC美食文化,webview://https://web.guangdianyun.tv/tv/?id=3782&uin=4251
 央广购物,https://newapplive.cnrmall.com/live/cnrxp_HD1200.m3u8
 央广购物,webview://https://www.cnrmall.com/tv/
 央广购物,webview://https://m1.cnrmall.com/
