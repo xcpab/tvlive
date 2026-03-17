@@ -1253,10 +1253,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=1893427200&k=a538e2635614a0ce3487b764d26300d6
 河北三佳购物,rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=1893427200&k=6517ddd806ed049b64de8a4252f90467
 $石家庄
-石家庄新闻综合,webview://http://www.sjzntv.cn/wzsy/pd/
-石家庄新闻综合,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=4
-石家庄城市服务,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
-石家庄文化娱乐,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
+石家庄新闻综合,webview://https://www.sjzntv.cn/nusChannel/tvPlay/kds
 石家庄新闻综合,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=4e946c98a07049fc92f68e464dbdd939
 石家庄城市服务,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=7c3b0db17c46411782cb4f4620a70ee9
 石家庄文化娱乐,webview://https://res.sjzntv.cn/html/rft/live.html?channelId=fe5301b900ec4a049de688cdd602fdef
@@ -1287,7 +1284,6 @@ $石家庄
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邢台综合,webview://https://xinxingtai.hebyun.com.cn/html/rft/live.html?channelId=f0fb12db90f64d618240ce8e043aeed4&type=1&siteId=f6d9609c96ed4e57aa3cffde7a26eef1&shareAppId=f6d9609c96ed4e57aa3cffde7a26eef1
 邢台城市生活,webview://https://xinxingtai.hebyun.com.cn/html/rft/live.html?channelId=4ef17ec6aacb4b7aaf42b64cb04dffa5&type=1&siteId=f6d9609c96ed4e57aa3cffde7a26eef1&shareAppId=f6d9609c96ed4e57aa3cffde7a26eef1
-
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 临西综合,http://jwcdnqx.hebyun.com.cn/live/lx1/1500k/tzwj_video.m3u8
 临西生活,http://jwcdnqx.hebyun.com.cn/live/lx2/1500k/tzwj_video.m3u8
@@ -1335,7 +1331,6 @@ $石家庄
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 隆化综合,http://jwcdnqx.hebyun.com.cn/live/lhtv/1500k/tzwj_video.m3u8
 隆化综合,webview://https://jiyunlonghua.hebyun.com.cn/live/2020/03/04/e0e6ea62818b4b6fa5936b298ecd4fc8.html?shareAppId=589eafa699af4d2dad8c1f779f8e2267
-
 沧州新闻综合,webview://http://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州公共,webview://http://www.czgd.tv/Article/des?infoid=32769&modelid=3
 沧州影视娱乐,webview://http://www.czgd.tv/Article/des?infoid=32770&modelid=3
