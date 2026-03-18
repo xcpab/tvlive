@@ -709,7 +709,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湛江新闻综合,webview://https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=13
 湛江公共,webview://https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=14
 阳江综合,https://live.yjtvw.com:8081/live/yjtv1.m3u8
-阳江生活,https://live.yjtvw.com:8081/live/yjtv2.m3u8
 揭阳综合,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11
 揭阳生活,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=12
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
@@ -3778,7 +3777,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 云南都市,webview://https://www.yntv.cn/live.html?name=yunnandushi
 云南康旅,webview://https://www.yntv.cn/live.html?name=yunnangonggong
 云南娱乐,webview://https://www.yntv.cn/live.html?name=yunnanyule
-云南少儿,webview://https://www.yntv.cn/live.html?name=yunnanshaoer
 澜湄国际,webview://https://www.yntv.cn/live.html?name=yunnanguoji
 昆明新闻综合,https://hwapi.yntv.net/ew265l/32l193.m3u8
 昆明新闻综合,webview://https://m.kmzscc.com/zsccv9/detail.html?obj_id=5004&open_type=1
