@@ -1770,7 +1770,7 @@ $石家庄
 济铁频道,webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
 济阳综合,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
 济阳影视,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html
-历城新闻综合,webview://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
+历城综合,webview://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
 平阴综合,webview://https://app.litenews.cn/share/dHZsLTI1Ny0x.html
 平阴乡村振兴,webview://https://app.litenews.cn/share/dHZsLTI1Ny0z.html
 商河综合,webview://https://iapp.shxrmtzx.com/share/dHZsLTk3LTE.html
@@ -1915,7 +1915,7 @@ $石家庄
 曹县综合,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
 曹县综合,rtmp://jsylivealone.iqilu.com/live/caoxian_tv01
 东明新闻综合,webview://https://iapp.dongmingrongmei.cn/share/dHZsLTExMS0y.html
-定陶新闻,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html
+定陶综合,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html
 定陶综艺,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTg.html
 鄄城综合,webview://https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0xODY.html
 巨野综合,webview://https://iapp.juyerongmei.cn/share/dHZsLTEzOS0x.html
@@ -1942,7 +1942,7 @@ $石家庄
 泗水新闻综合,webview://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
 泗水文化生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
 汶上综合,webview://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
-鱼台新闻,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html
+鱼台综合,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html
 鱼台生活,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTE1.html
 兖州综合,webview://https://app.litenews.cn/share/dHZsLTIzMS0x.html
 兖州生活,webview://https://app.litenews.cn/share/dHZsLTIzMS0z.html
