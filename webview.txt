@@ -3685,6 +3685,12 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宁夏经济,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxjj/
 宁夏少儿,webview://http://web.ningxiahuangheyun.com/app/nxtv-tv/nxse/
 宁夏文旅,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxwl/
+银川公共,http://play-sh13.quklive.com/live/1759132792923073.m3u8?auth_key=2079437155-40ac3e4e2618455e9aa701e9da7261d5-0-05e819276f9aae00757c81a16298c4f7
+银川公共,http://play-sh13.quklive.com/live/1759132792923073.flv?auth_key=2079437155-fd217020c6d54f6abcea16f1065623be-0-c892318bd7f4050f3cf506ed34ab908b
+银川生活,http://play-sh13.quklive.com/live/1759132827032262.m3u8?auth_key=2079437379-2603d9aac17b45a5a2093d8a5c3a3cba-0-0a4a69c41214f8a3669d86982b2c9ba3
+银川生活,http://play-sh13.quklive.com/live/1759132827032262.flv?auth_key=2079437379-deac0d33d67641baa083a0d23443627a-0-e0a7088e61e1c54a339f084fa130706d
+银川文体,http://play-sh13.quklive.com/live/1759132882868161.m3u8?auth_key=2079437501-cc9b0e48c4b6438fb942a9d555597f66-0-c6d72cf33d57826174a5d4bcf90c8f95
+银川文体,http://play-sh13.quklive.com/live/1759132882868161.flv?auth_key=2079437501-169ecc480e504904b851613e14accd22-0-d0c7e16abb04f58e4cd5b2e90a548d41
 银川公共,webview://https://www.qukanvideo.com/cloud/h5/1759132792923073
 银川公共,webview://https://cloud.quklive.com/cloud/a/embed/1759132792923073
 银川生活,webview://https://www.qukanvideo.com/cloud/h5/1759132827032262
