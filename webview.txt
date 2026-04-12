@@ -1701,6 +1701,11 @@ $石家庄
 泰安经济生活,https://tagdzhibo.tajn.cn/live/tatv2.m3u8?auth_key=10410524537-0-0-fd7da1815deb8644f9562a7c7e729ac7
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
 泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
+泰安新闻综合,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=218&cid=16
+泰安经济生活,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=140&cid=17
+泰山风光慢直播,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=165&cid=15
+泰山玉皇顶慢直播,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=161&cid=15
+泰山十八盘慢直播,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=164&cid=15
 枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/?id=1
 枣庄公共,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 枣庄公共,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/?id=7
@@ -2597,6 +2602,7 @@ $石家庄
 诸暨综合,webview://http://wap.zjbtv.com/TV
 新昌综合,webview://https://web.guangdianyun.tv/tv/1361?uin=2840
 新昌生活,webview://https://web.guangdianyun.tv/tv/1362?uin=2840
+
 永嘉新闻综合,webview://https://web.guangdianyun.tv/tv/1335?uin=2768
 永嘉新闻综合,https://42263-live.hlsplay.aodianyun.com/tv_radio_42263/42263.hlsplay.aodianyun.com_tv_channel_1335-1769391698109.ts?auth_key=1769478102-0-0-66a81771af94e7512ba64ba77dbf7a7b
 瑞安新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1681269183807252
