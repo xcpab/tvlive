@@ -1283,9 +1283,6 @@ $石家庄
 邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-保定新闻综合,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-保定生活健康,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 保定新闻综合,webview://https://web.guangdianyun.tv/tv/?id=3067&uin=1630
 保定公共,webview://https://web.guangdianyun.tv/tv/?id=3068&uin=1630
 保定生活健康,webview://https://web.guangdianyun.tv/tv/?id=3069&uin=1630
@@ -1701,7 +1698,7 @@ $石家庄
 泰安经济生活,https://tagdzhibo.tajn.cn/live/tatv2.m3u8?auth_key=10410524537-0-0-fd7da1815deb8644f9562a7c7e729ac7
 泰安综合,webview://http://www.1545ts.com/tatv/contents/113/1.html
 泰安经济生活,webview://http://www.1545ts.com/tatv/contents/113/2.html
-泰安新闻综合,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=218&cid=16
+泰安综合,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=218&cid=16
 泰安经济生活,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=140&cid=17
 泰山风光慢直播,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=165&cid=15
 泰山玉皇顶慢直播,webview://https://taishanhao.web.sddzinfo.net/portal/article/index.html?id=161&cid=15
@@ -5020,5 +5017,179 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 音乐欣赏1,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 Webview检测,webview://https://passer-by.com/browser
 IPV6检测,webview://https://ipv6ready.me/index.html.zh_CN
+
+
+成都,#genre#
+成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
+成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
+成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
+成都影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv4high%2FCDTV4High.flv%2Fplaylist.m3u8
+成都公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv5high%2FCDTV5High.flv%2Fplaylist.m3u8
+成都少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
+成都蓉城先锋,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
+
+上海,#genre#
+东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
+上海新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
+新纪实,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
+魔都眼,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
+爱上海,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ash
+第一财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
+上海都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
+五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
+
+北京,#genre#
+北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
+BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
+BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
+BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
+BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
+BRTV体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
+BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
+BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
+BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
+
+广东,#genre#
+深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
+深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
+深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
+深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
+深圳财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
+深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
+深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
+宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
+广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
+广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
+广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
+
+贵州,#genre#
+贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
+贵州公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch02
+贵州影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch03
+贵州大众生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch04
+贵州生态乡村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch05
+贵州科教健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch06
+贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
+
+新疆,#genre#
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
+新疆维语新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjwyzh
+新疆哈语新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjhyzh
+新疆综艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjzy
+新疆维语影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjwyys
+新疆体育健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjtyjk
+新疆少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjse
+
+浙江,#genre#
+浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
+浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
+浙江经济生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
+浙江教科影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
+浙江民生休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=06
+浙江新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
+浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
+浙江国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
+浙江好易购,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=11
+浙江之江纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
+
+海南,#genre#
+海南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=hnws
+三沙卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ssws
+海南新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=xwpd
+海南文旅,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=wlpd
+海南自贸,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=jjpd
+海南社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ggpd
+海南少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=sepd
+
+央视新闻app,#genre#
+CCTV-1 综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+CCTV-2 财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv2
+CCTV-4 中文国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4
+CCTV-7 国防军事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv7
+CCTV-9 纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv9
+CCTV-10 科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv10
+CCTV-12 社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv12
+CCTV-13 新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv13
+CCTV-17 农业农村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
+CCTV4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4k
+
+央视频,#genre#
+CCTV-1 综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
+CCTV-2 财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024075401&livepid=600001800&defn=fhd
+CCTV-3 综艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024068501&livepid=600001801&defn=fhd
+CCTV-4 中文国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078301&livepid=600001814&defn=fhd
+CCTV-5 体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078401&livepid=600001818&defn=fhd
+CCTV-5+ 体育赛事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078001&livepid=600001817&defn=fhd
+CCTV-6 电影,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2013693901&livepid=600108442&defn=fhd
+CCTV-7 国防军事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024072001&livepid=600004092&defn=fhd
+CCTV-8 电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078501&livepid=600001803&defn=fhd
+CCTV-9 纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078601&livepid=600004078&defn=fhd
+CCTV-10 科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078701&livepid=600001805&defn=fhd
+CCTV-11 戏曲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248701&livepid=600001806&defn=fhd
+CCTV-12 社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248801&livepid=600001807&defn=fhd
+CCTV-13 新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024079001&livepid=600001811&defn=fhd
+CCTV-14 少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248901&livepid=600001809&defn=fhd
+CCTV-15 音乐,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249001&livepid=600001815&defn=fhd
+CCTV-16 奥林匹克,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249101&livepid=600098637&defn=fhd
+CCTV-16 奥林匹克,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249301&livepid=600099502&defn=hdr
+CCTV-17 农业农村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249401&livepid=600001810&defn=fhd
+CCTV-4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249501&livepid=600002264&defn=hdr
+CCTV-8K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026774101&livepid=600156816&defn=hdr
+CGTN,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181701&livepid=600014550&defn=fhd
+CGTN法语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181801&livepid=600084704&defn=fhd
+CGTN俄语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181901&livepid=600084758&defn=fhd
+CGTN阿语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182001&livepid=600084782&defn=fhd
+CGTN西语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182101&livepid=600084744&defn=fhd
+CGTN纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182301&livepid=600084781&defn=fhd
+CCTV第一剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874203&livepid=600099655&defn=fhd
+CCTV风云剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025637103&livepid=600099658&defn=fhd
+CCTV怀旧剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874303&livepid=600099620&defn=fhd
+CCTV世界地理,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874403&livepid=600099637&defn=fhd
+CCTV风云音乐,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874503&livepid=600099660&defn=fhd
+CCTV兵器科技,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874603&livepid=600099649&defn=fhd
+CCTV风云足球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026966203&livepid=600099636&defn=fhd
+CCTV高尔夫·网球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874703&livepid=600099659&defn=fhd
+CCTV女性时尚,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874803&livepid=600099650&defn=fhd
+CCTV央视文化精品,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874903&livepid=600099653&defn=fhd
+CCTV央视台球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026875003&livepid=600099652&defn=fhd
+CCTV电视指南,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026875103&livepid=600099656&defn=fhd
+CCTV卫生健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025637003&livepid=600099651&defn=fhd
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
+东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054503&livepid=600002483&defn=fhd
+江苏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171103&livepid=600002521&defn=fhd
+浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
+湖南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054803&livepid=600002475&defn=fhd
+湖北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171203&livepid=600002508&defn=fhd
+广东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060903&livepid=600002485&defn=fhd
+广西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060703&livepid=600002509&defn=fhd
+黑龙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061003&livepid=600002498&defn=fhd
+海南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024055603&livepid=600002506&defn=fhd
+重庆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
+CETV1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2022823801&livepid=600171827&defn=fhd
+深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061303&livepid=600002481&defn=fhd
+四川卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061403&livepid=600002516&defn=fhd
+河南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
+东南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061503&livepid=600002484&defn=fhd
+贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
+江西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061703&livepid=600002503&defn=fhd
+辽宁卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171303&livepid=600002505&defn=fhd
+安徽卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171403&livepid=600002532&defn=fhd
+河北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
+山东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171603&livepid=600002513&defn=fhd
+天津卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927003&livepid=600152137&defn=fhd
+陕西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
+内蒙古卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
+甘肃卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561703&livepid=600190408&defn=fhd
+宁夏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025608503&livepid=600190737&defn=fhd
+山西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025560803&livepid=600190407&defn=fhd
+云南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561303&livepid=600190402&defn=fhd
+吉林卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
+青海卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025559103&livepid=600190406&defn=fhd
+西藏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927403&livepid=600152138&defn=fhd
+兵团卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025990501&livepid=600193252&defn=fhd
+国学频道,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2029360403&livepid=600213139&defn=fhd
 
 
