@@ -5019,7 +5019,7 @@ Webview检测,webview://https://passer-by.com/browser
 IPV6检测,webview://https://ipv6ready.me/index.html.zh_CN
 
 
-成都,#genre#
+四川,#genre#
 成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
 成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
 成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
@@ -5115,7 +5115,7 @@ CCTV-13 新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cc
 CCTV-17 农业农村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
 CCTV4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4k
 
-央视频,#genre#
+央视,#genre#
 CCTV-1 综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
 CCTV-2 财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024075401&livepid=600001800&defn=fhd
 CCTV-3 综艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024068501&livepid=600001801&defn=fhd
