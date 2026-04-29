@@ -613,7 +613,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
-广东现代教育,webview://https://www.gdtv.cn/tvChannelDetail/111
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
 GRTN健康,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化,webview://https://www.gdtv.cn/tvChannelDetail/75
@@ -789,11 +788,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 南宁新闻综合,webview://https://www.nntv.cn/live/nntv_xw/
 南宁文旅生活,webview://https://www.nntv.cn/live/nntv_ds/
 南宁影视娱乐,webview://https://www.nntv.cn/live/nntv_ys/
-南宁公共,webview://https://www.nntv.cn/live/nntv_gg/
 南宁新闻综合,webview://http://nny.nnnews.net/p/3188054.html?share=1
 南宁文旅生活,webview://http://nny.nnnews.net/p/3188053.html?share=1
 南宁影视娱乐,webview://http://nny.nnnews.net/p/3188052.html?share=1
-南宁公共,webview://http://nny.nnnews.net/p/3188051.html?share=1
 南宁新闻综合,webview://http://silkroadonthecloud.cn/f/list-A1022
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -801,8 +798,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 柳州新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1902&uin=3370
 柳州科教,webview://https://web.guangdianyun.tv/tv/?id=1808&uin=3370
 柳州新闻综合,webview://https://live.lzgd.com.cn/tv/1902?uin=3370
@@ -3721,11 +3716,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 安多卫视,webview://http://www.qhtb.cn/onlin/onlin_tv/
 安多卫视,webview://http://www.qhtb.cn/onlin/
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
-西宁生活服务,webview://https://www.xntv.tv/xnshpd
 西宁新闻综合,webview://https://xiningbcnew.zainanjing365.com//share/live/detailTv?resourceId=5
-西宁生活服务,webview://https://xiningbcnew.zainanjing365.com//share/live/detailTv?resourceId=6
 海东综合,webview://https://www.hdhhy.cn/list-hdtv.html
 海南州电视台,webview://https://app.hnzgbdst.com/app/template/displayTemplate/news/liveDetail/59/150.html
 海南州电视台,https://play-video.hnzgbdst.com/live/123_1.m3u8
@@ -4250,6 +4242,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 邻水综合,http://lspull.lsrmtzx.cn/live/c92cb6c001971000d922f2dd00000000/playlist.m3u8?wsSecret=8bca56a07d291fb734625e030a47ff25&wsTime=2019657600
 邻水综合,webview://http://kstatic.sctvcloud.com:80/static/l1623/list/1514514767822921729.json
 前锋综合,http://qfpull.qfrmt.cn/live/48364bd5019310005e7f2b2600000000/playlist.m3u8?wsSecret=38f5b177eaf9db3cd2b5b5e01e791a90&wsTime=2019657600
+岳池综合,http://liveyc.cmc.yuechirmt.cn/live/yctv1.m3u8?txSecret=77c276566fbccbdee3c375d55a31ff9f&txTime=6AE6107F
+岳池综合,http://liveyc.cmc.yuechirmt.cn/live/yctv1.flv?txSecret=77c276566fbccbdee3c375d55a31ff9f&txTime=6AE6107F
+岳池综合,rtmp://liveyc.cmc.yuechirmt.cn/live/yctv1?txSecret=77c276566fbccbdee3c375d55a31ff9f&txTime=6AE6107F 
 
 巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 巴中综合,https://bzrmtlive.bzitv.cn/live/251128TV001001/hls.m3u8
