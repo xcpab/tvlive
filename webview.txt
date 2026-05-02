@@ -4311,9 +4311,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 
-内蒙古卫视,http://play1-qk.nmtv.cn/live/3208526general.m3u8
-内蒙古卫视,http://play1-qk.nmtv.cn/live/3208526general.flv
-内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/3208526general
+内蒙古卫视,http://play1-qk.nmtv.cn/live/3621481general.m3u8
+内蒙古卫视,http://play1-qk.nmtv.cn/live/3621481general.flv
+内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/3621481general
 内蒙古卫视,http://play1-qk.nmtv.cn/live/2323general.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/2323general.flv
 内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/2323general
@@ -4321,10 +4321,20 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古卫视,http://play1-qk.nmtv.cn/live/2359general.flv
 内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/2359general
 
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.m3u8
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.flv
+内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/2315general
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.m3u8
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.flv
+内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/2324general
+内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560387346365
+内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560387346365
+内蒙古蒙古语卫视,webview://http://mongol.cctv.com/index.html
+内蒙古蒙古语卫视,webview://https://mn.cctv.com/live/index.shtml
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.flv
+内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/1686560387346365
 
-内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.flv
-内蒙古新闻综合,rtmp://play1-qk.nmtv.cn/live/1686560423879174
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.flv
 内蒙古新闻综合,rtmp://play1-qk.nmtv.cn/live/2316general
@@ -4336,32 +4346,20 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古新闻综合,rtmp://play1-qk.nmtv.cn/live/2360general
 内蒙古新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560423879174
 内蒙古新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560423879174
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.flv
+内蒙古新闻综合,rtmp://play1-qk.nmtv.cn/live/1686560423879174
 
-内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.flv
-内蒙古经济生活,rtmp://play1-qk.nmtv.cn/live/1686562470947181
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.flv
 内蒙古经济生活,rtmp://play1-qk.nmtv.cn/live/2317general
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2326general.flv
 内蒙古经济生活,rtmp://play1-qk.nmtv.cn/live/2326general
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.flv
+内蒙古经济生活,rtmp://play1-qk.nmtv.cn/live/1686562470947181
 
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.flv
-内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/1686561195713372
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2319general.flv
-内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/2319general
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.m3u8
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.flv
-内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/2328general
-内蒙古文体娱乐,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686561195713372
-内蒙古文体娱乐,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686561195713372
-
-内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.flv
-内蒙古少儿,rtmp://play1-qk.nmtv.cn/live/1686560464515368
 内蒙古少儿,http://play1-qk.nmtv.cn/live/2318general.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/2318general.flv
 内蒙古少儿,rtmp://play1-qk.nmtv.cn/live/2318general
@@ -4370,10 +4368,23 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古少儿,rtmp://play1-qk.nmtv.cn/live/2327general
 内蒙古少儿,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560464515368
 内蒙古少儿,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560464515368
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.flv
+内蒙古少儿,rtmp://play1-qk.nmtv.cn/live/1686560464515368
 
-内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
-内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.flv
-内蒙古农牧,rtmp://play1-qk.nmtv.cn/live/1686561299036179
+
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2319general.flv
+内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/2319general
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.flv
+内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/2328general
+内蒙古文体娱乐,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686561195713372
+内蒙古文体娱乐,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686561195713372
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.flv
+内蒙古文体娱乐,rtmp://play1-qk.nmtv.cn/live/1686561195713372
+
 内蒙古农牧,http://play1-qk.nmtv.cn/live/2320general.m3u8
 内蒙古农牧,http://play1-qk.nmtv.cn/live/2320general.flv
 内蒙古农牧,rtmp://play1-qk.nmtv.cn/live/2320general
@@ -4382,24 +4393,11 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古农牧,rtmp://play1-qk.nmtv.cn/live/2329general
 内蒙古农牧,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686561299036179
 内蒙古农牧,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686561299036179
+内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.flv
+内蒙古农牧,rtmp://play1-qk.nmtv.cn/live/1686561299036179
 
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.flv
-内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/1686560387346365
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.m3u8
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.flv
-内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/2315general
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.m3u8
-内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2324general.flv
-内蒙古蒙古语卫视,rtmp://play1-qk.nmtv.cn/live/2324general
-内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686560387346365
-内蒙古蒙古语卫视,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686560387346365
-内蒙古蒙古语卫视,webview://http://mongol.cctv.com/index.html
-内蒙古蒙古语卫视,webview://https://mn.cctv.com/live/index.shtml
 
-内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
-内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.flv
-内蒙古蒙古语文化,rtmp://play1-qk.nmtv.cn/live/1686561065304370
 内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/2321general.m3u8
 内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/2321general.flv
 内蒙古蒙古语文化,rtmp://play1-qk.nmtv.cn/live/2321general
@@ -4408,10 +4406,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古蒙古语文化,rtmp://play1-qk.nmtv.cn/live/2330general
 内蒙古蒙古语文化,webview://https://cloud-qk.nmtv.cn/cloud/h5/1686561065304370
 内蒙古蒙古语文化,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1686561065304370
+内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古蒙古语文化,http://play1-qk.nmtv.cn/live/1686561065304370.flv
+内蒙古蒙古语文化,rtmp://play1-qk.nmtv.cn/live/1686561065304370
 
-呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
-呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.flv
-呼和浩特新闻综合,rtmp://play1-qk.nmtv.cn/live/1735545967595013
 呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/2345general.m3u8
 呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/2345general.flv
 呼和浩特新闻综合,rtmp://play1-qk.nmtv.cn/live/2345general
@@ -4422,10 +4420,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 呼和浩特新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735545967595013
 呼和浩特新闻综合,https://ltech.0471tv.org.cn:8088/xwzh/xinwenzonghe.m3u8
 呼和浩特影视娱乐,https://ltech.0471tv.org.cn:8088/ysyl/yingshiyule.m3u8
+呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.flv
+呼和浩特新闻综合,rtmp://play1-qk.nmtv.cn/live/1735545967595013
 
-包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
-包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.flv
-包头新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546150395017
 包头新闻综合,http://play1-qk.nmtv.cn/live/2344general.m3u8
 包头新闻综合,http://play1-qk.nmtv.cn/live/2344general.flv
 包头新闻综合,rtmp://play1-qk.nmtv.cn/live/2344general
@@ -4434,10 +4432,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 包头新闻综合,rtmp://play1-qk.nmtv.cn/live/2358general
 包头新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546150395017
 包头新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546150395017
+包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.flv
+包头新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546150395017
 
-赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.flv
-赤峰新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546697341033
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/2337general.m3u8
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/2337general.flv
 赤峰新闻综合,rtmp://play1-qk.nmtv.cn/live/2337general
@@ -4446,10 +4444,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 赤峰新闻综合,rtmp://play1-qk.nmtv.cn/live/2351general
 赤峰新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546697341033
 赤峰新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546697341033
+赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.flv
+赤峰新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546697341033
 
-鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
-鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.flv
-鄂尔多斯新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546299241021
 鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/2335general.m3u8
 鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/2335general.flv
 鄂尔多斯新闻综合,rtmp://play1-qk.nmtv.cn/live/2335general
@@ -4458,10 +4456,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 鄂尔多斯新闻综合,rtmp://play1-qk.nmtv.cn/live/2349general
 鄂尔多斯新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546299241021
 鄂尔多斯新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546299241021
+鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.flv
+鄂尔多斯新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546299241021
 
-乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
-乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.flv
-乌兰察布新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546836103043
 乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/2340general.m3u8
 乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/2340general.flv
 乌兰察布新闻综合,rtmp://play1-qk.nmtv.cn/live/2340general
@@ -4470,10 +4468,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 乌兰察布新闻综合,rtmp://play1-qk.nmtv.cn/live/2354general
 乌兰察布新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546836103043
 乌兰察布新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546836103043
- 
-呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
-呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.flv
-呼伦贝尔新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546791130040
+ 乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.flv
+乌兰察布新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546836103043
+
 呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/2342general.m3u8
 呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/2342general.flv
 呼伦贝尔新闻综合,rtmp://play1-qk.nmtv.cn/live/2342general
@@ -4482,6 +4480,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 呼伦贝尔新闻综合,rtmp://play1-qk.nmtv.cn/live/2356general
 呼伦贝尔新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546791130040
 呼伦贝尔新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546791130040
+呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.flv
+呼伦贝尔新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546791130040
 
 满洲里电视台,http://play1-qk.nmtv.cn/live/2336general.m3u8
 满洲里电视台,http://play1-qk.nmtv.cn/live/2336general.flv
@@ -4490,9 +4491,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 满洲里电视台,http://play1-qk.nmtv.cn/live/2350general.flv
 满洲里电视台,rtmp://play1-qk.nmtv.cn/live/2350general
 
-巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
-巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.flv
-巴彦淖尔新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546423467029
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/2334general.m3u8
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/2334general.flv
 巴彦淖尔新闻综合,rtmp://play1-qk.nmtv.cn/live/2334general
@@ -4501,10 +4499,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 巴彦淖尔新闻综合,rtmp://play1-qk.nmtv.cn/live/2348general
 巴彦淖尔新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546423467029
 巴彦淖尔新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546423467029
+巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.flv
+巴彦淖尔新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546423467029
 
-阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
-阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.flv
-阿拉善新闻综合,rtmp://play1-qk.nmtv.cn/live/1735547046115053
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/2333general.m3u8
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/2333general.flv
 阿拉善新闻综合,rtmp://play1-qk.nmtv.cn/live/2333general
@@ -4513,10 +4511,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 阿拉善新闻综合,rtmp://play1-qk.nmtv.cn/live/2347general
 阿拉善新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735547046115053
 阿拉善新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735547046115053
+阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.flv
+阿拉善新闻综合,rtmp://play1-qk.nmtv.cn/live/1735547046115053
 
-通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
-通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.flv
-通辽新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546745882037
 通辽新闻综合,http://play1-qk.nmtv.cn/live/2339general.m3u8
 通辽新闻综合,http://play1-qk.nmtv.cn/live/2339general.flv
 通辽新闻综合,rtmp://play1-qk.nmtv.cn/live/2339general
@@ -4525,10 +4523,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 通辽新闻综合,rtmp://play1-qk.nmtv.cn/live/2353general
 通辽新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546745882037
 通辽新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546745882037
+通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.flv
+通辽新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546745882037
 
-乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
-乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.flv
-乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 乌海新闻综合,http://play1-qk.nmtv.cn/live/2341general.m3u8
 乌海新闻综合,http://play1-qk.nmtv.cn/live/2341general.flv
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/2341general
@@ -4537,10 +4535,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/2355general
 乌海新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546358166026
 乌海新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546358166026
+乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.flv
+乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 
-兴安盟新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
-兴安盟新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.flv
-兴安盟新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546886977046
 兴安盟新闻综合,http://play1-qk.nmtv.cn/live/2343general.m3u8
 兴安盟新闻综合,http://play1-qk.nmtv.cn/live/2343general.flv
 兴安盟新闻综合,rtmp://play1-qk.nmtv.cn/live/2343general
@@ -4549,10 +4547,10 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 兴安盟新闻综合,rtmp://play1-qk.nmtv.cn/live/2357general
 兴安盟新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546886977046
 兴安盟新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546886977046
+兴安盟新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+兴安盟新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.flv
+兴安盟新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546886977046
 
-锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
-锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/1735546994821050.flv
-锡林郭勒新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546994821050
 锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/2332general.m3u8
 锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/2332general.flv
 锡林郭勒新闻综合,rtmp://play1-qk.nmtv.cn/live/2332general
@@ -4561,6 +4559,9 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 锡林郭勒新闻综合,rtmp://play1-qk.nmtv.cn/live/2346general
 锡林郭勒新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/h5/1735546994821050
 锡林郭勒新闻综合,webview://https://cloud-qk.nmtv.cn/cloud/a/embed/1735546994821050
+锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/1735546994821050.flv
+锡林郭勒新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546994821050
 
 二连浩特综合,http://play1-qk.nmtv.cn/live/2338general.m3u8
 二连浩特综合,http://play1-qk.nmtv.cn/live/2338general.flv
@@ -4571,8 +4572,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 
 呼伦贝尔新闻综合,http://live.hrtonline.cn/flv/live/live001.flv
 呼伦贝尔新闻综合,webview://https://app.hlbrsh.com/App/share/content.aspx?id=6853572&shareAppId=110309
-呼伦贝尔文化旅游,http://live.hrtonline.cn/flv/live/live002.flv
-呼伦贝尔文化旅游,webview://https://app.hlbrsh.com/App/share/content.aspx?id=6866099&shareAppId=110309
 
 包头新闻综合,webview://https://iapp.baotounews.com.cn/share/dHZsLTY4OS0xMQ.html
 鄂尔多斯新闻综合,webview://https://www.nxw.org.cn/financial/index.shtml
@@ -4591,7 +4590,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 赤峰新闻综合,http://live.cfrmw.cn/dianshi0001/sd/live.m3u8?
 赤峰新闻综合,webview://http://h5.cfrmw.cn/front-cloudlive-manage-h5/index.html?id=722726032393658368#/
 赤峰经济服务,webview://http://h5.cfrmw.cn/front-cloudlive-manage-h5/index.html?id=722728110696456192#/
-赤峰影视娱乐,webview:/http://h5.cfrmw.cn/front-cloudlive-manage-h5/index.html?id=722728404075438080&company_id=1073#/
 赤峰经济服务,http://live.cfrmw.cn/dianshi0002/sd/live.m3u8?_upt=96ac29ae1755661784
 通辽城市服务,https://video.tongliaowang.com:2443/live/cid8.m3u8
 通辽蒙语,https://video.tongliaowang.com:2443/live/cid7.m3u8
