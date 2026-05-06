@@ -3339,6 +3339,37 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
 
 辽宁,#genre#
+辽宁卫视,https://chaitiaozb-new.lnyun.com.cn/bdrm/lntv.m3u8
+辽宁卫视,http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
+辽宁都市,https://chaitiaozb-new.lnyun.com.cn/bdrm/dspd.m3u8
+辽宁体育休闲,https://chaitiaozb-new.lnyun.com.cn/bdrm/typd.m3u8
+辽宁北方,https://chaitiaozb-new.lnyun.com.cn/bdrm/bfpd.m3u8
+辽宁生活,https://chaitiaozb-new.lnyun.com.cn/bdrm/shpd.m3u8
+辽宁教育青少,https://chaitiaozb-new.lnyun.com.cn/bdrm/qspd.m3u8
+辽宁卫视,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/lntv?auth_key=1864483200-0-0-ef120e35be2f59a3e8eaf932253594a4
+辽宁都市,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/dspd?auth_key=1864483200-0-0-3e2a6024c1082b062bebf1a4e3ab24f4
+辽宁影视剧,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/yspd?auth_key=1864483200-0-0-809dbb5d56ee9402beceb151c7325544
+辽宁教育青少,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/qspd?auth_key=1864483200-0-0-3659177ba9d5fc47f115eed50c06f6dc
+辽宁生活,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/shpd?auth_key=1864483200-0-0-fa710d221a5ea3cc2c9bb7435713cd0e
+辽宁体育休闲,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/typd?auth_key=1864483200-0-0-83906cc4121da0dcd44919059c229e3e
+辽宁北方,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/bfpd?auth_key=1864483200-0-0-b4cf7fcbc8100f9c592a1d07b10f4eca
+辽宁宜佳购物,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/yjgw?auth_key=1864483200-0-0-446e60d2e09f748f8db5c4d6f6ee3df2
+新动漫,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/xdm?auth_key=1864483200-0-0-ed73f8163126e753a8985eea45fa70cd
+家庭理财,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/jtlc?auth_key=1864483200-0-0-38e7846270fc57e02df665c28d026f8c
+辽宁移动电视,rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/ydds?auth_key=1864483200-0-0-805e03f0839d8d93849c9b76e674fb5d
+法库综合,rtmp://fktvzb.lnyun.com.cn/fkrm1/tvzb1?auth_key=1864483200-0-0-313f34f4f12c3a17c65eb92c11a01843
+新民综合,rtmp://xmtvzb.lnyun.com.cn/xmrm3/tvzb3?auth_key=1864483200-0-0-fd347113a191c21a13feb704711213f4
+瓦房店新闻综合,rtmp://wfdtvzb.lnyun.com.cn/wfdrm1/tvzb1?auth_key=1864483200-0-0-3025863e2ecbe338d2169ca4577f1745
+庄河综合,rtmp://zhtvzb.lnyun.com.cn/zhrm2/tvzb2?auth_key=1864483200-0-0-822416c7abee6df8a8210bca001fe29c
+营口新闻综合,rtmp://ykstvzb.lnyun.com.cn/yksrm2/tvzb2?auth_key=1864483200-0-0-9831b33b50b2c55919308227cb00e806
+辽河文化生活,rtmp://ykstvzb.lnyun.com.cn/yksrm1/tvzb1?auth_key=1864483200-0-0-eb7b22fd0df13d253d7aa0e87378bbf4
+兴城综合,rtmp://xctvzb.lnyun.com.cn/xcrm1/tvzb1?auth_key=1864483200-0-0-5617f6d80b7d5950cac818d8e3fc5e3d
+阜蒙汉语综合,rtmp://fmtvzb.lnyun.com.cn/fmrm2/tvzb2?auth_key=1864483200-0-0-d55621552c8f25f5a9dd6290df93ad9d
+昌图综合,rtmp://cttvzb.lnyun.com.cn/ctrm1/tvzb1?auth_key=1864483200-0-0-4a62b2682bb1428aea844cf43259ed7b
+西丰综合,rtmp://xftvzb.lnyun.com.cn/xfrm1/tvzb1?auth_key=1864483200-0-0-8c012e7ee447410022f7504fc3269132
+调兵山综合,rtmp://dbstvzb.lnyun.com.cn/dbsrm2/tvzb2?auth_key=1864483200-0-0-09a4e8c68d566596f959644e3023729d
+宽甸综合,rtmp://kdtvzb.lnyun.com.cn/kdrm1/tvzb1?auth_key=1864483200-0-0-104f509a45b2c796de3736323aaca0f7
+
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
@@ -4995,7 +5026,8 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
-音乐欣赏1,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+
 Webview检测,webview://https://passer-by.com/browser
 IPV6检测,webview://https://ipv6ready.me/index.html.zh_CN
 
