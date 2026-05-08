@@ -3547,12 +3547,12 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 陇南公共,webview://https://cloud.kankanlive.com/cloud/h5/1709171893138901
 陇南公共,webview://https://cloud.kankanlive.com/cloud/a/embed/1709171893138901
 陇南公共,webview://https://nginx-lns.xgsyun.com/lns/site1/resource/app/template/router/index.html?data=eyJyb290VXJsIjoiaHR0cHM6Ly93YW4tbG5zLnhnc3l1bi5jb20vYXBwLyIsInR5cGUiOjAsImNoYW5uZWwiOjEsImlzU2hhcmUiOjEsImFwcElkIjoxLCJzaXRlSUQiOjEsInNpdGVJZCI6MSwic3lzdGVtVHlwZSI6MCwiYXBwVmVyc2lvbiI6IjMuMi4xIiwid3hBcHBJZCI6Ind4MWE5Y2Q3OGNlODZmMDEyZSJ9
-临夏综合,http://play.kankanlive.com/live/1714096320293954.m3u8
+临夏综合,https://play.kankanlive.com/live/1777428192231346.m3u8
 临夏综合,webview://https://cloud.kankanlive.com/cloud/h5/1714096320293954
 临夏综合,webview://https://cloud.kankanlive.com/cloud/a/embed/1714096320293954
 临夏综合,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=374#374
 临夏综合,webview://http://chinalxnet.com/index/Zhibo/index.html
-临夏文旅,https://play.kankanlive.com/live/1714099799400957.m3u8
+临夏文旅,https://play.kankanlive.com/live/1777428156533347.m3u8
 临夏文旅,webview://https://cloud.kankanlive.com/cloud/h5/1714099799400957
 临夏文旅,webview://https://cloud.kankanlive.com/cloud/a/embed/1714099799400957
 临夏文旅,webview://http://chinalxnet.com/index/Zhibo/indexClass.html?id=375#375
@@ -4346,12 +4346,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 内蒙古卫视,http://play1-qk.nmtv.cn/live/3621481general.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/3621481general.flv
 内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/3621481general
-内蒙古卫视,http://play1-qk.nmtv.cn/live/2323general.m3u8
-内蒙古卫视,http://play1-qk.nmtv.cn/live/2323general.flv
-内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/2323general
-内蒙古卫视,http://play1-qk.nmtv.cn/live/2359general.m3u8
-内蒙古卫视,http://play1-qk.nmtv.cn/live/2359general.flv
-内蒙古卫视,rtmp://play1-qk.nmtv.cn/live/2359general
 
 内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.m3u8
 内蒙古蒙古语卫视,http://play1-qk.nmtv.cn/live/2315general.flv
