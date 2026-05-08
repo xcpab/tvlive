@@ -5031,10 +5031,9 @@ BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/
 深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
 深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
 深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
-深圳财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szcjsh
 深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
 深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
-宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
+深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
 广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
 广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
 广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
