@@ -2335,6 +2335,7 @@ $石家庄
 #镇江
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江教育民生.http://zjtv-wshls.homecdn.com/live/2aa16.m3u8?wsSession=7525bc2371fef9193fbdbeb8-171280267129975&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
 镇江教育民生,https://cm-wshls.homecdn.com/live/2aa16.m3u8
 镇江教育民生,https://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 丹阳新闻,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.flv
@@ -2845,7 +2846,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 安徽农业科教,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
 安徽国际,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
 安徽移动电视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
-
+安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 淮北新闻综合,webview://https://www.hbnews.net/tv/
 淮北新闻综合,https://vms-x.hbnews.net/video/xwzh/index.m3u8
 淮北经济生活,https://vms-x.hbnews.net/video/JJSH/index.m3u8
@@ -2917,6 +2918,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 宿松戏曲文艺,webview://https://web.guangdianyun.tv/tv/3389?uin=4180
 宿松新闻综合,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
 宿松戏曲文艺,https://52181-live.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3389.m3u8?auth_key=1770878540-0-0-d6dc9eb3564a1058d95bc6bd97cf4e83&extra_key=ieSzCct8UwJf8FNEGJH-rJkxsbmlbGGPC49M5pUvhwf78yT2VV1VkRx3tdIY5yxxh_9KXooSxujhTKuQlR3gDKzmzvgT57l49mcFA4GkGJASxktIwBR4rxeE4V4IU3DZE0gnKAm8sxu1p96uauFO8XFEMXPLukNdM348VqOL6fo
+望江新闻综合,http://gnhls.qingmei.tv/live/wjnew2.m3u8?volcTime=1793176666&volcSecret=06fe02de8b86b40eb54b2a1bc99bc59b
 蒙城新闻,http://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
 蒙城新闻,https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
 蒙城新闻,webview://https://noctguvzb.vzan.com/live/page/1242056970?v=1744437591000
@@ -2975,6 +2977,11 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 黟县综合,webview://https://child.yun.fst1994.net/shareh5/yixian/#/pages/home/liveSon/liveson?type=VIDEO&title=%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD&thumb=%2Fconvey%2Fplay%2F6ae13be0d12ca1f6e076626aa539c5f6%2FsimpleFormat%3FfileName%3D6ae13be0d12ca1f6e076626aa539c5f6.png&link=https%3A%2F%2Fplay-a2.quklive.com%2Flive%2F1715757116493079.m3u8
 太湖新闻综合,http://112.28.222.71:20080/live/cd47e028615f4bd29098cdc78126e524/hls.m3u8
 金寨综合,http://live.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
+怀远综合,http://112.28.222.71:20080/live/f7a176f65dc031537aadcf18b54702e3/hls.m3u8
+怀远文化旅游,http://112.28.222.71:20080/live/80547fa9eb52bf4a8ec8f33179574c24/hls.m3u8
+含山新闻综合,http://pili-live-hls.job-live.magcloud.net/job-live/hszd_tv.m3u8?sign=6e0b47cc5ad98461d91a92ee7f92d3a0&t=6a64578d
+利辛新闻综合,https://live.rong-lixin.com/hls/lixinxw/playlist.m3u8
+
 
 黑龙江,#genre#
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws/
