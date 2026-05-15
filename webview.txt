@@ -269,15 +269,9 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 新余新闻综合,http://175.178.86.156:8001/hls/w_MGyzT4AuoD4I3TRAoQxjGRQwg74r0M/playlist.m3u8
 新余教育,http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
 
-九江新闻综合,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=29
-九江公共,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=27
-九江教育,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=314&id=26
-九江新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1757386374062009
-九江公共,webview://https://www.qukanvideo.com/cloud/h5/1757386400403349
-九江教育,webview://https://www.qukanvideo.com/cloud/h5/1757386418265193
-九江新闻综合,webview://http://app.yun.jxntv.cn/video/videojs/index?site_id=10045&id=22&page=canvas&live_type=1
-九江公共,webview://http://app.yun.jxntv.cn/video/videojs/index?site_id=10045&id=23&page=canvas&live_type=1
-九江教育,webview://http://app.yun.jxntv.cn/video/videojs/index?site_id=10045&id=24&page=canvas&live_type=1
+九江新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1768529286203024
+九江公共,webview://https://www.qukanvideo.com/cloud/h5/1776821035295363
+九江教育,webview://https://www.qukanvideo.com/cloud/h5/1776821070594049
 
 上饶新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1758679893354090
 上饶经济旅游,webview://https://www.qukanvideo.com/cloud/h5/1758679936307088
