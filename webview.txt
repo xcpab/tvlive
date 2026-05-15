@@ -284,8 +284,8 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
+萍乡新闻综合,https://play-sh-21.quklive.com/live/1767680696432348.flv?auth_key=2093843903-21815d83dd5047608abbe5a659b5908d-0-21b97a00a1a3f4e549fc90253d894ae7
 
-萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 
 鹰潭综合,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
@@ -294,20 +294,16 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.flv
 景德镇新闻综合,rtmp://play-sh.quklive.com/live/1724916607073321
+九江新闻综合,http://play-sh13.quklive.com/live/1768529286203024.m3u8?auth_key=2092314975-baf74c4c6721498ebeded59283fb3bf1-0-4eaa6d4663cdd472a1a29870882fec7a
+九江新闻综合,http://play-sh13.quklive.com/live/1768529286203024.flv?auth_key=2092314975-4ccbf91167684c86b02346d70a6ea309-0-9fe729844a83c44840072e7a344a0faf
+九江新闻综合,rtmp://play-sh13.quklive.com/live/1768529286203024?auth_key=2092314975-dbfd3d57eccf4618a8850e5dc8e1e875-0-45aff1de37cfa71a60a7572a1812f515
+九江公共,http://play-sh13.quklive.com/live/1776821035295363.m3u8?auth_key=2092315386-6d18b93e77dc4383b1321cba776e5a23-0-86b0152b09e32dcf9790601cffbcd28e
+九江公共,http://play-sh13.quklive.com/live/1776821035295363.flv?auth_key=2092315386-986caed4d61e4a95bd3bb82b123ea225-0-5735bffa0b005695b97082a53d8b39fb
+九江公共,rtmp://play-sh13.quklive.com/live/1776821035295363?auth_key=2092315386-b9990bed23874dd88ee8e9b42250e7a7-0-0bf5a56feff205fda48508ceb167e67e
+九江教育,http://play-sh13.quklive.com/live/1776821070594049.m3u8?auth_key=2092315575-a37a8162042a4d93a61cf8d0b0d379e5-0-d1ac72170f578e6c8cd863a82bcd1b62
+九江教育,http://play-sh13.quklive.com/live/1776821070594049.flv?auth_key=2092315575-9039d01259b945359e7615338e1bab02-0-d8024208019fe69f62141938909b99fe
+九江教育,rtmp://play-sh13.quklive.com/live/1776821070594049?auth_key=2092315575-606b7adf50234b18b5e3eb8533ef95f3-0-89af8b1fbe8067588f15047a99c00d0b
 
-九江新闻综合,http://play-sh13.quklive.com/live/1757386374062009.m3u8?auth_key=2074409953-1dae95326c7943b28c3dbf66f89354be-0-2837005cdaa6ccd097b866975abe466a
-九江新闻综合,http://play-sh13.quklive.com/live/1757386374062009.flv?auth_key=2074409953-9101ab5d17214b4e8ef117cb77d90b44-0-8675dd03bc09bb6ab40042039f865dd4
-九江新闻综合,rtmp://play-sh13.quklive.com/live/1757386374062009?auth_key=2074409953-50945447e15f41adbafe513a54b74a10-0-d7fde745abeee1a5eaff9c1651fe1c29
-九江新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_jiujiang.m3u8
-九江新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jiujiang
-
-九江公共,http://play-sh13.quklive.com/live/1757386400403349.m3u8?auth_key=2074410330-9138a1677cea4015b7334a66a9f7952e-0-80e8dd4c82311ea7461dd8df8ca922aa
-九江公共,http://play-sh13.quklive.com/live/1757386400403349.flv?auth_key=2074410330-69a0b1b4b24d4acf9188e6428d20413d-0-d940b057027b0499f3bd0f357ab1d9b7
-九江公共,rtmp://play-sh13.quklive.com/live/1757386400403349?auth_key=2074410330-8e83e9f2277b41628554408051500bfc-0-4352c6fc68904bb4fd3f0e7faa727af8
-
-九江教育,http://play-sh13.quklive.com/live/1757386418265193.m3u8?auth_key=2074410488-9eee5f4ee84540729319cc9af9a7bdb6-0-b8af9f64ba30f377a2bb03a0f0e70037
-九江教育,http://play-sh13.quklive.com/live/1757386418265193.flv?auth_key=2074410488-806beffb7a6b43eeb5ba4c262c9450bd-0-92f6991c2622ae67a674df42bda4feb6
-九江教育,rtmp://play-sh13.quklive.com/live/1757386418265193?auth_key=2074410488-5cbe8b7b630c4c2d8629c5eda36cf836-0-51accaff03625c964b98ab67e3e8af88
 
 彭泽综合,https://play-a2.quklive.com/live/1740970999257207.m3u8
 彭泽综合,http://play-a2.quklive.com/live/1740970999257207.flv
@@ -2544,6 +2540,7 @@ $石家庄
 兰溪综合,https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 岱山综合,https://l.cztvcloud.com/channels/lantian/SXdaishan01/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+嵊州新闻综合,https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 衢州新闻综合,https://ali-xwl.cztv.com:443/live/quzhouds.m3u8
 龙游新闻综合,webview://http://www.qukanvideo.com/cloud/h5/1703570877483349
 龙游新闻综合,webview://https://cloud.quklive.com/cloud/a/embed/1703570877483349
@@ -2571,7 +2568,6 @@ $石家庄
 柯桥新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1640945211435051
 柯桥新闻综合,webview://https://cloud.quklive.com/cloud/a/embed/1640945211435051
 嵊州新闻综合,webview://http://wap.szttkk.cn/#/WatchTv
-嵊州新闻综合,http://play-sh11.quklive.com/live/1626935015913208.m3u8
 诸暨综合,webview://http://wap.zjbtv.com/TV
 新昌综合,webview://https://web.guangdianyun.tv/tv/1361?uin=2840
 新昌生活,webview://https://web.guangdianyun.tv/tv/1362?uin=2840
@@ -2669,7 +2665,6 @@ $石家庄
 洞头综合,http://hls.quklive.com/live/play-sh-21.quklive.com/1735612228127376.m3u8?auth_key=2064365882-c711d773a9d54104923d917e511e9b33-0-adc32957143aeb14b02c0e1cf1050796
 洞头综合,webview://http://www.qukanvideo.com/cloud/h5/1735612228127376
 洞头综合,webview://https://cloud.quklive.com/cloud/a/embed/1735612228127376
-瑞安新闻综合,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2039920481-e6234a8197034f1aa2b599714ed35d2a-0-6a8a3bd9c5887ff42c5fbfd0c42e2aee
 长兴新闻,http://play-a11.quklive.com/live/1689126294179076.m3u8
 长兴新闻,http://play-a11.quklive.com/live/1689126294179076.flv
 长兴新闻,webview://https://www.qukanvideo.com/cloud/h5/1689126294179076
@@ -4098,6 +4093,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 大英新闻综合,http://zb.dyrmt.com:10086/hls/P6nlSMxSg/playlist.m3u8
+大英新闻综合,http://zb.dyrmt.com:10086/flv/live/P6nlSMxSg.flv
 大英新闻综合,webview://http://zb.dyrmt.com:10086/share.html?id=P6nlSMxSg&type=live&autoplay=yes&livetype=hls
 大英新闻综合,webview://http://zb.dyrmt.com:10086/share.html?id=P6nlSMxSg&type=live&autoplay=yes&livetype=flv
 大英新闻综合,webview://http://zb.dyrmt.com:10086/share.html?id=P6nlSMxSg&type=live&autoplay=yes&livetype=rtml
