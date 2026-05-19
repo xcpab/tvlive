@@ -1002,6 +1002,9 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 津市电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=187
 长沙县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=203
 安化综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=204
+怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8
+怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=2052528437-0-0-751357f267dc37033da592dca1009229
+怀化经济生活,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=2052528449-0-0-06418993adb02cddc222d503db944489
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
