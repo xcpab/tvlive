@@ -279,7 +279,7 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
 萍乡新闻综合,https://play-sh-21.quklive.com/live/1767680696432348.flv?auth_key=2093843903-21815d83dd5047608abbe5a659b5908d-0-21b97a00a1a3f4e549fc90253d894ae7
-
+萍乡新闻综合,https://hls.quklive.com/live/play-sh-21.quklive.com/1767680696432348.m3u8?auth_key=1779160325-d83fc963adb84071b1015bb2866a078e-0-0304b97d17ebe4be39009309f49fab2f
 
 鹰潭综合,webview://https://web.guangdianyun.tv/tv/?id=2574&uin=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
@@ -1430,14 +1430,14 @@ $石家庄
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作综合,webview://http://www.jzrt.com/list-zhpd.html
 焦作综合,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
-焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-焦作公共,webview://http://www.jzrt.com/list-ggpd.html
-焦作公共,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
+焦作文旅,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+焦作文旅,webview://http://www.jzrt.com/list-ggpd.html
+焦作文旅,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
 许昌综合,http://live.s23.net:2017/live/xctv1hd.stream_1080p/playlist.m3u8
 许昌农业科教,http://live.s23.net:2017/live/xctv2.stream/playlist.m3u8
 
 许昌综合,webview://http://xctv.cn/2359
-许昌农业科技,webview://http://xctv.cn/3918
+许昌农业科教,webview://http://xctv.cn/3918
 晴彩许昌,webview://http://xctv.cn/3920
 开封新闻综合,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=53507dea8e7f4c3c8a37e0bdf7bd055c
 开封文化旅游,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=ceffc903779f4f14ad119c4520d87c1d
