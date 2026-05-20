@@ -584,7 +584,7 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 
 广东,#genre#
 #荔枝网
-广东卫视4K,webview://https://www.gdtv.cn/tvChannelDetail/110
+广东卫视4K,webview://https://www.gdtv.cn/tvChannelDetail/94
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -600,10 +600,9 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化,webview://https://www.gdtv.cn/tvChannelDetail/75
+大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
+广东卫视4K,webview://https://m.gdtv.cn/tvChannelDetail/94
 广东卫视,webview://https://m.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://m.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://m.gdtv.cn/tvChannelDetail/45
@@ -619,9 +618,7 @@ GRTN生活,webview://https://www.gdtv.cn/tvChannelDetail/102
 岭南戏曲,webview://https://m.gdtv.cn/tvChannelDetail/15
 广东移动,webview://https://m.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://m.gdtv.cn/tvChannelDetail/100
-纪录片,webview://https://m.gdtv.cn/tvChannelDetail/94
-GRTN健康,webview://https://m.gdtv.cn/tvChannelDetail/99
-GRTN文化,webview://https://m.gdtv.cn/tvChannelDetail/75
+大湾区卫视,webview://https://m.gdtv.cn/tvChannelDetail/99
 GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 广东经济科教,https://jsv-live-play.sfccn.com/live/jsv_3920_2k.m3u8
 广东经济科教,webview://https://jsv-live.sfccn.com/index?id=3920
