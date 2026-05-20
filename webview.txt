@@ -1240,18 +1240,13 @@ $石家庄
 邯郸新闻综合,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邢台综合,webview://https://www.xttv.com.cn/index/channel/index/id/62.html
-邢台城市生活,webview://https://www.xttv.com.cn/index/channel/index/id/64.html
+邢台综合,webview://http://xtrb.cn/channel/toutiaodianshi/index.html
 邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邢台综合,webview://https://xinxingtai.hebyun.com.cn/html/rft/live.html?channelId=f0fb12db90f64d618240ce8e043aeed4&type=1&siteId=f6d9609c96ed4e57aa3cffde7a26eef1&shareAppId=f6d9609c96ed4e57aa3cffde7a26eef1
 邢台城市生活,webview://https://xinxingtai.hebyun.com.cn/html/rft/live.html?channelId=4ef17ec6aacb4b7aaf42b64cb04dffa5&type=1&siteId=f6d9609c96ed4e57aa3cffde7a26eef1&shareAppId=f6d9609c96ed4e57aa3cffde7a26eef1
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 临西综合,http://jwcdnqx.hebyun.com.cn/live/lx1/1500k/tzwj_video.m3u8
-临西生活,http://jwcdnqx.hebyun.com.cn/live/lx2/1500k/tzwj_video.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
-邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 保定新闻综合,webview://https://web.guangdianyun.tv/tv/?id=3067&uin=1630
 保定公共,webview://https://web.guangdianyun.tv/tv/?id=3068&uin=1630
 保定生活健康,webview://https://web.guangdianyun.tv/tv/?id=3069&uin=1630
@@ -1261,9 +1256,6 @@ $石家庄
 徐水综合,https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
 徐水综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=95314a830f2e454cb337066baaaa0fde&type=1&siteId=e9366e5730374eb8a9c76933478bcc22&shareAppId=e9366e5730374eb8a9c76933478bcc22
 望都新闻综合,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-定州新闻综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
-定州生活,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
-定州国学影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 涞源综合,http://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
 涞源综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=749f2b50eb9c49c0b73799a6d7907c38&type=1&siteId=db676fdf382f4f889e6354ea9d7a8796&shareAppId=db676fdf382f4f889e6354ea9d7a8796
 南宫综合,https://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
@@ -1277,7 +1269,6 @@ $石家庄
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
 承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
-承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
 承德旅游文化,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 承德新闻综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=ae49fa110fac4f82a15c716e269cc090&type=1&siteId=fcedf41f7f8842b79b1ca5aa2d4185f6&shareAppId=fcedf41f7f8842b79b1ca5aa2d4185f6
 承德旅游文化,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=4378b79b9274493ea2191bd5085f1a1f&type=1&siteId=fcedf41f7f8842b79b1ca5aa2d4185f6&shareAppId=fcedf41f7f8842b79b1ca5aa2d4185f6
