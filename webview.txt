@@ -258,6 +258,7 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 吉安公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 吉安综合,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19814.shtml
 吉安公共,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19815.shtml
+万安综合,https://play-a2.quklive.com/live/1778723290567021.m3u8
 
 宜春综合,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
@@ -1028,18 +1029,18 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
 十堰新闻综合,https://p8.vzan.com/slowlive/687885422202942639/live.m3u8?zbid=351104&amp;tpid=622879110
 十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&amp;tpid=1550600621
+十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+十堰经济旅游,http://r8.vzan.com/v/slowlive_701367497774448672.m3u8
+十堰经济旅游,http://r8.vzan.com/v/slowlive_701367497774448672.flv
+十堰经济旅游,rtmp://r8.vzan.com/v/slowlive_701367497774448672
 十堰新闻综合,webview://https://zb.aisy.com/live/tvchat-868100086?v=1744697206000
 十堰经济旅游,webview://https://zb.aisy.com/live/tvchat-1550600621?v=1744697474000
 荆门新闻综合,webview://https://web.guangdianyun.tv/tv/?id=3612&uin=1936
 荆门新闻综合,webview://http://www.jmtv.com.cn/folder48/folder50
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门科教文旅,https://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 荆门新闻综合,webview://http://m-jingmen.cjyun.org/p/353048.html
-荆门科教文旅,webview://http://m-jingmen.cjyun.org/p/353049.html
 荆门新闻综合,webview://https://res.jptnews.cn/html/rft/live.html?channelId=5781ec244f164102b6e8ea05c01aaf29
-荆门科教文旅,webview://https://res.jptnews.cn/html/rft/live.html?channelId=d09cf21f01ea4103a3c8ed3f6e14228d
 荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9bbdf1e961c3ba64dcd8d00f6d5dfff0
-荆门科教文旅,https://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1e90257c8c16a64505ae51e378086271
 孝感新闻综合,webview://https://www.xgnews.cn/app/streamradio/62
 孝感生活,webview://https://www.xgnews.cn/app/streamradio/63
 孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
@@ -1060,7 +1061,11 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 黄石新闻综合,webview://https://yshs.hsgd.net.cn/app/tv/85
 宜昌综合,webview://https://h5.ycrmt.cn/television/
 宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+宜昌综合,http://liveplay.ycrmt.cn/sxgd/zhpd.flv
+宜昌综合,rtmp://liveplay.ycrmt.cn/sxgd/zhpd
 宜昌旅游生活,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+宜昌旅游生活,http://liveplay.ycrmt.cn/sxgd/lysh.flv
+宜昌旅游生活,rtmp://liveplay.ycrmt.cn/sxgd/lysh
 宜昌综合,webview://https://yichang.cjyun.org/app/streamradio/59
 宜昌旅游生活,webview://https://yichang.cjyun.org/app/streamradio/60
 赤壁综合,webview://https://m.chibi.com.cn/p/117220.html
@@ -1117,6 +1122,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 广水综合,webview://https://m.hbgstv.com/dszb
 潜江综合,webview://https://aspcoavzb.vzan.com/live/page/1305190323?v=1744683714000
 潜江综合,https://p2hs.vzan.com/slowlive/481008854192202056/live.m3u8
+潜江综合,http://pull-hsbj.vzan.com/v/slowlive_481008854192202056.flv
+潜江综合,rtmp://pull-hsbj.vzan.com/v/slowlive_481008854192202056
 保康综合,http://bktvplay.gdnewmedia.cc/bktv/bktv001.m3u8?auth_key=1715157778-0-0-2a5aee0bfaeff717537ec0ef8a1e1567
 保康综合,webview://http://bkcms.gdnewmedia.cc/wx/live.php
 仙桃综合,webview://https://web.guangdianyun.tv/tv/?id=509&uin=1832
