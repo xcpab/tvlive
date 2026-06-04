@@ -672,8 +672,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源生活,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-清远新闻综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
-清远新闻综合,https://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
+清远综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
+清远综合,https://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
 韶关新闻综合,webview://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
@@ -691,8 +691,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 湛江新闻综合,webview://https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=13
 阳江综合,https://live.yjtvw.com:8081/live/yjtv1.m3u8
 揭阳综合,webview://https://www.jyrtv.tv/fccommon/Home/detail?site_id=75&detail_type=7&cid=11
-汕尾新闻综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
-汕尾新闻综合,webview://https://swtvapp.swrtv.com/application/tvradio/h5/detail.html?type=tv&id=35
+汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
+汕尾综合,webview://https://swtvapp.swrtv.com/application/tvradio/h5/detail.html?type=tv&id=35
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
 云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
@@ -742,9 +742,9 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 揭阳综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88893
 茂名综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88894
 梅州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88895
-清远新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
+清远综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
 汕头综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88897
-汕尾新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88898
+汕尾综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88898
 韶关新闻综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88899
 阳江综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88901
 云浮综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88902
@@ -1120,7 +1120,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 随州综合,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=3302215019-0-0-de184e5122771cc495e468e9c7436cef&extra_key=Gpp9OoaDCH7QYfDm16Wcl4hKcngRCXVGx9VcHeaQX930Ka3v-c4mV2j97p_kbvdufvKF3Q6wFS1W_H1aXcWh_V1jOTCERh56NU_qMoXr0phq-bmgkVoBH38ozPxOe3-ykriQMcm-F2_pLFglvV2A78dDHi093smvbecTkzhTa9c
 随州农村,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8?auth_key=3302215637-0-0-ced6f406c4ff6e16edb0959f7d6600c5&extra_key=Z7grDZO4e_1OJTbTzz9CB1XhDyBay1lf_GPwKh_Q1ye7qTAt80lk4bAnyqM1YtS7-cCnEE600CDUMfLyba0O3pOROiZm7BHYTGFQuWxWiS176QsQu9OY_VTcvIkwzij3U_hgBqEW2Ko-M2oKgnFWVKgLft8SROIMGz1ZpWAPorQ
 广水综合,webview://https://m.hbgstv.com/dszb
-潜江综合,webview://https://aspcoavzb.vzan.com/live/page/1305190323?v=1744683714000
 潜江综合,https://p2hs.vzan.com/slowlive/481008854192202056/live.m3u8
 潜江综合,http://pull-hsbj.vzan.com/v/slowlive_481008854192202056.flv
 潜江综合,rtmp://pull-hsbj.vzan.com/v/slowlive_481008854192202056
@@ -1159,7 +1158,7 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 咸丰综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=31
 咸丰综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
 巴东综合,webview://https://web.guangdianyun.tv/tv/3522?uin=3179
-巴东综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=22
+恩施综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=22
 巴东综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
 五峰综合,webview://http://m-wufeng.cjyun.org/dszb
 宜都综合,webview://http://m-yidushi.cjyun.org/zhibo
