@@ -418,16 +418,6 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 广昌综合,webview://http://app.yun.jxntv.cn/video/videojs/index?site_id=10016&id=17&page=canvas&live_type=1
 
 北京,#genre#
-北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
-北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
-BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
-BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
-BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
-BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
-BRTV体育休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
-BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
-BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
-BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,webview://https://ruige2024.serv00.net/bj.html?channel=1
 BRTV文艺,webview://https://ruige2024.serv00.net/bj.html?channel=2
@@ -701,9 +691,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾综合,webview://https://swtvapp.swrtv.com/application/tvradio/h5/detail.html?type=tv&id=35
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
-云浮文旅,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 信宜综合,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
 信宜综合,webview://https://live.xytv.cc/tv/?id=643&uin=1629
@@ -1017,7 +1005,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
 湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
 湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
-湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
 湖北卫视,webview://https://m.hbtv.com.cn/2023_live_audio
@@ -3844,8 +3831,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 西双版纳综合,https://hwapi.yntv.net:443/ew265l/47480o.m3u8
 西双版纳综合,webview://https://m.xsbnw.cn/tms/app/xsbnrm/64208
 西双版纳综合,webview://https://www.xsbnw.cn/
-西双版纳文化旅游,https://channellive.xsbnw.cn/default/nmip-media/channellive/channel112694/playlist.m3u8
-西双版纳文化旅游,webview://https://m.xsbnw.cn/cms/content/12070751
 昭通综合,https://hwapi.yntv.net/ew265l/5fkqnm.m3u8
 绥江电视台,http://60.160.23.32:8100/media/livepkgr/sjtv/playlist.m3u8
 彝良综合,webview://https://zb-live.ynurl.com/yiliang/daba5594-ccf8-44c1-a137-3b368b8e398b.m3u8
@@ -4907,6 +4892,7 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 澳门莲花,http://2028496195.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=UuYAANXkTFhf1EYY&secondToken=secondToken%3AaeH9bajglaAWNijdz3YrvgSYrwU&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+澳门莲花,https://play-sh.quklive.com/live/1780907795235397.m3u8
 澳门莲花,http://8.138.7.223/tv/lotustv.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门莲花,webview://https://www.lotustv.mo/#page1
@@ -4971,7 +4957,17 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 Webview检测,webview://https://passer-by.com/browser
 IPV6检测,webview://https://ipv6ready.me/index.html.zh_CN
-
+北京,#genre#
+北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
+北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
+BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
+BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
+BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
+BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
+BRTV体育休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
+BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
+BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
+BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
 
 四川,#genre#
 成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
