@@ -681,8 +681,10 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 潮州民生,webview://https://app.kanchaozhou.com/application/tvradio/h5/detail.html?type=tv&id=12
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
 肇庆生活服务,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
-肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
-肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.m3u8
+肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.flv
+肇庆生活服务,https://zqvlivestream.xjrb.com/zqLiveSlow/210.m3u8
+肇庆生活服务,https://zqvlivestream.xjrb.com/zqLiveSlow/210.flv
 梅州综合,https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
 梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
 湛江新闻综合,webview://https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=13
@@ -940,8 +942,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 益阳新闻综合,webview://http://www.yyrtv.com/Audiovisual/306/1.html?spm=zm5102-001.0.0.1.C3Lkgq
 衡阳新闻综合,webview://http://khy.hydst.com/live/index.html?liveid=347&videoUrl=aHR0cDovL3h3emhwZGJsLmh5ZHN0LmNvbS9BcHBOYW1lL1N0cmVhbU5hbWUubTN1OA==&videoImg=#reloaded
 衡阳文旅法治,webview://http://khy.hydst.com/live/index.html?liveid=348&videoUrl=aHR0cDovL2dncGRibC5oeWRzdC5jb20vQXBwTmFtZS9TdHJlYW1OYW1lLm0zdTg=&videoImg=#reloaded
-湘西新闻综合,webview://https://web.guangdianyun.tv/tv/2581?uin=3815
-湘西文化旅游,webview://https://web.guangdianyun.tv/tv/2582?uin=3815
+湘西新闻综合,webview://https://web.guangdianyun.tv/tv/3991?uin=4802
+湘西文化旅游,webview://https://web.guangdianyun.tv/tv/3990?uin=4802
 韶山综合,webview://https://wap.ssxw.net/live/index.html?liveid=1760
 湘潭县电视台,webview://https://wap.xtxnews.cn/live/index.html?liveid=1102
 南岳综合,webview://https://wap.nanyuenews.com/live/index.html?liveid=1817
@@ -996,9 +998,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 津市电视台,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=187
 长沙县综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=203
 安化综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=204
-怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8
-怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=2052528437-0-0-751357f267dc37033da592dca1009229
-怀化经济生活,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=2052528449-0-0-06418993adb02cddc222d503db944489
+怀化新闻综合,http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-2df711646154814a32096275a118d93e
+怀化经济生活,http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1893427200-0-0-2df711646154814a32096275a118d93e
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
