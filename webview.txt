@@ -696,6 +696,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 信宜综合,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
+开平综合,webview://https://web.guangdianyun.tv/tv/1434?uin=1132
 信宜综合,webview://https://live.xytv.cc/tv/?id=643&uin=1629
 增城电视台,http://live.zccmc.cn:1920/hls/tv1.m3u8
 增城电视台,webview://https://www.gz-cmc.com/html/rft/live.html?channelId=0a7684a8e4cd49ab9b3dcc6f1d102700&type=1&siteId=78fa6d06b0dd4f27abf341e5efde035a
@@ -1036,6 +1037,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 荆门新闻综合,webview://http://m-jingmen.cjyun.org/p/353048.html
 荆门新闻综合,webview://https://res.jptnews.cn/html/rft/live.html?channelId=5781ec244f164102b6e8ea05c01aaf29
 荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9bbdf1e961c3ba64dcd8d00f6d5dfff0
+孝感新闻综合,webview://https://web.guangdianyun.tv/tv/64?uin=1114
+孝感生活,webview://https://web.guangdianyun.tv/tv/3683?uin=1114
 孝感新闻综合,webview://https://www.xgnews.cn/app/streamradio/62
 孝感生活,webview://https://www.xgnews.cn/app/streamradio/63
 孝感新闻综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
@@ -1076,8 +1079,6 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 应城综合,webview://https://www.ycrmtzx.cn/app/streamradio/43
 应城综合,webview://https://m.ycrmtzx.cn/zhibo
 应城综合,webview://http://m-yingcheng.cjyun.org/zhibo
-孝感新闻综合,webview://https://www.xgnews.cn/app/streamradio/62
-孝感生活,webview://https://www.xgnews.cn/app/streamradio/63
 兴山综合,webview://http://xingshan.cjyun.org/app/streamradio/3
 当阳综合,webview://https://www.hbdangyangwang.cn/app/streamradio/64
 枝江综合,webview://https://app.sxzhijiang.cn:443/dsgb
@@ -1092,12 +1093,14 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 鹤峰综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=33
 松滋综合,webview://https://m.hbszrm.cn/dsgb
 石首综合,webview://https://m.ssrmt.cn/dsgb
+房县综合,webview://https://web.guangdianyun.tv/tv/3947?uin=4736
 房县综合,rtmp://fangxian-push.cjyun.org/10064/s10064-fxtv1-1?auth_key=1672502399-0-0-b31d1476cdc76ffbea9e0fa5af5e7826
 房县综合,webview://http://m.fxxww.net/dszb
 谷城综合,webview://http://m-gucheng.cjyun.org/dszb
 谷城综合,webview://http://wap.guchengnews.com/dszb/index.html
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-881db406245fb25ab51e962f0b5b23a1
 阳新综合,webview://https://m.yangxintv.cn/zhibo/
+阳新综合,webview://https://web.guangdianyun.tv/tv/3831?uin=1887
 恩施综合,webview://http://imgfile.estv.com.cn/yses/zb.html
 恩施综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=1
 恩施文旅,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=2
@@ -1105,6 +1108,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 恩施综合,webview://https://web.guangdianyun.tv/tv/?id=3724&uin=3179
 恩施文旅,webview://https://web.guangdianyun.tv/tv/?id=1811&uin=3179
+巴东综合,webview://https://web.guangdianyun.tv/tv/3522?uin=3179
+咸丰综合,webview://https://web.guangdianyun.tv/tv/3567?uin=3179
 黄陂新闻,http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 江夏综合,webview://https://www.jxtvbbs.com/plugin.php?id=junhua_live&m=m&c=live&a=detail&live_id=3&themecolor=FF7B31
 南漳综合,webview://https://web.guangdianyun.tv/tv/1568?uin=1577
@@ -1149,10 +1154,8 @@ CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_i
 江陵综合,webview://https://m.hbysjl.cn/zhibo79
 江陵综合,webview://https://m.hbysjl.cn/zhibo79
 钟祥综合,webview://https://m-zhongxiang.cjyun.org/zhibo
-咸丰综合,webview://https://web.guangdianyun.tv/tv/3567?uin=3179
 咸丰综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=31
 咸丰综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
-巴东综合,webview://https://web.guangdianyun.tv/tv/3522?uin=3179
 恩施综合,webview://https://imgfile.estv.com.cn/app_dszb/index.html#/home?siteId=undefined&curId=22
 巴东综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
 五峰综合,webview://http://m-wufeng.cjyun.org/dszb
@@ -1311,6 +1314,7 @@ $石家庄
 衡水经济科教,webview://http://app.hsrtv.cn/web/teletv/tv_content_4.html
 冀州综合,webview://https://web.guangdianyun.tv/tv/732?uin=1724
 饶阳综合,webview://https://web.guangdianyun.tv/tv/?id=3817&uin=2562
+武强融媒综合,webview://https://web.guangdianyun.tv/tv/3654?uin=1425
 安平综合,webview://http://aptv.city1000.cn/h5/not/live/aptv
 安平综合,http://zhap.city1000.cn/xinwen/ap_xw.m3u8
 新乐综合,http://jwcdnqx.hebyun.com.cn/live/XLTV/1500k/tzwj_video.m3u8
@@ -1324,7 +1328,7 @@ $石家庄
 双滦新闻,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=64e92138603740e9846d057094a338cd&type=1&siteId=c03331b3709a449a91a7ee0132c272ce&shareAppId=c03331b3709a449a91a7ee0132c272ce
 
 枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
-武强融媒综合,webview://https://web.guangdianyun.tv/tv/3654?uin=1425
+
 涞水综合,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
 深州综合,http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
 深州综合,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=6ce46fb33b51424bbcf82bfc6b4f750a&type=1&siteId=052b6e9e995b4caf8527e71f38819922&shareAppId=052b6e9e995b4caf8527e71f38819922
@@ -1869,6 +1873,8 @@ $石家庄
 菏泽
 菏泽综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽公共,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽综合,webview://https://web.guangdianyun.tv/tv/3492?uin=4042
+菏泽公共,webview://https://web.guangdianyun.tv/tv/3493?uin=4042
 成武综合,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html
 成武综艺,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html
 曹县综合,webview://https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html
@@ -2207,7 +2213,6 @@ $石家庄
 铜山1套,webview://http://shareplus.tstvxmt.com/app/folder61/folder319/folder345/?id=11_hgOutLink=live/livedetail&channel_id=10
 铜山2套,webview://http://shareplus.tstvxmt.com/app/folder61/folder319/folder345/?id=11_hgOutLink=live/livedetail&channel_id=9
 新沂新闻,webview://https://web.guangdianyun.tv/tv/?id=3177&uin=1812
-新沂生活,webview://https://web.guangdianyun.tv/tv/?id=3178&uin=1812
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
 新沂新闻,https://litchi-play-encrypted.jstv.com:443/live/xinyi.m3u8?txSecret=622a1e36bf396caeb02b5b0bedecb5dd&txTime=1757382682
@@ -2284,7 +2289,9 @@ $石家庄
 淮安公共,webview://https://glive.habctv.com/tv/808?uin=1610
 淮安影视娱乐,webview://https://glive.habctv.com/tv/902?uin=1610
 淮安综合,webview://https://web.guangdianyun.tv/tv/2778?uin=1610
-淮安公共,webview://https://web.guangdianyun.tv/tv/808?uin=1610
+淮安综合,webview://https://web.guangdianyun.tv/tv/3956?uin=1610
+淮安公共,webview://https://web.guangdianyun.tv/tv/3886?uin=1610
+淮安公共,webview://https://web.guangdianyun.tv/tv/3961?uin=1610
 淮安影视娱乐,webview://https://web.guangdianyun.tv/tv/902?uin=1610
 淮安综合,http://live1.habctv.com/ysylsl/playlist.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
@@ -2774,7 +2781,6 @@ $石家庄
 宁德文化旅游,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
 三明综合,https://live4-fuyun.fjtv.net/hb_smtv/sd/live.m3u8?_upt=8d5f88501768372571
 平潭综合,webview://https://web.guangdianyun.tv/tv/907?uin=1118
-平潭综合,webview://https://web.guangdianyun.tv/tv/908?uin=1118
 南平综合,https://live4-fuyun.fjtv.net/hb_nptv/sd/live.m3u8?_upt=f1c2247e1755875425
 南平综合,webview://http://www.setvn.com/plus/view-6023-0.html
 集美综合,webview://https://web.guangdianyun.tv/tv/3102?uin=4113
@@ -2795,6 +2801,9 @@ $石家庄
 邵武综合,http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
 福清综合,webview://https://web.guangdianyun.tv/tv/699?uin=1945
 闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2068&uin=2656
+闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2179&uin=2656
+闽侯综合,webview://https://web.guangdianyun.tv/tv/?id=2577&uin=2656
+
 德化综合,webview://http://www.cidudehua.net/m/view.php?aid=1175
 德化综合,webview://https://web.guangdianyun.tv/tv/?id=2467&uin=3164
 德化综合,https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
@@ -2909,17 +2918,16 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 蒙城新闻,webview://https://noctguvzb.vzan.com/live/page/1242056970?v=1744437591000
 桐城综合,webview://https://web.guangdianyun.tv/tv/3350?uin=4104
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
+蚌埠新闻,webview://https://web.guangdianyun.tv/tv/2201?uin=2593
 利辛新闻综合,https://live.rong-lixin.com/hls/lixinxw/playlist.m3u8
 利辛新闻综合,webview://https://www.rong-lixin.com/tvLive
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch0.m3u8
 涡阳新闻综合,webview://https://gyrmedit.ahwanyun.cn/h5/h5app/#/pages/commonPage/commonPage?plateId=2&appId=233
 阜阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
-阜阳教育,webview://https://web.guangdianyun.tv/tv/?id=2852&uin=2577
 阜阳生活,webview://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
 阜阳都市文艺,webview://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
 阜阳新闻综合,https://41007-live.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2851.m3u8?auth_key=1770870673-0-0-5b444a4a3ccf63e05f6bedd2b79553c5&extra_key=rBYmoasFl1MGKyL8aN-EKOxIqJZKUeF2N8Wy67X15U7Mn4rXBDpzouFUp5qy0yST3F7rjuJykzlDwHMItnql6e1rg4V8qwa_EMVLQd9sk1WWKU7TKFfZ5laQSkZ4vyx68KeuevXk4XO_f8g6hwNqo-obFO7n5vQGCJzNsbiMAfU
-阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
 阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阜南新闻综合,webview://https://web.guangdianyun.tv/tv/3216?uin=1469
@@ -3881,6 +3889,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 家有购物,webview://https://www.gzstv.com/tv/ch10
 贵州公共,webview://https://h5.v2gogo.com/bxgz-live-broadcast/index.html#/?liveCodeId=d43bd55d731949e2bc1ebad65de1ba4a
 贵州公共,webview://https://movement.gzstv.com/streams/videolive/2/?st=by65gMoIvuzdMNP
+贵阳新闻综合,webview://https://web.guangdianyun.tv/tv/4007?uin=4814
 黔东南综合,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=c9f4084f0fd64372944759341d85b59f&type=1&siteId=220bf2d2bbae4b0ba29f123b6d11d172&shareAppId=220bf2d2bbae4b0ba29f123b6d11d172
 黔东南综合,https://p8.vzan.com/slowlive/144621665466645234/live.m3u8
 凯里综合,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=adc772421a4c4e9f8675f69a0ebc98e6&type=1&siteId=220bf2d2bbae4b0ba29f123b6d11d172&shareAppId=220bf2d2bbae4b0ba29f123b6d11d172
