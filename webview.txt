@@ -2024,10 +2024,10 @@ $石家庄
 阳泉科教,https://live.yqrtv.com/xwchne/playlist.m3u8?_upt=d92fc69e1766735129
 阳泉新闻综合,webview://http://share.yqrtv.com/?_hgOutLink=live/livedetail&channel_id=10
 阳泉科教,webview://http://share.yqrtv.com/?_hgOutLink=live/livedetail&channel_id=11
-临汾新闻综合,https://www.lfgdw.cn/chain/live/lfj/lfj.flv?auth_key=1766472210-0-0-4407107721794735d6559d9859c0bb00
+临汾综合,https://www.lfgdw.cn/chain/live/lfj/lfj.flv?auth_key=1766472210-0-0-4407107721794735d6559d9859c0bb00
 临汾公共,https://www.lfgdw.cn/chain/live2/lfj/lfj.flv?auth_key=1766472295-0-0-ff9b09aed204219c620a43ff68bfb5a3
 临汾科教,https://www.lfgdw.cn/chain/live1/lfj/lfj.flv?auth_key=1766472267-0-0-afbfed4b2e25895dd35d95f5d1667e76
-临汾新闻综合,webview://https://www.lfgdw.cn/channel/kandianshi
+临汾综合,webview://https://www.lfgdw.cn/channel/kandianshi
 晋中综合,https://live.jztvnews.cn/lsdream/40Xc057/1000/live.m3u8
 晋中公共,https://live.jztvnews.cn/lsdream/8i6Yd67/1000/live.m3u8
 晋城新闻综合,http://live.jinnews.com.cn/xwzh/playlist.m3u8
