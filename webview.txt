@@ -3047,7 +3047,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 伊春新闻综合,https://rmplive.hljtv.com/live/yichun.m3u8
 伊春新闻综合,https://liveplaysr.dbw.cn/lsdream/pkHc359/2000/live.m3u8
 伊春新闻综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-伊春绿色林都,https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
 双鸭山新闻综合,https://masterpull.hljtv.com/live/BowdCSzZ.m3u8
 七台河新闻综合,webview://https://qthsr.dbw.cn/television/live_wap_217.html
 七台河民生社教,webview://https://qthsr.dbw.cn/television/live_wap_14642.html
@@ -3473,8 +3472,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 商洛综合,http://player4.juyun.tv/camera/171844138.m3u8
 延安综合,https://srs.yanews.cn/video/YATV-1/index.m3u8
 延安综合,http://srs.yanews.cn/video/YATV-1/index.m3u8
-延安公共,https://srs.yanews.cn/video/YATV-2/index.m3u8
-延安公共,webview://https://www.yanews.cn/fuesf/TV
 安康综合,http://pili-live-hls.akrt.cn/akapptv/zhpdhd.m3u8
 安康民生,http://pili-live-hls.akrt.cn/akapptv/ggpdhd.m3u8
 镇安综合,webview://https://zasjt.zatvs.cn/videolive-info/qftvqpbsedessquowaadwpexqupxuwrd/88a43d204fc20e36bdd8c76f88bd6462/cad887a9e2ad4652a1a29290ff559862
@@ -4036,9 +4033,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 合江综合,webview://http://kstatic.sctvcloud.com:80/static/l0522/list/1479371033073864705.json
 
 德阳新闻综合,webview://https://dywang.cn/tv/detail/1
-德阳文旅科教,webview://https://dywang.cn/tv/detail/4
 德阳新闻综合,https://zb.scdytv.cn/live/xwpd.m3u8
-德阳文旅科教,https://zb.scdytv.cn/live/wlkj.m3u8
 罗江综合,rtmp://pull.luojiangrongmei.com/ljds/ljtv
 罗江综合,webview://https://fabu.luojiangrongmei.com/luojiang-publish-app/pages/palm/livebroadcast/index
 绵竹综合,webview://https://web.guangdianyun.tv/tv/?id=1933&uin=3277
@@ -4251,7 +4246,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 通江综合,webview://http://jrtjxfile.bzitv.cn:80/sctv/tv/index/tv.json
 
 眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
-眉山文旅乡村,webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 平昌综合,http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 平昌综合,webview://http://rmt.pcxrmtzx.cn/html/p1923/2024/03/19/1770003126738812929_share.html?t=1744336385584
 
@@ -4263,7 +4257,6 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 洪雅综合,webview://https://m.shanshuihongya.cn//live_tv.html?tv_id=206
 
 眉山综合,http://mspull.scmstv.cn/live/ce36a16001931000ae80bca700000000/playlist.m3u8?wsSecret=49e65941b5f64a96d49821788f95c5c4&wsTime=2019657600
-眉山文旅乡村,http://mspull.scmstv.cn/live/ce37b20c019310008a26359200000000/playlist.m3u8?wsSecret=50ed7f4eef886539c3a8e409e4a19001&wsTime=2019657600
 乐山新闻综合,http://pwpull.leshan.cn/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐山文旅生活,http://pwpull.leshan.cn/live/216e177701911000eb46902c00000000/playlist.m3u8
 乐山新闻综合,webview://http://www.lstv.org.cn/cms/tv/28
@@ -4543,10 +4536,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 包头新闻综合,webview://https://iapp.baotounews.com.cn/share/dHZsLTY4OS0xMQ.html
 鄂尔多斯新闻综合,webview://https://www.nxw.org.cn/financial/index.shtml
 鄂尔多斯蒙语综合,http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
-鄂尔多斯经济服务,http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
 鄂尔多斯新闻综合,webview://https://www.nxw.org.cn/financial/index.shtml
 鄂尔多斯新闻综合,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=569a7992cab44aa0a7350f130d05e988&type=1
-鄂尔多斯经济服务,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=9c2daff50fcd40cb8177afe4babcc342&type=1
 鄂尔多斯蒙语综合,webview://https://www.media.xinhuamm.net/html/rft/live.html?channelId=2a576973707741179f5ea47f28f2ab3d&type=1
 乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
