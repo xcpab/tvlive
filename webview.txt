@@ -252,7 +252,8 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 
 赣州新闻综合,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 赣州经济生活,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
-
+赣州新闻综合,https://p8.vzan.com/slowlive/951727839795873617/live.m3u8?zbid=983533065&tpid=1396076621
+赣州经济生活,https://p8.vzan.com/slowlive/756309254992270892/live.m3u8?zbid=983533065&tpid=421338742
 吉安综合,webview://https://www.jgsdaily.com/19/19qysj/kds/pdzb/index.shtml
 吉安综合,https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 吉安公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
@@ -3733,12 +3734,12 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 都兰综合,https://dl.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=15
 格尔木综合,webview://https://grmapp.geermurmt.com/application/tvradio/h5/detail.html?type=tv&id=1
 格尔木综合,webview://https://grmapp.geermurmt.com/application/tenma01ds_tvradio/view/web/#/tv
-门源综合,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+门源综合,https://hls-qhmh.lanzhousobey.cn/qhmh/myds.m3u8
 门源综合,webview://https://qhmy.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=11
 门源综合,webview://https://qhhz.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=8
 祁连综合,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 祁连综合,webview://https://qhhz.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=9
-贵南综合,https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+贵南综合,https://hls-qhmh.lanzhousobey.cn/qhmh/qhgn.m3u8
 贵南综合,webview://https://qhgn.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=23
 同德综合,https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
 同德综合,webview://http://tdshare.dmqhyadmin.com/?_hgOutLink=live/livedetail&channel_id=10
@@ -3748,7 +3749,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 化隆综合,webview://https://hl.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=16
 互助综合,http://livecdn.dmqhyadmin.com/hls/xjhuzhu.m3u8
 互助综合,webview://https://qhhz.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=2
-民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+民和综合,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 民和综合,webview://https://qhhz.dmqhyadmin.com/application/tvradio/h5/detail.html?type=tv&id=6
 玛沁综合,http://livecdn.dmqhyadmin.com/hls/xjmaqin.m3u8
 贵德综合,https://lived.dmqhyadmin.com/GDTV/playlist.m3u8
@@ -3995,7 +3996,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 绵阳科教生活,http://fjgcl.myxwcm.cn/live/9ff6671801971000c0df254f00000000/playlist.m3u8?wsSecret=47b8341e592207bfe68c68ba9fc11d92&wsTime=2019657600
 江油综合,http://jypull.jyxrmtzx.xyz/live/9dfe6ab1018e1000f4bb01a600000000/playlist.m3u8?wsSecret=9eb9256aa01b00e91c86deab33ef9cab&wsTime=2019657600
 江油综合,webview://http://rmt.scjygd.com/html/a0781/2022/01/11/1480736563783667712_share.html?t=1716361058235
-
+绵阳新闻综合,https://p2hs.vzan.com/812528776/317120615035473567/live.m3u8
 北川综合,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 北川综合,webview://http://kstatic.sctvcloud.com:80/static/b0726/list/1513397826446106625.json
 三台综合,http://125.65.94.91:12351/live
