@@ -264,6 +264,8 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 万安综合,http://play-sh13.quklive.com/live/1779865659163098.m3u8?auth_key=2100489495-45f5d34b28f04ca8b1b0fa0bfb24e736-0-9c9ea7cc7572e4d433c40da63d0a2ce7
 万安综合,http://play-sh13.quklive.com/live/1779865659163098.flv?auth_key=2100489495-e378f49df3b64e369b5b593ceafef60d-0-df32f7e931933e8a57cb193561e823c8
 万安综合,rtmp://play-sh13.quklive.com/live/1779865659163098?auth_key=2100489495-42c34f0f9574435e83142b71045ad7e4-0-a37d36aae30da1872f406aac5be2d7fb
+万安综合,webview://https://app.waxrmtzx.com/webarticle/naturelive2?id=3991
+万安综合,webview://https://www.qukanvideo.com/cloud/h5/1779865659163098
 
 宜春综合,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
@@ -291,9 +293,12 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
 
 景德镇新闻综合,webview://https://app.jjntv.cn/webDetails/live/tvLive?tenantId=300
-景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
-景德镇新闻综合,http://play-sh.quklive.com/live/1724916607073321.flv
-景德镇新闻综合,rtmp://play-sh.quklive.com/live/1724916607073321
+景德镇新闻综合,https://play-sh.quklive.com/live/1784769813731138.m3u8
+景德镇新闻综合,http://play-sh.quklive.com/live/1784769813731138.flv
+景德镇新闻综合,rtmp://play-sh.quklive.com/live/1784769813731138
+景德镇新闻综合,webview://https://cloud.quklive.com/cloud/a/embed/1784769813731138
+景德镇新闻综合,webview://https://jdzapp.jdz-news.com.cn/webDetails/live/tvLive?tenantId=300&id=78
+
 九江新闻综合,http://play-sh13.quklive.com/live/1768529286203024.m3u8?auth_key=2092314975-baf74c4c6721498ebeded59283fb3bf1-0-4eaa6d4663cdd472a1a29870882fec7a
 九江新闻综合,http://play-sh13.quklive.com/live/1768529286203024.flv?auth_key=2092314975-4ccbf91167684c86b02346d70a6ea309-0-9fe729844a83c44840072e7a344a0faf
 九江新闻综合,rtmp://play-sh13.quklive.com/live/1768529286203024?auth_key=2092314975-dbfd3d57eccf4618a8850e5dc8e1e875-0-45aff1de37cfa71a60a7572a1812f515
@@ -378,6 +383,7 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 宁都综合,webview://https://api.ningdurmt.cn/webarticle/naturelive2?id=79
 宁都综合,webview://https://cloud.quklive.com/cloud/a/embed/1775696284668325
 宁都综合,webview://https://www.qukanvideo.com/cloud/h5/1775696284668325
+宁都综合,webview://https://api.ningdurmt.cn/webDetails/live/tvLive?tenantId=248&id=36
 
 南康综合,http://play-a2.quklive.com/live/1758525653004384.m3u8
 南康综合,http://play-a2.quklive.com/live/1758525653004384.flv
