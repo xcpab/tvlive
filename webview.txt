@@ -260,6 +260,10 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 吉安综合,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19814.shtml
 吉安公共,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19815.shtml
 万安综合,https://play-a2.quklive.com/live/1778723290567021.m3u8
+万安综合,webview://https://cloud.quklive.com/cloud/a/embed/1779865659163098
+万安综合,http://play-sh13.quklive.com/live/1779865659163098.m3u8?auth_key=2100489495-45f5d34b28f04ca8b1b0fa0bfb24e736-0-9c9ea7cc7572e4d433c40da63d0a2ce7
+万安综合,http://play-sh13.quklive.com/live/1779865659163098.flv?auth_key=2100489495-e378f49df3b64e369b5b593ceafef60d-0-df32f7e931933e8a57cb193561e823c8
+万安综合,rtmp://play-sh13.quklive.com/live/1779865659163098?auth_key=2100489495-42c34f0f9574435e83142b71045ad7e4-0-a37d36aae30da1872f406aac5be2d7fb
 
 宜春综合,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
@@ -368,11 +372,12 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 定南综合,http://zhibo.jxxw.com.cn/live/chingytv.m3u8?txSecret=7d9f0a4680022a48521b10ac449d7f05&txTime=6A1BF750
 定南综合,webview://https://www.qukanvideo.com/cloud/h5/1762136155495343
 
-宁都综合,http://play-a2.quklive.com/live/1749084198822069.m3u8
-宁都综合,http://play-a2.quklive.com/live/1749084198822069.flv
-宁都综合,rtmp://play-a2.quklive.com/live/1749084198822069
+宁都综合,http://play-sh13.quklive.com/live/1775696284668325.m3u8?auth_key=2100489864-b486ea1432fe48388cc3ea2ff00490c9-0-fc35e194cc824223a7d7bb9e4b3d78dc
+宁都综合,http://play-sh13.quklive.com/live/1775696284668325.flv?auth_key=2100489864-92acd65c3c6e4487bdfa57b0150f6d3f-0-c37b1bd1b659c796941c71a077140e9a
+宁都综合,rtmp://play-sh13.quklive.com/live/1775696284668325?auth_key=2100489864-d098b62564b944dd93b4daaae4d6a5f9-0-0cca3c567385409a9822c127843fd4be
 宁都综合,webview://https://api.ningdurmt.cn/webarticle/naturelive2?id=79
-宁都综合,webview://https://cloud.quklive.com/cloud/a/embed/1749084198822069
+宁都综合,webview://https://cloud.quklive.com/cloud/a/embed/1775696284668325
+宁都综合,webview://https://www.qukanvideo.com/cloud/h5/1775696284668325
 
 南康综合,http://play-a2.quklive.com/live/1758525653004384.m3u8
 南康综合,http://play-a2.quklive.com/live/1758525653004384.flv
