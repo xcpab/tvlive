@@ -254,18 +254,23 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 赣州经济生活,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 赣州新闻综合,https://p8.vzan.com/slowlive/951727839795873617/live.m3u8?zbid=983533065&tpid=1396076621
 赣州经济生活,https://p8.vzan.com/slowlive/756309254992270892/live.m3u8?zbid=983533065&tpid=421338742
+
 吉安综合,webview://https://www.jgsdaily.com/19/19qysj/kds/pdzb/index.shtml
 吉安综合,https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 吉安公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 吉安综合,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19814.shtml
 吉安公共,webview://https://web.jarmt.cn/cms/rmt0162_html/19/19qysj/kds/pdzb/19815.shtml
-万安综合,https://play-a2.quklive.com/live/1778723290567021.m3u8
-万安综合,webview://https://cloud.quklive.com/cloud/a/embed/1779865659163098
+
 万安综合,http://play-sh13.quklive.com/live/1779865659163098.m3u8?auth_key=2100489495-45f5d34b28f04ca8b1b0fa0bfb24e736-0-9c9ea7cc7572e4d433c40da63d0a2ce7
 万安综合,http://play-sh13.quklive.com/live/1779865659163098.flv?auth_key=2100489495-e378f49df3b64e369b5b593ceafef60d-0-df32f7e931933e8a57cb193561e823c8
 万安综合,rtmp://play-sh13.quklive.com/live/1779865659163098?auth_key=2100489495-42c34f0f9574435e83142b71045ad7e4-0-a37d36aae30da1872f406aac5be2d7fb
 万安综合,webview://https://app.waxrmtzx.com/webarticle/naturelive2?id=3991
 万安综合,webview://https://www.qukanvideo.com/cloud/h5/1779865659163098
+
+遂川综合,http://play-sh13.quklive.com/live/1779777834106237.m3u8?auth_key=2100511719-880b067896074b6d8f0691d02bfb029b-0-75a69d7647b2ff71c996ad984951697f
+遂川综合,http://play-sh13.quklive.com/live/1779777834106237.flv?auth_key=2100511719-12f4fd8e1a9141d99758cb3e52278eb8-0-58ba08f4f476ed36f6099e710405ce2b
+遂川综合,rtmp://play-sh13.quklive.com/live/1779777834106237?auth_key=2100511719-694dca823cfc4a37a0dfab8047d0f318-0-efeed2ba86aeb69bf63d2765abc39b72
+遂川综合,webview://https://cloud.quklive.com/cloud/a/embed/1779777834106237
 
 宜春综合,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春法治民生,https://liveds-yc.newsyc.com/two/sd/live.m3u8
@@ -281,8 +286,6 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 九江公共,webview://https://www.qukanvideo.com/cloud/h5/1776821035295363
 九江教育,webview://https://www.qukanvideo.com/cloud/h5/1776821070594049
 
-上饶新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1758679893354090
-上饶经济旅游,webview://https://www.qukanvideo.com/cloud/h5/1758679936307088
 
 抚州综合,https://api.zgfznews.com/fztv/zonghe.m3u8
 抚州公共,https://api.zgfznews.com/fztv/gonggong.m3u8
@@ -319,16 +322,18 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 上饶新闻综合,http://play-sh-21.quklive.com/live/1758679893354090.flv?auth_key=2079617060-61982b5b088e472ea3682f295b7bccca-0-7bd571df18c081ed6c8414a5fa763c7b   
 上饶新闻综合,rtmp://play-sh-21.quklive.com/live/1758679893354090?auth_key=2079617060-d10ea932df194c8d83b341d21c394bc3-0-7698f3fdcd4ed26fa309a145cc6b5eeb   
 上饶新闻综合,https://hls.quklive.com/live/play-sh-21.quklive.com/1758679893354090.m3u8?auth_key=2074041197-de7f47f4c71546efbd32c81488e7b369-0-e12da583e94c06189c5d3123f72d8270
+上饶新闻综合,webview://https://www.qukanvideo.com/cloud/h5/1758679893354090
 
 上饶经济旅游,https://hls.quklive.com/live/play-sh-21.quklive.com/1758679936307088.m3u8?auth_key=2074041375-f7420661d0514d3ca7f389cb109e9562-0-beb32b269e29632e1e8d831f168de50a
 上饶经济旅游,http://hls.quklive.com/live/play-sh-21.quklive.com/1758679936307088.m3u8?auth_key=2079617536-ebdadda3459e4ffbad4899a77d78551c-0-e123b1d1dd2ccc62a65941dda465eb1f
 上饶经济旅游,http://play-sh-21.quklive.com/live/1758679936307088.flv?auth_key=2079617536-78626002c6bd4e99b0b6aa23332f9c3e-0-cd5503c6037855f37511b85d7ede074f"
 上饶经济旅游,rtmp://play-sh-21.quklive.com/live/1758679936307088?auth_key=2079617536-356c8b119c6e4ebd86e1f7e4a900500c-0-d490c1eb45e87bdadae3d82bb8b1f452
+上饶经济旅游,webview://https://www.qukanvideo.com/cloud/h5/1758679936307088
 
-广丰综合,https://play-a2.quklive.com/live/1754033359790055.m3u8
-广丰综合,https://play-a2.quklive.com/live/1754033359790055.flv
-广丰综合,rtmp://play-a2.quklive.com/live/1754033359790055
-广丰综合,webview://https://apk.gfrm.net/webarticle/naturelive2?id=1341
+广丰综合,http://play-sh13.quklive.com/live/1778463699013144.m3u8?auth_key=2100511109-90334659e7dc4df0b82b79c5690f6a02-0-7d7381ce72e8976efa83e3e9650c9077
+广丰综合,http://play-sh13.quklive.com/live/1778463699013144.flv?auth_key=2100511109-07f4a3d57be84e67918b38a0c8673675-0-088a729c5f90c5504abd4bfa44dc8831
+广丰综合,rtmp://play-sh13.quklive.com/live/1778463699013144?auth_key=2100511109-2cd7d41e8fc64e6fbe0c8f8820dbee0e-0-8d2ca08fdec30bc214f1c4968b0197d4
+广丰综合,webview://https://cloud.quklive.com/cloud/a/embed/1778463699013144
 
 玉山综合,http://play-a2.quklive.com/live/1744269699236128.m3u8
 玉山综合,http://play-a2.quklive.com/live/1744269699236128.flv
@@ -417,10 +422,11 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 东乡电视台,webview://https://cloud.quklive.com/cloud/h5/1745910375586053
 东乡电视台,webview://https://cloud.quklive.com/cloud/a/embed/1745910375586053
 
-大余综合,https://play-a2.quklive.com/live/1757066245476057.m3u8
-大余综合,webview://https://cloud.quklive.com/cloud/a/embed/1757066245476057
+大余综合,http://play-sh13.quklive.com/live/1778834121181242.m3u8?auth_key=2100511557-82697f70a2c6460d98c3c6ca3730542a-0-093b362d890327c611dd3fa0042ec473
+大余综合,http://play-sh13.quklive.com/live/1778834121181242.flv?auth_key=2100511557-8080209bc0de42c4ae684e621921a79a-0-1642115feab0d5aa66a8fd11df5cb27a
+大余综合,rtmp://play-sh13.quklive.com/live/1778834121181242?auth_key=2100511557-d4213fe494bb4f69ac68a3eefe980252-0-f851196a70161f1803ce88433693bf1e
+大余综合,webview://https://cloud.quklive.com/cloud/a/embed/1778834121181242
 大余综合,webview://https://api.dyxrmtzx.top/webarticle/naturelive2?id=81
-大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
 
 贵溪综合,http://guixibc.jxshiju.com/live/guixi.m3u8
 章贡综合,http://218.95.14.41:8000/hls/stream0.m3u8
