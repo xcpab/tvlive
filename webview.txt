@@ -2905,11 +2905,7 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
 合肥文旅体育,webview://https://app.hfbtc.cn/shows/2/4.html
 肥东新闻综合,webview://https://web.guangdianyun.tv/tv/?id=3780&uin=1167
-肥东新闻综合,webview://http://wxfx.feidongtv.com/mag/livevideo/v1/video/wapVideoView?id=752
-肥东经济生活,webview://http://wxfx.feidongtv.com/mag/livevideo/v1/video/wapVideoView?id=753
 肥东经济生活,webview://https://web.guangdianyun.tv/tv/?id=2093&uin=1167
-肥东新闻综合,https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c4&extra_key=c5aQD7PkoWQlLE2jcGdAMBsfaGdu6JPhyy8U7SviAcVIR3XolBzY26365erxKIjk_nKavWnFWH3aDX4wtTEeC_j5v6LpKXXgmTQm6JZuCVfkfQwc6Tl4ia4nCbb85h94l5UNgfI2WIts-xNjcKahTX68n8xmIFFcN6al1dK28Lo
-肥东经济生活,https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1774408589&volcSecret=4938d82045551d670c9d796c4ec39bc4
 安庆新闻综合,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
 安庆经济生活,https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
 安庆新闻综合,webview://https://www.zsaqnews.cn/html/rft/live.html?channelId=61005770c525480db84eed456cd093c1
