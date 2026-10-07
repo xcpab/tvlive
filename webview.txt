@@ -60,26 +60,6 @@ CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 美洲,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
-CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
-CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
-CCTV-4 中文国际,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
-CCTV-5 体育,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/
-CCTV-5+ 体育赛事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/
-CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
-CCTV-7 国防军事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
-CCTV-8 电视剧,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/
-CCTV-9 纪录,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/
-CCTV-10 科教,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/
-CCTV-11 戏曲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv11/
-CCTV-12 社会与法,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
-CCTV-13 新闻,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv13/
-CCTV-14 少儿,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
-CCTV-15 音乐,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/
-CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
-CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
-CCTV-4 欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
-CCTV-4 美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
@@ -100,8 +80,6 @@ CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype
 CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
 CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
-CCTV-1 综合,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
-CCTV-7 国防军事,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
 CGTN,webview://https://www.cgtn.com/tv
 CGTN纪录,webview://https://www.cgtn.com/channel/documentary
 CGTN俄语,webview://https://russian.cgtn.com/channel
@@ -412,15 +390,6 @@ imode时尚,webview://http://juxian.juyun.tv/live_watch.php?id=137932
 
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
-北京卫视,webview://https://ruige2024.serv00.net/bj.html?channel=1
-BRTV文艺,webview://https://ruige2024.serv00.net/bj.html?channel=2
-BRTV纪实科教,webview://https://ruige2024.serv00.net/bj.html?channel=3
-BRTV影视,webview://https://ruige2024.serv00.net/bj.html?channel=4
-BRTV财经,webview://https://ruige2024.serv00.net/bj.html?channel=5
-BRTV体育休闲,webview://https://ruige2024.serv00.net/bj.html?channel=6
-BRTV生活,webview://https://ruige2024.serv00.net/bj.html?channel=7
-BRTV新闻,webview://https://ruige2024.serv00.net/bj.html?channel=8
-BRTV卡酷少儿,webview://https://ruige2024.serv00.net/bj.html?channel=9
 BRTV新闻,https://livebjsy.chinamcache.com/live/zb01.m3u8
 顺义综合,http://livebjsy.chinamcache.com/live/zb01.m3u8
 顺义综合,https://livebjsy.chinamcache.com/live/zb02.m3u8
@@ -494,21 +463,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 上海澎湃新闻,webview://https://m.thepaper.cn/channel_128409
 浦东综合,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=8566a099e2c68ccd9bb4dab4d9bc85d8&txTime=6D17AF7F
 天津,#genre#
-天津卫视,http://129.211.14.102:25000/tjtv.php?id=1
-天津新闻,http://129.211.14.102:25000/tjtv.php?id=2
-天津文艺,http://129.211.14.102:25000/tjtv.php?id=3
-天津影视,http://129.211.14.102:25000/tjtv.php?id=4
-天津都市,http://129.211.14.102:25000/tjtv.php?id=5
-天津体育,http://129.211.14.102:25000/tjtv.php?id=6
-羽球精品赛事,http://129.211.14.102:25000/tjtv.php?id=8 
-天津卫视,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000698
-天津新闻,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000699
-天津文艺,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000700
-天津影视,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000701
-天津都市,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000702
-天津体育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000692
-天津教育,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000693
-羽球精品赛事,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000001942
 宝坻综合,webview://https://juxian.juyun.tv/live.php?id=143100
 天津静海台,webview://http://www.jhtoutiao.cn/zb/shoujitv_05181638.shtml
 天津静海台,http://live.jinghai.tjrmtzx.com/live/tjjh0807.m3u8
@@ -524,9 +478,6 @@ BRTV新闻,webview://https://h5new.funhillrm.com/front-cloudlive-manage-h5/index
 南开区综合,webview://http://win.nettv.vip/embed/nankai.php
 
 重庆,#genre#
-重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
-重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
 重庆移动电视,https://zbxclive9.cbg.cn/app_2/ls_58.stream/playlist.m3u8
@@ -652,11 +603,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 珠海新闻综合,webview://https://pub-zhtb.hizh.cn/zhtv1/
 东莞新闻综合,webview://https://dgrtv.sun0769.com/online/279.html
-东莞生活资讯,webview://https://dgrtv.sun0769.com/online/280.html
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 河源综合,webview://https://www.hyrtv.cn/itv/zhds/
 河源生活,webview://https://www.hyrtv.cn/itv/ggds/
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8
@@ -673,11 +621,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 潮州综合,webview://https://app.kanchaozhou.com/application/tvradio/h5/detail.html?type=tv&id=11
 潮州民生,webview://https://app.kanchaozhou.com/application/tvradio/h5/detail.html?type=tv&id=12
 肇庆综合,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
-肇庆生活服务,webview://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.m3u8
 肇庆综合,https://zqvlivestream.xjrb.com/zqLiveSlow/209.flv
-肇庆生活服务,https://zqvlivestream.xjrb.com/zqLiveSlow/210.m3u8
-肇庆生活服务,https://zqvlivestream.xjrb.com/zqLiveSlow/210.flv
 梅州综合,https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
 梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
 湛江新闻综合,webview://https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=13
@@ -686,7 +631,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾综合,webview://https://swtvapp.swrtv.com/application/tvradio/h5/detail.html?type=tv&id=35
 云浮综合,webview://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
-云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 信宜综合,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
 开平综合,webview://https://web.guangdianyun.tv/tv/1434?uin=1132
@@ -794,7 +738,6 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 贺州综合,webview://http://www.gxhzxw.com/index.php/page-view-id-50
 百色综合,http://43.138.216.144/live/3d517b284178.m3u8
 百色综合,rtmp://live.gxrb.com.cn/tv/bstv_zh
-贵港存疑,https://play-a2.quklive.com/live/1763003796436099.m3u8
 贵港存疑,webview://https://bookingmaster.gxrb.com.cn/cloudgxLive/liveDetails/2832
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 来宾综合,webview://https://share-laibin.gxlbcloud.com/fhshare/#/live_detail?contentType=4&id=9
@@ -917,7 +860,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 长沙文旅,webview://https://web.guangdianyun.tv/tv/?id=3830&uin=1648
 长沙移动电视,webview://https://web.guangdianyun.tv/tv/?id=356&uin=1648
 长沙县综合,http://xsds.b.dingtoo.com/AppName/StreamName.m3u8
-长沙浏阳新闻综合,webview://https://web.guangdianyun.tv/tv/1788?uin=3275
+浏阳新闻综合,webview://https://web.guangdianyun.tv/tv/1788?uin=3275
 株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2053?uin=1366
 株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2134?uin=1366
 湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
@@ -946,7 +889,7 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 溆浦综合,webview://https://xupu-wap.rednet.cn/live/index.html?liveid=1916
 沅陵新闻综合,webview://https://www.ylxw.net/live/index.html?liveid=4860
 宜章新闻综合,webview://https://web.guangdianyun.tv/tv/3088?uin=4100
-资兴台,webview://https://zixing-wap.rednet.cn/live/index.html?liveid=2329
+资兴综合,webview://https://zixing-wap.rednet.cn/live/index.html?liveid=2329
 新田综合,webview://https://wap.nyxt.cn/live/index.html?liveid=3160
 茶陵综合,webview://https://wap.clnews.cn/live/index.html?liveid=1642
 云溪新闻综合,webview://http://wap.yxqnews.com/live/index.html?liveid=1603
@@ -966,8 +909,8 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_8e98cd.m3u8
 麻阳综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=38
 永兴新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=40
-双峰县新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=131
-古丈电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=144
+双峰综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=131
+古丈综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=144
 花垣综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=134
 吉首综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=143
 龙山综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail/#/tv?org_id=146
@@ -975,13 +918,13 @@ GRTN生活,webview://https://m.gdtv.cn/tvChannelDetail/102
 汝城新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=149
 桃源综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=157
 攸县新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=158
-沅江融媒,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=163
+沅江综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=163
 湘阴综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=165
 汨罗综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=166
 CCTV1综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=168
-城步电视,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=169
+城步综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=169
 新化综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=170
-新邵新闻综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=171
+新邵综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=171
 桂东融媒,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=174
 衡东综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=180
 绥宁综合,webview://https://xhncloud.voc.com.cn/portal/live/tvdetail#/tv?org_id=182
@@ -1371,12 +1314,8 @@ $石家庄
 信阳浉河,webview://https://www.xytv.cn/television/139.html
 信阳新闻综合,http://rtmp.xytv.cn/live/514f8a62d467.m3u8
 信阳文旅,http://rtmp.xytv.cn/live/118cfcf8c6df.m3u8
-信阳平桥,http://rtmp.xytv.cn/live/b998c92c650c.m3u8
-信阳浉河,http://rtmp.xytv.cn/live/8b28047c9e6f.m3u8
 信阳新闻综合,webview://https://wap.xytv.cn/share/page/tvLive/?tvid=1&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=4f6012673a674a07ba7380a6bfd99ee9
 信阳文旅,webview://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
-信阳平桥,webview://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
-信阳浉河,webview://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 南阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=142&uin=1081
 南阳科教,webview://https://web.guangdianyun.tv/tv/?id=296&uin=1081
 安阳新闻综合,webview://https://share.aynews.net.cn/share/page/tvLive/?tvid=1
@@ -1406,10 +1345,8 @@ $石家庄
 周口教育http://222.136.190.68:8081/live/2548854934748691151.m3u8
 
 驻马店新闻综合,https://p2hs.vzan.com/slowlive/856224149274600377/live.m3u8
-驻马店公共,https://p2hs.vzan.com/slowlive/692736859757132846/live.m3u8
 驻马店科教,https://p2hs.vzan.com/slowlive/321018633543177423/live.m3u8
 驻马店新闻综合,webview://https://kgkfpvvzb.vzan.com/live/page/1085533011?v=1745480237000
-驻马店公共,webview://https://kgkfpvvzb.vzan.com/live/page/1835926220?v=1745480323000
 驻马店科教,webview://https://kgkfpvvzb.vzan.com/live/page/1245953367?v=1745480345000
 
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
@@ -1686,7 +1623,7 @@ $石家庄
 滨州新闻综合,https://lmt.binzhouw.com:8443/live/ca5e9d9535ac.m3u8
 滨州民生,https://lmt.binzhouw.com:8443/live/2aeb23199bab.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
-烟台公共,http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a.m3u8
+烟台经济生活,http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a.m3u8
 茌平综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 茌平生活 ,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
 仁寿综合,https://play.scrstv.com.cn/TV/xwzh.m3u8?auth_key=1724660870-0-0-a245e661caf0188f84e8e486754a80ce
@@ -1896,8 +1833,8 @@ $石家庄
 曲阜综合,webview://https://iapp.jinriqufu.com/share/dHZsLTEzLTE.html
 任城新闻综合,webview://https://iapp.rcrmt.cn/share/dHZsLTczLTg.html
 任城影视娱乐,webview://https://iapp.rcrmt.cn/share/dHZsLTczLTk.html
-泗水新闻综合,webview://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
-泗水文化生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
+泗水综合,webview://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
+泗水生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
 汶上综合,webview://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
 鱼台综合,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html
 鱼台生活,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTE1.html
@@ -2931,10 +2868,8 @@ CCTV-1 综合,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
 祁门综合,http://channel.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 祁门综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 祁门综合,webview://http://www.qmxrmt.com/cms/content/1026918
-
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8
 潜山综合,webview://https://www.qsxw.gov.cn/tv_politics
-
 六安综合,webview://https://console.ahsx.ahtv.cn/web/cms/rmt0087_html/1/1sy/sx/dsds/104416.shtml
 淮北矿业综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北矿业综合,http://xcblive.hbcoal.com/3/playlist.m3u8
@@ -4988,188 +4923,3 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 Webview检测,webview://https://passer-by.com/browser
 IPV6检测,webview://https://ipv6ready.me/index.html.zh_CN
-北京,#genre#
-北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
-北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
-BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
-BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
-BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
-BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
-BRTV体育休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
-BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
-BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
-BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
-
-四川,#genre#
-成都新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
-成都经济资讯,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv2high%2FCDTV2High.flv%2Fplaylist.m3u8
-成都都市生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv3high%2FCDTV3High.flv%2Fplaylist.m3u8
-成都影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv4high%2FCDTV4High.flv%2Fplaylist.m3u8
-成都公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv5high%2FCDTV5High.flv%2Fplaylist.m3u8
-成都少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv6high%2FCDTV6High.flv%2Fplaylist.m3u8
-成都蓉城先锋,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fdangjiaohigh%2FdangjiaoHigh.flv%2Fplaylist.m3u8
-
-上海,#genre#
-东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
-上海新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
-新纪实,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
-魔都眼,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
-爱上海,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ash
-第一财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
-上海都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ds
-五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
-
-北京,#genre#
-北京卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
-北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws
-BRTV文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
-BRTV纪实科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjjs
-BRTV影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjys
-BRTV财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjcj
-BRTV体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjty
-BRTV生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjsh
-BRTV新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjxw
-BRTV卡酷少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjkk
-
-广东,#genre#
-深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
-深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
-深圳国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szgj
-深圳都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szds
-深圳电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szdsj
-深圳少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szse
-深圳移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szyd
-深圳宜和购物,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=yhgw
-广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
-广州新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=xinwen
-广州南国都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=shenghuo
-
-贵州,#genre#
-贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch01
-贵州公共,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch02
-贵州影视文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch03
-贵州大众生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch04
-贵州生态乡村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch05
-贵州科教健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch06
-贵州移动电视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/gz.js?id=ch13
-
-新疆,#genre#
-新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
-新疆维语新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjwyzh
-新疆哈语新闻综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjhyzh
-新疆综艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjzy
-新疆维语影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjwyys
-新疆体育健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjtyjk
-新疆少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjse
-
-浙江,#genre#
-浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
-浙江钱江都市,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
-浙江经济生活,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
-浙江教科影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
-浙江民生休闲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=06
-浙江新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
-浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
-浙江国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
-浙江好易购,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=11
-浙江之江纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
-
-海南,#genre#
-海南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=hnws
-三沙卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ssws
-海南新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=xwpd
-海南文旅,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=wlpd
-海南自贸,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=jjpd
-海南社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ggpd
-海南少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=sepd
-
-央视新闻app,#genre#
-CCTV-1 综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
-CCTV-2 财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv2
-CCTV-4 中文国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4
-CCTV-7 国防军事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv7
-CCTV-9 纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv9
-CCTV-10 科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv10
-CCTV-12 社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv12
-CCTV-13 新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv13
-CCTV-17 农业农村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
-CCTV4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4k
-
-央视,#genre#
-CCTV-1 综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
-CCTV-2 财经,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024075401&livepid=600001800&defn=fhd
-CCTV-3 综艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024068501&livepid=600001801&defn=fhd
-CCTV-4 中文国际,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078301&livepid=600001814&defn=fhd
-CCTV-5 体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078401&livepid=600001818&defn=fhd
-CCTV-5+ 体育赛事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078001&livepid=600001817&defn=fhd
-CCTV-6 电影,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2013693901&livepid=600108442&defn=fhd
-CCTV-7 国防军事,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024072001&livepid=600004092&defn=fhd
-CCTV-8 电视剧,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078501&livepid=600001803&defn=fhd
-CCTV-9 纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078601&livepid=600004078&defn=fhd
-CCTV-10 科教,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024078701&livepid=600001805&defn=fhd
-CCTV-11 戏曲,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248701&livepid=600001806&defn=fhd
-CCTV-12 社会与法,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248801&livepid=600001807&defn=fhd
-CCTV-13 新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024079001&livepid=600001811&defn=fhd
-CCTV-14 少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027248901&livepid=600001809&defn=fhd
-CCTV-15 音乐,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249001&livepid=600001815&defn=fhd
-CCTV-16 奥林匹克,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249101&livepid=600098637&defn=fhd
-CCTV-16 奥林匹克,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249301&livepid=600099502&defn=hdr
-CCTV-17 农业农村,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249401&livepid=600001810&defn=fhd
-CCTV-4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2027249501&livepid=600002264&defn=hdr
-CCTV-8K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026774101&livepid=600156816&defn=hdr
-CGTN,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181701&livepid=600014550&defn=fhd
-CGTN法语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181801&livepid=600084704&defn=fhd
-CGTN俄语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024181901&livepid=600084758&defn=fhd
-CGTN阿语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182001&livepid=600084782&defn=fhd
-CGTN西语,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182101&livepid=600084744&defn=fhd
-CGTN纪录,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024182301&livepid=600084781&defn=fhd
-CCTV第一剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874203&livepid=600099655&defn=fhd
-CCTV风云剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025637103&livepid=600099658&defn=fhd
-CCTV怀旧剧场,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874303&livepid=600099620&defn=fhd
-CCTV世界地理,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874403&livepid=600099637&defn=fhd
-CCTV风云音乐,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874503&livepid=600099660&defn=fhd
-CCTV兵器科技,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874603&livepid=600099649&defn=fhd
-CCTV风云足球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026966203&livepid=600099636&defn=fhd
-CCTV高尔夫·网球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874703&livepid=600099659&defn=fhd
-CCTV女性时尚,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874803&livepid=600099650&defn=fhd
-CCTV央视文化精品,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026874903&livepid=600099653&defn=fhd
-CCTV央视台球,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026875003&livepid=600099652&defn=fhd
-CCTV电视指南,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2026875103&livepid=600099656&defn=fhd
-CCTV卫生健康,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025637003&livepid=600099651&defn=fhd
-北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
-东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054503&livepid=600002483&defn=fhd
-江苏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171103&livepid=600002521&defn=fhd
-浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
-湖南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024054803&livepid=600002475&defn=fhd
-湖北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171203&livepid=600002508&defn=fhd
-广东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060903&livepid=600002485&defn=fhd
-广西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024060703&livepid=600002509&defn=fhd
-黑龙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061003&livepid=600002498&defn=fhd
-海南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024055603&livepid=600002506&defn=fhd
-重庆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
-CETV1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2022823801&livepid=600171827&defn=fhd
-深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061303&livepid=600002481&defn=fhd
-四川卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061403&livepid=600002516&defn=fhd
-河南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
-东南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061503&livepid=600002484&defn=fhd
-贵州卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
-江西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024061703&livepid=600002503&defn=fhd
-辽宁卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171303&livepid=600002505&defn=fhd
-安徽卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171403&livepid=600002532&defn=fhd
-河北卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
-山东卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2024171603&livepid=600002513&defn=fhd
-天津卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927003&livepid=600152137&defn=fhd
-陕西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
-内蒙古卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
-甘肃卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561703&livepid=600190408&defn=fhd
-宁夏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025608503&livepid=600190737&defn=fhd
-山西卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025560803&livepid=600190407&defn=fhd
-云南卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561303&livepid=600190402&defn=fhd
-吉林卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
-青海卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025559103&livepid=600190406&defn=fhd
-西藏卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
-新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2019927403&livepid=600152138&defn=fhd
-兵团卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2025990501&livepid=600193252&defn=fhd
-国学频道,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/ysp.js?cnlid=2029360403&livepid=600213139&defn=fhd
-
-
